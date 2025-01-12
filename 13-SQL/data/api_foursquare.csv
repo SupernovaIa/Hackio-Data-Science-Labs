@@ -1,0 +1,908 @@
+,municipio,category,fsq_id,closed_bucket,distance,link,name,address,latitude,longitude
+0,ajalvir,Park,4d3c6c5b84d46ea87dddfd5c,LikelyOpen,563.0,/v3/places/4d3c6c5b84d46ea87dddfd5c,Diverjungla,"Calle Segovia, 20 (Pol. Ind. Donada), 28864 Ajalvir Comunidad de Madrid",40.529921,-3.484341
+1,ajalvir,Park,4f54f7bfe4b036244d02685b,VeryLikelyOpen,1724.0,/v3/places/4f54f7bfe4b036244d02685b,Parque Infantil,,40.543867,-3.464773
+2,ajalvir,Park,7d4ef99ca2dd4789f032a90c,LikelyOpen,333.0,/v3/places/7d4ef99ca2dd4789f032a90c,Chiquitin,Ajalvir Madrid,40.531662,-3.482835
+3,alamo-el,Park,53de1144498e8fd8d8cb3537,LikelyOpen,118.0,/v3/places/53de1144498e8fd8d8cb3537,Isla Perejil,28607 El Alamo Comunidad de Madrid,40.230993,-3.991942
+4,alamo-el,Park,51a8f451498ecb8334de37df,LikelyOpen,582.0,/v3/places/51a8f451498ecb8334de37df,Parque de Madera,,40.234636,-3.995166
+5,alcala-de-henares,Park,4d9dd4135c33a35de83d0aa1,VeryLikelyOpen,593.0,/v3/places/4d9dd4135c33a35de83d0aa1,Parque O'Donnell,"Calle de Luis de Astrana Marín, 8, 28807 Alcalá de Henares Comunidad de Madrid",40.485077,-3.370226
+6,alcala-de-henares,Park,4e8cb283f790e886adb6b2d1,VeryLikelyOpen,326.0,/v3/places/4e8cb283f790e886adb6b2d1,Parque del Louisi,Alcalá de Henares Comunidad de Madrid,40.478976,-3.363647
+7,alcala-de-henares,Park,6346c5fc0adbe04470eb1b9e,VeryLikelyOpen,392.0,/v3/places/6346c5fc0adbe04470eb1b9e,Parque Infantil,28801 Alcalá de Henares Comunidad de Madrid,40.479732,-3.368221
+8,alcala-de-henares,Park,4e73992152b145ffbfa4b2d7,LikelyOpen,515.0,/v3/places/4e73992152b145ffbfa4b2d7,Parque Salvador de Madariaga,Alcalá de Henares Comunidad de Madrid,40.483588,-3.35885
+9,alcala-de-henares,Park,4cdd7134d5495481a27047b2,LikelyOpen,518.0,/v3/places/4cdd7134d5495481a27047b2,Parque de Sementales,"Ronda Fiscal, 28804 Alcalá de Henares Comunidad de Madrid",40.477219,-3.363631
+10,alcala-de-henares,Park,51c5d2c7498e7b1ee63cbaed,VeryLikelyOpen,1531.0,/v3/places/51c5d2c7498e7b1ee63cbaed,Parque del Camarmilla,28806 Alcalá de Henares Comunidad de Madrid,40.489338,-3.379427
+11,alcala-de-henares,Park,4e0775e51838eb15af01c1cc,VeryLikelyOpen,600.0,/v3/places/4e0775e51838eb15af01c1cc,Parque Isla del Colegio,Alcalá de Henares Comunidad de Madrid,40.47753,-3.36021
+12,alcala-de-henares,Park,314a53383ee34eeb3de00fab,LikelyOpen,711.0,/v3/places/314a53383ee34eeb3de00fab,Ermita de San Isidro (Alcalá de Henares),28805 Alcalá de Henares Comunidad de Madrid,40.488094,-3.360983
+13,alcala-de-henares,Park,4d2da1b012d16a31ed5b2c22,LikelyOpen,726.0,/v3/places/4d2da1b012d16a31ed5b2c22,Parque San Isidro,28800 Alcalá de Henares Comunidad de Madrid,40.487883,-3.361226
+14,alcala-de-henares,Park,51122b89e4b02280b86690f4,LikelyOpen,768.0,/v3/places/51122b89e4b02280b86690f4,Parque el Silo,,40.48726,-3.370137
+15,alcala-de-henares,Park,4cdbaabc5aeda1cd1652be11,LikelyOpen,792.0,/v3/places/4cdbaabc5aeda1cd1652be11,Parque de Sementales,Madrid,40.474705,-3.364397
+16,alcala-de-henares,Park,4ec542c90aaf9233edc1253d,VeryLikelyOpen,873.0,/v3/places/4ec542c90aaf9233edc1253d,Parque de los Tubos,Alcalá de Henares Comunidad de Madrid,40.489014,-3.360285
+17,alcala-de-henares,Park,4f1ddf34e4b0c7ea6a7ceebb,LikelyOpen,956.0,/v3/places/4f1ddf34e4b0c7ea6a7ceebb,Parque del Medio,28803 Alcalá de Henares Comunidad de Madrid,40.473246,-3.365172
+18,alcala-de-henares,Park,4fe11f32e4b070217abd91a8,LikelyOpen,967.0,/v3/places/4fe11f32e4b070217abd91a8,Parque de la Hera,,40.473476,-3.367675
+19,alcala-de-henares,Park,4e77051dd4c093447292be2a,LikelyOpen,998.0,/v3/places/4e77051dd4c093447292be2a,Plaza de la Villa de Talence,"C/ Pablo De Olavide, 28804 Alcalá de Henares Comunidad de Madrid",40.485978,-3.354006
+20,alcala-de-henares,Park,50e5b9dae4b03cb7f42b35e3,VeryLikelyOpen,1008.0,/v3/places/50e5b9dae4b03cb7f42b35e3,Paseo de los Pinos,Alcalá de Henares Comunidad de Madrid,40.487566,-3.373756
+21,alcala-de-henares,Park,4f1b3b8be4b05c50e26be096,LikelyOpen,1048.0,/v3/places/4f1b3b8be4b05c50e26be096,Parque Tierno Galvan,Alcalá de Henares Comunidad de Madrid,40.473131,-3.369276
+22,alcala-de-henares,Park,50559496e4b0c21074e5a591,LikelyOpen,1166.0,/v3/places/50559496e4b0c21074e5a591,Parque junto a IES Antonio Machado,"C. Villalbilla, 28806 Alcalá de Henares Comunidad de Madrid",40.491908,-3.368385
+23,alcala-de-henares,Park,4f5a352ae4b0db6b5b6b6e6c,Unsure,1214.0,/v3/places/4f5a352ae4b0db6b5b6b6e6c,La Cruz,Valencia,40.491891,-3.370152
+24,alcala-de-henares,Park,4fd9067ce4b01007e991526f,Unsure,1244.0,/v3/places/4fd9067ce4b01007e991526f,Las Boyeras,Alcalá de Henares Comunidad de Madrid,40.471327,-3.369585
+25,alcala-de-henares,Park,4d4ea33923a76dcb8bba61dc,VeryLikelyOpen,1272.0,/v3/places/4d4ea33923a76dcb8bba61dc,Area de Juegos Complutum,Alcalá de Henares Comunidad de Madrid,40.493124,-3.361898
+26,alcala-de-henares,Park,4bbe466a4e9cd13a4bded92c,LikelyOpen,1275.0,/v3/places/4bbe466a4e9cd13a4bded92c,Parque los Gatos,"C/ Alicante, 28804 Alcalá de Henares Comunidad de Madrid",40.485633,-3.350252
+27,alcala-de-henares,Park,4e444343d22de4060ef3a8a3,LikelyOpen,1316.0,/v3/places/4e444343d22de4060ef3a8a3,Parque de los Nogales,Nogales Comunidad de Madrid,40.492901,-3.358933
+28,alcala-de-henares,Park,4fcd0a9ae4b02808058e999f,LikelyOpen,1331.0,/v3/places/4fcd0a9ae4b02808058e999f,Plaza del Barro,Barro,40.474195,-3.376624
+29,alcala-de-henares,Park,507a82fce4b0801689445c90,LikelyOpen,1389.0,/v3/places/507a82fce4b0801689445c90,Parque junto a CEIP Antonio de Nebrija,"C/ San Ignacio de Loyola, 28806 Alcalá de Henares Comunidad de Madrid",40.492208,-3.373689
+30,alcala-de-henares,Park,561a9bd8498ea95ebfd28b1c,VeryLikelyOpen,1486.0,/v3/places/561a9bd8498ea95ebfd28b1c,Parque de las farolas,,40.488078,-3.380041
+31,alcala-de-henares,Park,4d9b51da5e52224b967640e3,LikelyOpen,1535.0,/v3/places/4d9b51da5e52224b967640e3,Parque Miguel de Unamuno,"Avenida de Miguel de Unamuno, 81, 28805 Alcalá de Henares Comunidad de Madrid",40.495439,-3.361294
+32,alcala-de-henares,Park,4e80c4ef6c2589140fc57039,LikelyOpen,1545.0,/v3/places/4e80c4ef6c2589140fc57039,Arboreto Reyes Católicos,Alcalá de Henares Comunidad de Madrid,40.473953,-3.379558
+33,alcala-de-henares,Park,4bc6261bdb8fa59352d99b37,Unsure,1567.0,/v3/places/4bc6261bdb8fa59352d99b37,Parque Islas Filipinas,"Calle de Santander (Avenida Lope de Figueroa), 28804 Alcalá de Henares Comunidad de Madrid",40.488015,-3.347935
+34,alcala-de-henares,Park,4ddd21c0ae60d6fc159c3ec4,LikelyOpen,1642.0,/v3/places/4ddd21c0ae60d6fc159c3ec4,El Jardin del Parnaso,"C/ Bertolt Brecht, 28806 Alcalá de Henares Comunidad de Madrid",40.496231,-3.368913
+35,alcala-de-henares,Park,4e99c5f7e5fa3f633ce6b9c4,LikelyOpen,1803.0,/v3/places/4e99c5f7e5fa3f633ce6b9c4,Parque Infantil,,40.495352,-3.376328
+36,alcala-de-henares,Park,5043c451e4b053a532950fea,LikelyOpen,1810.0,/v3/places/5043c451e4b053a532950fea,Parque junto a Parking,"C/ Luis Rosales, 28006 Alcalá de Henares Comunidad de Madrid",40.495488,-3.376194
+37,alcala-de-henares,Park,f5473808045e4d28c7008839,LikelyOpen,1817.0,/v3/places/f5473808045e4d28c7008839,El Mundo de Pik,"Carretera de Daganzo, Km 2, 28806 Alcalá de Henares Comunidad de Madrid",40.492975,-3.380249
+38,alcala-de-henares,Park,51eac228498ef79bc92359c5,LikelyOpen,1828.0,/v3/places/51eac228498ef79bc92359c5,Parque junto a IES Doctor Marañón,Marañón,40.495824,-3.375898
+39,alcala-de-henares,Park,4ec8e71830f8b09c0da84061,VeryLikelyOpen,1867.0,/v3/places/4ec8e71830f8b09c0da84061,Parque de los Cerros,,40.466554,-3.355329
+40,alcala-de-henares,Park,4f8f3333e4b0dcea364b18a5,LikelyOpen,1880.0,/v3/places/4f8f3333e4b0dcea364b18a5,Parque Andalucia,,40.487195,-3.343389
+41,alcala-de-henares,Park,bd9c47d0e3414ac8a24a9d8a,Unsure,897.0,/v3/places/bd9c47d0e3414ac8a24a9d8a,Plaza de la Juventud,Alcalá de Henares Madrid,40.481597,-3.353885
+42,alcala-de-henares,Monument,5cf28719471d6e002cea086c,VeryLikelyOpen,66.0,/v3/places/5cf28719471d6e002cea086c,Monumento de Cervantes,28801 Alcalá de Henares Comunidad de Madrid,40.482409,-3.364249
+43,alcala-de-henares,Monument,4ea8583dbe7b572daaf511f6,LikelyOpen,99.0,/v3/places/4ea8583dbe7b572daaf511f6,Capilla del Oidor,"Plaza Cervantes, 0, 28801 Alcalá de Henares Comunidad de Madrid",40.481471,-3.363425
+44,alcala-de-henares,Monument,5241fe7e498e0391853428d9,VeryLikelyOpen,120.0,/v3/places/5241fe7e498e0391853428d9,Capilla de San Ildefonso,"Plaza de San Diego (Pedro Gumiel), 28801 Alcalá de Henares Comunidad de Madrid",40.48235,-3.363433
+45,alcala-de-henares,Monument,f88eb960d3a04c122ae37cef,LikelyOpen,376.0,/v3/places/f88eb960d3a04c122ae37cef,Oratorio de San Felipe Neri,"Calle San Felipe Neri, 4, 28801 Alcalá de Henares Comunidad de Madrid",40.481623,-3.368945
+46,alcala-de-henares,Monument,3a56ae6ddd6d49ffa16b0649,VeryLikelyOpen,398.0,/v3/places/3a56ae6ddd6d49ffa16b0649,Catedral Magistral de Alcala de Henares,"Plaza de los Santos Niños, s/n, 28801 Alcalá de Henares Comunidad de Madrid",40.480722,-3.369099
+47,alcala-de-henares,Monument,4f3fcbb5e4b0bc95af8d1489,VeryLikelyOpen,496.0,/v3/places/4f3fcbb5e4b0bc95af8d1489,Estatua Quijote,Alcalá de Henares Comunidad de Madrid,40.486054,-3.362542
+48,alcala-de-henares,Monument,d9041734492346311f2c6c13,LikelyOpen,668.0,/v3/places/d9041734492346311f2c6c13,Palacio Laredo,"Paseo de la Estacion, 10, 28807 Alcalá de Henares Comunidad de Madrid",40.487841,-3.363999
+49,alcala-de-henares,Monument,d52b434e8a2a45967eb0fcab,LikelyOpen,12.0,/v3/places/d52b434e8a2a45967eb0fcab,Casa Consistorial de Alcalá de Henares,"Plaza de Cervantes, 12, 28801 Alcalá de Henares Madrid",40.481808,-3.364352
+50,alcala-de-henares,Monument,d7f723ab2a8a4076ed4315d6,LikelyOpen,123.0,/v3/places/d7f723ab2a8a4076ed4315d6,Ludo y Sofía,"Calle Santa Úrsula, 7, 28801 Alcalá de Henares Madrid",40.481005,-3.365459
+51,alcala-de-henares,Monument,16b8df548af04f16506bb2db,LikelyOpen,264.0,/v3/places/16b8df548af04f16506bb2db,Convento de la Imagen,28801 Alcalá de Henares Madrid,40.482597,-3.367458
+52,alcala-de-henares,Monument,9d866cc87d374d9f58f4dc33,LikelyOpen,356.0,/v3/places/9d866cc87d374d9f58f4dc33,Convento de San Juan de la Penitencia,"Calle Santiago, N, 3, 28801 Alcalá de Henares Madrid",40.482736,-3.368547
+53,alcala-de-henares,Monument,5b44203ee5294377d7ee3a9a,LikelyOpen,372.0,/v3/places/5b44203ee5294377d7ee3a9a,Palacio Arzobispal de Alcalá de Henares,Alcalá de Henares Madrid,40.4824,-3.368843
+54,alcala-de-henares,Monument,e9142be40e4e452009f0959a,LikelyOpen,414.0,/v3/places/e9142be40e4e452009f0959a,Convento del Corpus Christi,28801 Alcalá de Henares Madrid,40.482016,-3.359597
+55,alcala-de-henares,Monument,19b01eccf709404725fd7102,Unsure,1066.0,/v3/places/19b01eccf709404725fd7102,Murrallas de la Ciudad,Alcalá de Henares Madrid,40.488875,-3.355907
+56,alcala-de-henares,Monument,02c770b3d0c54cbfc2190079,Unsure,1548.0,/v3/places/02c770b3d0c54cbfc2190079,Centro Comercial Alcalá Atenea,Alcalá de Henares Madrid,40.468185,-3.368171
+57,alcobendas,Park,4bf6ab0d004ed13a9bd842a0,VeryLikelyOpen,739.0,/v3/places/4bf6ab0d004ed13a9bd842a0,Parque Temático del Barco Pirata,Alcobendas Comunidad de Madrid,40.536798,-3.628183
+58,alcobendas,Park,4bc0a91d4cdfc9b6dc2f9321,VeryLikelyOpen,555.0,/v3/places/4bc0a91d4cdfc9b6dc2f9321,Jardín de la Vega,"Avenida Olímpica Con Una Superficie de 180.000, 28108 Alcobendas Comunidad de Madrid",40.536178,-3.631666
+59,alcobendas,Park,4bd1e9c4462cb713df2adb07,LikelyOpen,888.0,/v3/places/4bd1e9c4462cb713df2adb07,Parque de Andalucía,28100 Alcobendas Comunidad de Madrid,40.539522,-3.646352
+60,alcobendas,Park,4bdbf36663c5c9b6ad0f2a68,VeryLikelyOpen,1921.0,/v3/places/4bdbf36663c5c9b6ad0f2a68,Parque Temático del Hormiguero,Alcobendas Comunidad de Madrid,40.543703,-3.65808
+61,alcobendas,Park,4c797b7493ef236a27c8af0f,LikelyOpen,1747.0,/v3/places/4c797b7493ef236a27c8af0f,Parque de la Marina,28703 San Sebastián de los Reyes Comunidad de Madrid,40.553699,-3.627469
+62,alcobendas,Park,4d541f65d4a6721ebfe291ac,LikelyOpen,379.0,/v3/places/4d541f65d4a6721ebfe291ac,Parque,"Calle de Ramón Esteban, 30, 28701 Alcobendas Comunidad de Madrid",40.539004,-3.63162
+63,alcobendas,Park,4db66a4e4b226b343db4408d,LikelyOpen,112.0,/v3/places/4db66a4e4b226b343db4408d,Parque de la Artesanía,"Calle de Ramón Fernández Guisasola, 22, 28100 Alcobendas Comunidad de Madrid",40.540983,-3.636226
+64,alcobendas,Park,50005379e4b0d0c03f9c1212,VeryLikelyOpen,397.0,/v3/places/50005379e4b0d0c03f9c1212,Parque Victimas del Terrorismo,Comunidad de Madrid,40.537022,-3.638439
+65,alcobendas,Park,4fb8c015e4b018d6ec5aa9f3,LikelyOpen,454.0,/v3/places/4fb8c015e4b018d6ec5aa9f3,Parque de Murcia,Alcobendas Comunidad de Madrid,40.539345,-3.630479
+66,alcobendas,Park,4f907c3fbe77acb15eed2bd4,LikelyOpen,497.0,/v3/places/4f907c3fbe77acb15eed2bd4,Área Canina Parque Arroyo de la Vega,"Av. de la Ermita, 28100 Alcobendas Comunidad de Madrid",40.535582,-3.634985
+67,alcobendas,Park,4f96a921e5e8d28602a214f6,LikelyOpen,541.0,/v3/places/4f96a921e5e8d28602a214f6,Área Canina Parque Víctimas del Terrorismo,"c/ Pintor Velázquez, 28100 Alcobendas Comunidad de Madrid",40.53613,-3.639737
+68,alcobendas,Park,5220f28c11d2303d8df78500,LikelyOpen,591.0,/v3/places/5220f28c11d2303d8df78500,Parque Comunidad de Madrid,Comunidad de Madrid,40.54536,-3.638054
+69,alcobendas,Park,4f908136be77acb15eedb0e0,LikelyOpen,610.0,/v3/places/4f908136be77acb15eedb0e0,Área Canina Parque Comunidad de Madrid,"c/ Jarama, 28100 Alcobendas Comunidad de Madrid",40.545246,-3.638026
+70,alcobendas,Park,4f9144ef121d1e2a7d9039f1,Unsure,616.0,/v3/places/4f9144ef121d1e2a7d9039f1,Parque de Valencia,"Avenida de España, s/n (c/ Bachiller Alonso López), 28100 Alcobendas Comunidad de Madrid",40.544589,-3.632399
+71,alcobendas,Park,4c6bbde2599fbe9ad644933f,LikelyOpen,629.0,/v3/places/4c6bbde2599fbe9ad644933f,Parque Camilo Cienfuegos,"Jarama, Alcobendas Comunidad de Madrid",40.545458,-3.637783
+72,alcobendas,Park,4f905487be77b06bd1a34aed,Unsure,729.0,/v3/places/4f905487be77b06bd1a34aed,Área canina Parque Andalucía,"Pintor Murillo, 14, 28100 Alcobendas Comunidad de Madrid",40.539328,-3.644441
+73,alcobendas,Park,4dbc68981e72b351cab26468,VeryLikelyOpen,766.0,/v3/places/4dbc68981e72b351cab26468,Parque de la universidad,28100 Alcobendas Comunidad de Madrid,40.542205,-3.644451
+74,alcobendas,Park,71eaa141ffd24d8a58e47783,LikelyOpen,789.0,/v3/places/71eaa141ffd24d8a58e47783,Colorin,"Sacramento, 3, 28701 San Sebastián de los Reyes Comunidad de Madrid",40.544654,-3.628691
+75,alcobendas,Park,4f96a2cbe5e8d28602a157a2,LikelyOpen,965.0,/v3/places/4f96a2cbe5e8d28602a157a2,Área Canina Parque de Navarra,"Calle Marqués de la Valdavia, 90, 28100 Alcobendas Comunidad de Madrid",40.545175,-3.645034
+76,alcobendas,Park,4f907117be77b06bd1a6c0c0,LikelyOpen,969.0,/v3/places/4f907117be77b06bd1a6c0c0,Área Canina Parque Navarra,"Calle Marqués de la Valdavia, 90 (Av. de España), 28100 Alcobendas Comunidad de Madrid",40.5453,-3.644981
+77,alcobendas,Park,4dbfc8b881545e1cc7d526d0,LikelyOpen,977.0,/v3/places/4dbfc8b881545e1cc7d526d0,Parque navarra,28100 Alcobendas Comunidad de Madrid,40.545077,-3.645306
+78,alcobendas,Park,4fad04db6d866e7143cb70fc,VeryLikelyOpen,997.0,/v3/places/4fad04db6d866e7143cb70fc,Recinto Ferial Alcobendas,"Huelva, s/n (Parque de Andalucía), 28100 Alcobendas Comunidad de Madrid",40.541593,-3.64747
+79,alcobendas,Park,4f96a5e6e5e8d28602a1b3c8,LikelyOpen,1051.0,/v3/places/4f96a5e6e5e8d28602a1b3c8,Área Canina Parque Castilla la Mancha,"c/ Pintor Murillo, 28100 Alcobendas Comunidad de Madrid",40.5418,-3.648073
+80,alcobendas,Park,51f8018a498eb166c4309500,LikelyOpen,1169.0,/v3/places/51f8018a498eb166c4309500,Parque de las Sombras,San Sebastián de los Reyes Comunidad de Madrid,40.550475,-3.634356
+81,alcobendas,Park,4bf907255ec320a179a189d3,VeryLikelyOpen,1186.0,/v3/places/4bf907255ec320a179a189d3,Parque de la Petunia,,40.529331,-3.63556
+82,alcobendas,Park,5124a448e4b07a4d95ecf39b,LikelyOpen,1225.0,/v3/places/5124a448e4b07a4d95ecf39b,Área Canina Parque Temático Hormiguero,"Av. Valdelaparra, 28100 Alcobendas Comunidad de Madrid",40.542647,-3.649938
+83,alcobendas,Park,4ffef79345b0986b7d3c23c0,LikelyOpen,1238.0,/v3/places/4ffef79345b0986b7d3c23c0,Área Canina Polideportivo,"C. Teresa Perales, 28100 Alcobendas Comunidad de Madrid",40.538189,-3.621384
+84,alcobendas,Park,4fd38676e4b0a071e1407b64,LikelyOpen,1320.0,/v3/places/4fd38676e4b0a071e1407b64,Parque Infantil,,40.538756,-3.620301
+85,alcobendas,Park,4fff4df9d63e295d76b70bad,LikelyOpen,1407.0,/v3/places/4fff4df9d63e295d76b70bad,Área Canina Av. Ramón y Cajal,28700 San Sebastián de los Reyes Comunidad de Madrid,40.543967,-3.620011
+86,alcobendas,Park,4d46caec4e5d37046a830594,LikelyOpen,1450.0,/v3/places/4d46caec4e5d37046a830594,Parque de Castilla-La Mancha,Comunidad de Madrid,40.545937,-3.651154
+87,alcobendas,Park,518298c1498e95fa18df54cc,LikelyOpen,1451.0,/v3/places/518298c1498e95fa18df54cc,Parque Begonia Soto Moraleja,Moraleja Comunidad de Madrid,40.527404,-3.640362
+88,alcobendas,Park,51657ff3e4b01528d3dfe055,Unsure,1561.0,/v3/places/51657ff3e4b01528d3dfe055,Chafalladas,"Calle Marqués de la Valdavia, 101, 28100 Alcobendas Comunidad de Madrid",40.546288,-3.652386
+89,alcobendas,Park,4ed62f6630f813e77a9cdb77,LikelyOpen,1591.0,/v3/places/4ed62f6630f813e77a9cdb77,Yonkis Park,,40.533665,-3.65274
+90,alcobendas,Park,50afbf63e4b04cb0a19bc1ad,LikelyOpen,1592.0,/v3/places/50afbf63e4b04cb0a19bc1ad,Club de Ajedrez V Centenario,San Sebastián de los Reyes Comunidad de Madrid,40.554072,-3.63222
+91,alcobendas,Park,4e70e96589987b9ce529a395,Unsure,1610.0,/v3/places/4e70e96589987b9ce529a395,Parque de Extremadura,Alcobendas Comunidad de Madrid,40.552423,-3.644882
+92,alcobendas,Park,4f75cbdae4b0dbc5b645d1bb,LikelyOpen,1615.0,/v3/places/4f75cbdae4b0dbc5b645d1bb,Parque Infantil y Ping Pong,"Maestro Luna, s/n, 28100 Alcobendas Comunidad de Madrid",40.553534,-3.642877
+93,alcobendas,Park,51fcc630498eb5bc3d81cb09,LikelyOpen,1650.0,/v3/places/51fcc630498eb5bc3d81cb09,Area de Ejercicios Para Mayores,,40.54371,-3.65478
+94,alcobendas,Park,50744637e4b0b56e98ce9c64,LikelyOpen,1669.0,/v3/places/50744637e4b0b56e98ce9c64,Cerro del Tambor,Cerro,40.554497,-3.641089
+95,alcobendas,Park,4c8285ced8086dcb7e597752,VeryLikelyOpen,1684.0,/v3/places/4c8285ced8086dcb7e597752,Parque del Zoco las Pirámides,Madrid,40.554359,-3.629414
+96,alcobendas,Park,d1ef5c9d9ee743eaeee09056,LikelyOpen,1684.0,/v3/places/d1ef5c9d9ee743eaeee09056,La Marina,"Avenida Cataluña, 4 Bajo, 28703 San Sebastián de los Reyes Comunidad de Madrid",40.553633,-3.627114
+97,alcobendas,Park,4befc98ec601a593c1fcc2d1,LikelyOpen,1714.0,/v3/places/4befc98ec601a593c1fcc2d1,Parque Av Valdelasfuentes,San Sebastián de los Reyes Comunidad de Madrid,40.554841,-3.641558
+98,alcobendas,Park,4f907990be77b06bd1a7a4d1,LikelyOpen,1718.0,/v3/places/4f907990be77b06bd1a7a4d1,Área Canina Parque de Galicia,"c/ Camilo José Cela, 28100 Alcobendas Comunidad de Madrid",40.542364,-3.655962
+99,alcobendas,Park,4ce386332407a1cdc8974ed0,VeryLikelyOpen,1829.0,/v3/places/4ce386332407a1cdc8974ed0,Parque del Soto de la Moraleja,28108 Alcobendas Comunidad de Madrid,40.524229,-3.642011
+100,alcobendas,Park,4e627b872271573ad7a3b882,Unsure,1845.0,/v3/places/4e627b872271573ad7a3b882,Área Canina Valdelasfuentes,"Carlos Muñoz Ruíz, 28100 Alcobendas Comunidad de Madrid",40.549492,-3.653791
+101,alcobendas,Park,4ee4d4e9c2eee7f357b112f8,VeryLikelyOpen,1887.0,/v3/places/4ee4d4e9c2eee7f357b112f8,Parque arroyo Valconejero,"Paseo Albacete, s/n, 28701 San Sebastián de los Reyes Comunidad de Madrid",40.556012,-3.643209
+102,alcobendas,Park,4bf01e2dc8d920a1526f9430,VeryLikelyOpen,1949.0,/v3/places/4bf01e2dc8d920a1526f9430,Parque Temático del Espacio,"Dolores Ibarruri, 28100 Alcobendas Comunidad de Madrid",40.551858,-3.652867
+103,alcobendas,Park,56e4a6cc498ed68a8f79ee77,VeryLikelyOpen,1971.0,/v3/places/56e4a6cc498ed68a8f79ee77,Parque Temático Poblado del Oeste,28100 Alcobendas Comunidad de Madrid,40.547363,-3.657146
+104,alcobendas,Park,26daa0ca8eaf4c1b6f4be56c,LikelyOpen,497.0,/v3/places/26daa0ca8eaf4c1b6f4be56c,Parque de Félix Rodríguez de la Fuente,Alcobendas Madrid,40.544395,-3.637006
+105,alcobendas,Park,55ce39199ddf4873cb4ae0e6,LikelyOpen,1348.0,/v3/places/55ce39199ddf4873cb4ae0e6,Parque de las Cepas,Madrid,40.550344,-3.644228
+106,alcobendas,Park,50caf509fa074232ca9612e5,Unsure,1625.0,/v3/places/50caf509fa074232ca9612e5,Parque de la Marina,28700  Madrid,40.553172,-3.627463
+107,alcobendas,Monument,8effe272b7db4257c6b75538,LikelyOpen,981.0,/v3/places/8effe272b7db4257c6b75538,Parroquia de Nuestra Señora de la Moraleja,"Calle de Nardo, 44, 28108 Alcobendas Madrid",40.53118,-3.635774
+108,alcobendas,Monument,7d742596086641dbc1b7eb92,Unsure,1396.0,/v3/places/7d742596086641dbc1b7eb92,Monumento a los Reyes Católicos,"Calle de San Onofre, San Sebastián de los Reyes Madrid",40.551389,-3.628831
+109,alcobendas,TV Station,5375f3f4498e3437caae76f7,LikelyOpen,766.0,/v3/places/5375f3f4498e3437caae76f7,Digi24,"Calle de Anabel Segura, 14, Alcobendas Comunidad de Madrid",40.533977,-3.631447
+110,alcorcon,Park,4dee0a5e1520454e63d247cf,LikelyOpen,925.0,/v3/places/4dee0a5e1520454e63d247cf,Parque Ciudad de Mayarí,28922 Alcorcón Comunidad de Madrid,40.351753,-3.837029
+111,alcorcon,Park,4c25d189a852c928be85e56c,LikelyOpen,1857.0,/v3/places/4c25d189a852c928be85e56c,Parque de los Castillos,"C/ de los Lirios, Alcorcón Comunidad de Madrid",40.353488,-3.807221
+112,alcorcon,Park,4cc86f6c3c40a35d47c9742e,VeryLikelyOpen,1100.0,/v3/places/4cc86f6c3c40a35d47c9742e,La Ribota Park (Parque de La Ribota),Alcorcón Comunidad de Madrid,40.339584,-3.830956
+113,alcorcon,Park,4cc6e4b101fb236af4bab9ba,VeryLikelyOpen,719.0,/v3/places/4cc6e4b101fb236af4bab9ba,Parque las Comunidades,"CL Pablo Iglesias, 28922 Alcorcón Comunidad de Madrid",40.343556,-3.832352
+114,alcorcon,Park,51e9e4be498e0fc0c3d1120c,LikelyOpen,480.0,/v3/places/51e9e4be498e0fc0c3d1120c,Parque del Brasil,,40.348545,-3.822839
+115,alcorcon,Park,4db4f1890437fa536a36d6b7,LikelyOpen,583.0,/v3/places/4db4f1890437fa536a36d6b7,Parque San Petas,"Calle Cisneros, 28922 Alcorcón Comunidad de Madrid",40.344491,-3.831195
+116,alcorcon,Park,4f535cfae4b07de37c8d709f,LikelyOpen,782.0,/v3/places/4f535cfae4b07de37c8d709f,Parque Buero Vallejo,"Los Robles, 28922 Alcorcón Comunidad de Madrid",40.345622,-3.836307
+117,alcorcon,Park,299bd266d531412c1a4ce7f8,LikelyOpen,848.0,/v3/places/299bd266d531412c1a4ce7f8,Piko Park,"Calle Valladolid, 13, 28922 Alcorcón Comunidad de Madrid",40.341669,-3.828782
+118,alcorcon,Park,56fc5650498ea26e37aec4f8,LikelyOpen,852.0,/v3/places/56fc5650498ea26e37aec4f8,Parque Infantil,"Calle Polvoranca, Alcorcón Comunidad de Madrid",40.343519,-3.821808
+119,alcorcon,Park,5193daef498e0126e66954e9,VeryLikelyOpen,981.0,/v3/places/5193daef498e0126e66954e9,Zona de Ocio Infantil C. C Tres Aguas,"Avenida Américas, 7 (C. C. Tres Aguas), Alcorcón Comunidad de Madrid",40.357766,-3.831753
+120,alcorcon,Park,4f735388e4b02c6aef3f1f8d,LikelyOpen,1047.0,/v3/places/4f735388e4b02c6aef3f1f8d,Parque Infantil Recinto Ferial,,40.3407,-3.823373
+121,alcorcon,Park,4f1c7139754a4cd5a26b7f8e,LikelyOpen,1216.0,/v3/places/4f1c7139754a4cd5a26b7f8e,Parque de la Escuela de Música,"Alcalde José Aranda, Alcorcón Comunidad de Madrid",40.352284,-3.814613
+122,alcorcon,Park,5131c2dbe4b0835c5fdc5463,LikelyOpen,1319.0,/v3/places/5131c2dbe4b0835c5fdc5463,Parque de las Luces,,40.338607,-3.835191
+123,alcorcon,Park,4f0486c4b8f7f476a54e5928,LikelyOpen,1374.0,/v3/places/4f0486c4b8f7f476a54e5928,Parque de gama,Comunidad de Madrid,40.348456,-3.81224
+124,alcorcon,Park,4e4bd56dd4c0ae552d86e931,LikelyOpen,1418.0,/v3/places/4e4bd56dd4c0ae552d86e931,Plaza de la Constitucion,,40.355643,-3.812975
+125,alcorcon,Park,4db4040c81543d71da3cc224,LikelyOpen,1460.0,/v3/places/4db4040c81543d71da3cc224,Parque de la República,Alcorcón Comunidad de Madrid,40.337376,-3.82117
+126,alcorcon,Park,50c077dfe4b0b88cce0fccd5,LikelyOpen,1499.0,/v3/places/50c077dfe4b0b88cce0fccd5,Parque,Juan Ramón Jiménez,40.336563,-3.834288
+127,alcorcon,Park,4d49597a4509721eda2823b0,VeryLikelyOpen,1712.0,/v3/places/4d49597a4509721eda2823b0,Parque Alfredo Nobel,28922 Alcorcón Comunidad de Madrid,40.334705,-3.834913
+128,alcorcon,Park,4f10b47ce4b0f2c21093bdc7,VeryLikelyOpen,1938.0,/v3/places/4f10b47ce4b0f2c21093bdc7,Parque Darwin,Alcorcón Comunidad de Madrid,40.332476,-3.83447
+129,alcorcon,Park,1068685a11c5431fceec79d9,LikelyOpen,1528.0,/v3/places/1068685a11c5431fceec79d9,Parque de Urtinsa,Alcorcón Madrid,40.337747,-3.818643
+130,alcorcon,Park,089266d6cb944537ed01848e,LikelyOpen,1536.0,/v3/places/089266d6cb944537ed01848e,Parque de la República,Alcorcón Madrid,40.336106,-3.823003
+131,algete,Park,52d17ea5498e8d8980108104,LikelyOpen,200.0,/v3/places/52d17ea5498e8d8980108104,África Park,Algete Comunidad de Madrid,40.595217,-3.499263
+132,algete,Park,4e82f2a8722e93408a930f0d,LikelyOpen,265.0,/v3/places/4e82f2a8722e93408a930f0d,Parque de el Cigarral,Algete Comunidad de Madrid,40.594084,-3.498978
+133,algete,Park,4e63dc54d22d509a3a3d991e,VeryLikelyOpen,462.0,/v3/places/4e63dc54d22d509a3a3d991e,Parque de los Olivos,28110 Algete Comunidad de Madrid,40.597001,-3.502799
+134,algete,Park,4cdfdb6c78ddf04dd840a398,LikelyOpen,505.0,/v3/places/4cdfdb6c78ddf04dd840a398,Parque de las Fuentes,28110 Algete Comunidad de Madrid,40.592373,-3.494108
+135,algete,Park,4d32dcac8c42a1cdcfd2ec5d,LikelyOpen,1744.0,/v3/places/4d32dcac8c42a1cdcfd2ec5d,Estanque de Patos Cobeña,Cobeña,40.58106,-3.503061
+136,alpedrete,Park,50b4698ae4b0151f15955aeb,LikelyOpen,290.0,/v3/places/50b4698ae4b0151f15955aeb,Parque de las Columnas,Comunidad de Madrid,40.657319,-4.024587
+137,alpedrete,Park,60a100ac432b8d5266878389,VeryLikelyOpen,622.0,/v3/places/60a100ac432b8d5266878389,Parque de Juegos,"Carretera M-619 (En Frente De Caferería Feijoo), 28430 Alpedrete Comunidad de Madrid",40.654997,-4.021558
+138,alpedrete,Park,60a0ffe3da0dfb3d9f366d2b,VeryLikelyOpen,629.0,/v3/places/60a0ffe3da0dfb3d9f366d2b,Parque de Juegos,"Carretera M619 (En Frente De Cafetería Feijoo), 28430 Alpedrete Comunidad de Madrid",40.655033,-4.021312
+139,alpedrete,Monument,fa6253ac5cfa4365d7cd67d9,Unsure,863.0,/v3/places/fa6253ac5cfa4365d7cd67d9,Estación de Alpedrete,Alpedrete,40.658132,-4.035099
+140,aranjuez,Park,4e8de8128b81f047f1a48bd7,LikelyOpen,249.0,/v3/places/4e8de8128b81f047f1a48bd7,Parque Farnesio,Aranjuez Comunidad de Madrid,40.033607,-3.601662
+141,aranjuez,Park,51829e1a498efc5a67312305,LikelyOpen,261.0,/v3/places/51829e1a498efc5a67312305,Parque Infantil Isabel de Farnesio,,40.033061,-3.600978
+142,aranjuez,Park,4d68eef167a8f04df7f906be,VeryLikelyOpen,393.0,/v3/places/4d68eef167a8f04df7f906be,Parque Pavia,"Antigua carretera andalucia, 28300 Aranjuez Comunidad de Madrid",40.031371,-3.608458
+143,aranjuez,Park,4bcf26f1b221c9b68d6ad1d0,VeryLikelyOpen,514.0,/v3/places/4bcf26f1b221c9b68d6ad1d0,Fuente del Negro,Aranjuez Comunidad de Madrid,40.035829,-3.607727
+144,aranjuez,Park,584d41faef787f34158d8d59,LikelyOpen,701.0,/v3/places/584d41faef787f34158d8d59,Parque Infantil,28300 Aranjuez Comunidad de Madrid,40.026591,-3.600196
+145,aranjuez,Park,4fd8968ce4b01c6078ade14e,LikelyOpen,736.0,/v3/places/4fd8968ce4b01c6078ade14e,Fuente del Reloj,Aranjuez Comunidad de Madrid,40.037823,-3.608564
+146,aranjuez,Park,51699267e4b036719336e027,LikelyOpen,832.0,/v3/places/51699267e4b036719336e027,Parque Pozo de las Nieves,,40.028328,-3.595588
+147,aranjuez,Park,51e2f2f0498e8da834c2afc4,LikelyOpen,911.0,/v3/places/51e2f2f0498e8da834c2afc4,Parque Glorieta Nuevo Aranjuez,Aranjuez,40.031668,-3.593273
+148,aranjuez,Park,4f09c46ae4b09d21f7e7407d,LikelyOpen,1216.0,/v3/places/4f09c46ae4b09d21f7e7407d,Parque infantil,28300 Aranjuez Comunidad de Madrid,40.027463,-3.591084
+149,aranjuez,Park,4f7f1c15e4b0fdf50018fddd,VeryLikelyOpen,1248.0,/v3/places/4f7f1c15e4b0fdf50018fddd,Estanque de los Chinescos,28300 Aranjuez Comunidad de Madrid,40.040451,-3.59392
+150,aranjuez,Park,4e4d72f8d4c019a18a3b91eb,LikelyOpen,1877.0,/v3/places/4e4d72f8d4c019a18a3b91eb,Urbanizacion los Jardines de Godoy,Aranjuez Comunidad de Madrid,40.021518,-3.621035
+151,aranjuez,Park,b21078f06c0c49b7de3fa95b,LikelyOpen,702.0,/v3/places/b21078f06c0c49b7de3fa95b,Pooh y Sus Amigos Aranjuez,"Calle San Fernando, 88, 28300 Aranjuez Madrid",40.027931,-3.597884
+152,aranjuez,Park,d3e27e53af0841935b9915ed,LikelyOpen,1055.0,/v3/places/d3e27e53af0841935b9915ed,Entre Duendes y Hadas,"Calle Santa Inés Nº 13, 28300 Aranjuez Madrid",40.031743,-3.591568
+153,aranjuez,Monument,1bc42868cb9d4d86b0faa6d4,LikelyOpen,283.0,/v3/places/1bc42868cb9d4d86b0faa6d4,Casa de Caballeros y Oficios,"Plaza de San Antonio, 28300 Aranjuez Madrid",40.034045,-3.60627
+154,aranjuez,Monument,f8484be22fe14a80d7359303,Unsure,433.0,/v3/places/f8484be22fe14a80d7359303,Antiguo Hospital de San Carlos,Aranjuez Madrid,40.029372,-3.600473
+155,aranjuez,Monument,79769a51ba2d4d7a5a965e62,Unsure,457.0,/v3/places/79769a51ba2d4d7a5a965e62,Fuente de Hercules y Anteo,28300 Aranjuez Madrid,40.036164,-3.605457
+156,aranjuez,Monument,7822883fb1bc49636f688355,Unsure,553.0,/v3/places/7822883fb1bc49636f688355,Museo de las Faluas Reales,"Calle de la Reina, s/n, 28300 Aranjuez Madrid",40.035847,-3.608404
+157,arganda-del-rey,Park,4d6938f51b63a1cd91bf3c2d,VeryLikelyOpen,479.0,/v3/places/4d6938f51b63a1cd91bf3c2d,Parque Mirador,28500 Arganda del Rey Comunidad de Madrid,40.296475,-3.437499
+158,arganda-del-rey,Park,4e499cac45dd81ecad833ef6,LikelyOpen,576.0,/v3/places/4e499cac45dd81ecad833ef6,Recinto Ferial Arganda,Arganda del Rey Comunidad de Madrid,40.305795,-3.436371
+159,arganda-del-rey,Park,500dbda2e4b0092313941db4,LikelyOpen,627.0,/v3/places/500dbda2e4b0092313941db4,Parque de arganda,Comunidad de Madrid,40.302919,-3.444917
+160,arganda-del-rey,Park,4d332f13b609370405bffedf,LikelyOpen,757.0,/v3/places/4d332f13b609370405bffedf,Parque Goleta,,40.293974,-3.437339
+161,arganda-del-rey,Park,535f520b498e2cac4e931d9f,LikelyOpen,832.0,/v3/places/535f520b498e2cac4e931d9f,Parque Adolfo Suárez,28500 Arganda del Rey Comunidad de Madrid,40.295306,-3.444786
+162,arganda-del-rey,Park,51d9bd65498e43b7762e03ff,LikelyOpen,1245.0,/v3/places/51d9bd65498e43b7762e03ff,Parque Infantil,,40.300612,-3.452764
+163,arganda-del-rey,Park,4e747338b61c22c637b95230,LikelyOpen,1567.0,/v3/places/4e747338b61c22c637b95230,Parque infantil,Arganda del Rey Comunidad de Madrid,40.309577,-3.452475
+164,arganda-del-rey,Park,674b48da66e7475ed0e7e22a,LikelyOpen,26.0,/v3/places/674b48da66e7475ed0e7e22a,Parque Natural las Lagunas,"Carretera Chinchón M-313, Km 1,8, 28500 Arganda del Rey Madrid",40.300988,-3.437951
+165,batres,Park,4eb535820aaf1abedf2f47b5,LikelyOpen,74.0,/v3/places/4eb535820aaf1abedf2f47b5,Plaza Arenal,Comunidad de Madrid,40.2095,-3.922333
+166,batres,Castle,5229a363bce685ed45b13e83,VeryLikelyOpen,259.0,/v3/places/5229a363bce685ed45b13e83,Castillo de Batres,"Crta. M-404, 28976 Batres Comunidad de Madrid",40.210979,-3.923474
+167,becerril-de-la-sierra,Park,5f40f1ab4af8554dc9823110,LikelyOpen,703.0,/v3/places/5f40f1ab4af8554dc9823110,Parque,28490 Becerril de la Sierra Comunidad de Madrid,40.710478,-3.985896
+168,becerril-de-la-sierra,Park,4f203994e4b03be7a56428aa,LikelyOpen,1950.0,/v3/places/4f203994e4b03be7a56428aa,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,40.704664,-4.006358
+169,boadilla-del-monte,Park,4e31a566483b1bbfc5b00423,VeryLikelyOpen,1548.0,/v3/places/4e31a566483b1bbfc5b00423,Monte de Boadilla,28223 Boadilla del Monte Comunidad de Madrid,40.410202,-3.859313
+170,boadilla-del-monte,Park,005c2228b0f042b6050d9044,LikelyOpen,98.0,/v3/places/005c2228b0f042b6050d9044,Diveruca,"Avenida del Generalísimo Nº 25, 28660 Boadilla del Monte Comunidad de Madrid",40.406117,-3.875887
+171,boadilla-del-monte,Park,4e2c794fd4c0e5c89acfa8fc,LikelyOpen,304.0,/v3/places/4e2c794fd4c0e5c89acfa8fc,Parque Juan Pablo II,Boadilla del Monte Comunidad de Madrid,40.402612,-3.876513
+172,boadilla-del-monte,Park,5a9c2fb5b9ac3832c40affbd,LikelyOpen,352.0,/v3/places/5a9c2fb5b9ac3832c40affbd,Parque de el Nacedero,28660 Boadilla del Monte Comunidad de Madrid,40.403932,-3.872743
+173,boadilla-del-monte,Park,548c1904498e7cd8fd940ce1,LikelyOpen,434.0,/v3/places/548c1904498e7cd8fd940ce1,Parque Boadilla Centro,,40.407522,-3.880738
+174,boadilla-del-monte,Park,4e907a7ef5b9f8967cb47d6b,LikelyOpen,524.0,/v3/places/4e907a7ef5b9f8967cb47d6b,Parque Santillana del Mar,28660 Boadilla del Monte Comunidad de Madrid,40.407518,-3.881965
+175,boadilla-del-monte,Park,4fbe57e7e4b00c059c69bef1,LikelyOpen,529.0,/v3/places/4fbe57e7e4b00c059c69bef1,Parque Palacio Boadilla,,40.406456,-3.870382
+176,boadilla-del-monte,Park,507304a7e4b00022a2a2b853,LikelyOpen,621.0,/v3/places/507304a7e4b00022a2a2b853,Parque la Alberca,Alberca,40.407,-3.883485
+177,boadilla-del-monte,Park,4f5a426ae4b030058576f596,LikelyOpen,1360.0,/v3/places/4f5a426ae4b030058576f596,Parque Victoria Rubio,Rubio,40.40996,-3.891362
+178,boadilla-del-monte,Park,4ea3eec52c5b5cb4f49de982,LikelyOpen,1380.0,/v3/places/4ea3eec52c5b5cb4f49de982,Parque Gregorio Marañón,"Gregorio Marañon, Boadilla del Monte Comunidad de Madrid",40.406346,-3.892723
+179,boadilla-del-monte,Park,5243074211d2345b0e3e8a84,LikelyOpen,1478.0,/v3/places/5243074211d2345b0e3e8a84,Zona de Juegos Siglo XXI,,40.405637,-3.893939
+180,boadilla-del-monte,Park,4e9aa7688b81c0254e6deaec,LikelyOpen,1480.0,/v3/places/4e9aa7688b81c0254e6deaec,Parque Villa de Pons,Madrid Comunidad de Madrid,40.411649,-3.891881
+181,boadilla-del-monte,Park,4e904e70b63456ab955d94c0,LikelyOpen,1480.0,/v3/places/4e904e70b63456ab955d94c0,Parque Severo Ochoa,"Severo Ochoa, 1, 28660 Boadilla del Monte Comunidad de Madrid",40.411649,-3.891881
+182,boadilla-del-monte,Park,4f5a2edfe4b07f0bf658c7a0,LikelyOpen,1486.0,/v3/places/4f5a2edfe4b07f0bf658c7a0,Parque Alejandro de la Sota,,40.399525,-3.892285
+183,boadilla-del-monte,Park,507148c7e4b0f3224343a1e1,LikelyOpen,1500.0,/v3/places/507148c7e4b0f3224343a1e1,recinto canino Boadilla,,40.414533,-3.863473
+184,boadilla-del-monte,Park,4dc1850752b1877d85b5e1f0,VeryLikelyOpen,1554.0,/v3/places/4dc1850752b1877d85b5e1f0,Parque (de Colores) Victimas del Terrorismo,"Calle Juan de la Cierva, Boadilla del Monte Comunidad de Madrid",40.409952,-3.893818
+185,boadilla-del-monte,Park,506b0450e4b01ca2efa7c159,LikelyOpen,1775.0,/v3/places/506b0450e4b01ca2efa7c159,Parque Hermanos Machado,Comunidad de Madrid,40.409029,-3.896886
+186,boadilla-del-monte,Park,4ea049f061af1289b80a257a,LikelyOpen,1821.0,/v3/places/4ea049f061af1289b80a257a,"Parque Jorge Manrique, Condesa de Chinchon","Jorge Manrique, Boadilla del Monte Comunidad de Madrid",40.400198,-3.896906
+187,boadilla-del-monte,Park,506afb24e4b0c5eb9efa4f6b,LikelyOpen,1849.0,/v3/places/506afb24e4b0c5eb9efa4f6b,Parque Azorín,"Calle Jacinto Benavente, 28660 Boadilla del Monte Comunidad de Madrid",40.404875,-3.898319
+188,boadilla-del-monte,Park,4c488dc8972c0f477d6d2721,LikelyOpen,1939.0,/v3/places/4c488dc8972c0f477d6d2721,Parque Infantil Miguel Hernandez,,40.409093,-3.898851
+189,boadilla-del-monte,Park,1847b735d4da402765f2e033,Unsure,1800.0,/v3/places/1847b735d4da402765f2e033,Pereda Gestion,"Avenida Cantabria Ciudad Grupo Santander, s/n, 28660 Boadilla del Monte Madrid",40.394176,-3.861051
+190,boadilla-del-monte,Monument,4c0251e6f423a593919bce16,VeryLikelyOpen,68.0,/v3/places/4c0251e6f423a593919bce16,Palacio del Infante don Luis (Boadilla del Monte),"Avenida de Adolfo Suárez, s/n, 28660 Boadilla del Monte Comunidad de Madrid",40.405905,-3.876129
+191,boadilla-del-monte,TV Station,4e9d7f7f5503b4a7c1454e43,LikelyOpen,1809.0,/v3/places/4e9d7f7f5503b4a7c1454e43,13 Tv,"Calle de Francisco Tomas y Valiente, s/n, 28660 Boadilla del Monte Comunidad de Madrid",40.414083,-3.89454
+192,boalo-el,Park,4eac56d95c5cf8848b132342,LikelyOpen,1294.0,/v3/places/4eac56d95c5cf8848b132342,Parque Municipal del Boalo,Boalo,40.713575,-3.90567
+193,boalo-el,Park,4dd00f22fa7664b7c6cfde13,LikelyOpen,1946.0,/v3/places/4dd00f22fa7664b7c6cfde13,Parque la Ponderosa de la Sierra,,40.723615,-3.941794
+194,boalo-el,Monument,4e17239ac65be9c55e8bbd83,LikelyOpen,1883.0,/v3/places/4e17239ac65be9c55e8bbd83,El Quinto Pino,Pino,40.703379,-3.932901
+195,braojos,Monument,4a470120ec564dc5ff1fae09,LikelyOpen,72.0,/v3/places/4a470120ec564dc5ff1fae09,Ayuntamiento Braojos de la Sierra,Braojos Madrid,41.039387,-3.642364
+196,brunete,Park,544250f1498e7e5e625df169,LikelyOpen,109.0,/v3/places/544250f1498e7e5e625df169,parque municipal de Brunete,,40.40407,-3.997822
+197,brunete,Park,5478b475498e43be5a4967ba,LikelyOpen,329.0,/v3/places/5478b475498e43be5a4967ba,Castilandia,"Calle Tahona, 3, 28690 Brunete Comunidad de Madrid",40.403878,-4.001505
+198,buitrago-del-lozoya,Park,4d7146137726a1cd8fe34fd2,LikelyOpen,1780.0,/v3/places/4d7146137726a1cd8fe34fd2,Parque de las Avenidas,09006 Burgos Burgos,41.011284,-3.632806
+199,buitrago-del-lozoya,Monument,4e3ef1b062e19d610982b839,VeryLikelyOpen,112.0,/v3/places/4e3ef1b062e19d610982b839,Castillo de Buitrago de Lozoya,"Plaza del Castillo, s/n, 28730 Buitrago del Lozoya Comunidad de Madrid",40.994635,-3.633966
+200,buitrago-del-lozoya,Monument,5e3ff99457fcde00081e69b9,VeryLikelyOpen,81.0,/v3/places/5e3ff99457fcde00081e69b9,Muralla de Buitrago del Lozoya,"Calle del Arco, 10, 28730 Buitrago del Lozoya Comunidad de Madrid",40.994754,-3.635614
+201,buitrago-del-lozoya,Monument,467824636f19476b465924ea,Unsure,1920.0,/v3/places/467824636f19476b465924ea,Embalse de Riosequillo,Lozoya Madrid,40.982857,-3.650882
+202,bustarviejo,Park,4fef7535e4b018055be092d0,LikelyOpen,196.0,/v3/places/4fef7535e4b018055be092d0,Parque de arriba,"Calle De La Cerca, Bustarviejo",40.860178,-3.711186
+203,cabanillas-de-la-sierra,Park,4e749599aeb780be09d032e9,LikelyOpen,886.0,/v3/places/4e749599aeb780be09d032e9,Paint Ball Cabanillas,Cabanillas,40.823918,-3.636061
+204,cabanillas-de-la-sierra,Monument,9b5dda24716b44de8f09486d,LikelyOpen,138.0,/v3/places/9b5dda24716b44de8f09486d,Iglesia Parroquial de San Juan Bautista,Cabanillas de la Sierra Madrid,40.821107,-3.624473
+205,camarma-de-esteruelas,Park,4c4181c9af052d7f16777d79,VeryLikelyOpen,400.0,/v3/places/4c4181c9af052d7f16777d79,Parque Arroyo Fresno,"Arroyo Fresno, 13, Madrid Comunidad de Madrid",40.549927,-3.374025
+206,camarma-de-esteruelas,Park,4d6e920f134ea143ae92921a,VeryLikelyOpen,1864.0,/v3/places/4d6e920f134ea143ae92921a,Alba - Asociación Para la Liberación y el Bienestar Animal,"Camino del Carral, 32, 28816 Camarma de Esteruelas Comunidad de Madrid",40.540581,-3.397694
+207,cercedilla,Park,5076ccbce4b0eca51a2d5c91,Unsure,94.0,/v3/places/5076ccbce4b0eca51a2d5c91,La Titiriteka,"Calle de los Registros, 21, 28470 Cercedilla Comunidad de Madrid",40.741728,-4.056769
+208,cercedilla,Park,506814e5e4b05564fc0c133e,VeryLikelyOpen,649.0,/v3/places/506814e5e4b05564fc0c133e,Parque PradoLuengo,PradoLuengo,40.737839,-4.062021
+209,cercedilla,Monument,4f536378e4b0c416056a97d1,VeryLikelyOpen,841.0,/v3/places/4f536378e4b0c416056a97d1,Centro Hípico los Ciruelos,"Camino de los Ciruelos, 22, 28470 Cercedilla Comunidad de Madrid",40.752492,-4.054415
+210,cercedilla,Monument,54bd11d087cd4c7f52c9830f,LikelyOpen,24.0,/v3/places/54bd11d087cd4c7f52c9830f,Museo del Esquí,"Plaza Mayor, 3, 28470 Cercedilla Madrid",40.741482,-4.055639
+211,cercedilla,Monument,9f364c1253b942640d66c05c,Unsure,112.0,/v3/places/9f364c1253b942640d66c05c,Miradores de los poetas,Cercedilla Madrid,40.74071,-4.056887
+212,chapineria,Monument,7224f2498be74cf07d36fde9,LikelyOpen,186.0,/v3/places/7224f2498be74cf07d36fde9,Palacio de la Sagra,"Calle de Prudencio Melo, s/n, 28694 Chapinería Madrid",40.3775,-4.209998
+213,chinchon,Park,51f6b429498ee52b46de5048,LikelyOpen,707.0,/v3/places/51f6b429498ee52b46de5048,Parque Valquejigoso,Chinchón Comunidad de Madrid,40.13458,-3.42474
+214,chinchon,Monument,4ed0fa6661af476c093883ef,VeryLikelyOpen,522.0,/v3/places/4ed0fa6661af476c093883ef,Castillo de Chinchón,28370 Chinchón Comunidad de Madrid,40.13618,-3.423835
+215,chinchon,Monument,4e4e91471fc7e04d29e229f2,LikelyOpen,103.0,/v3/places/4e4e91471fc7e04d29e229f2,El Pilón de Chinchón,28370 Chinchón Comunidad de Madrid,40.14016,-3.422304
+216,chinchon,Monument,9e6f2c343f94463d85f7de11,Unsure,92.0,/v3/places/9e6f2c343f94463d85f7de11,Plaza de toros de chinchon,"Calle Plaza Mayor, s/n, Chinchón Madrid",40.140003,-3.422979
+217,chinchon,Monument,5f62702b76e04c31e32dd46c,Unsure,163.0,/v3/places/5f62702b76e04c31e32dd46c,Casa de la Cadena,28370 Chinchón Madrid,40.139386,-3.422784
+218,ciempozuelos,Park,4f7324abe4b039d898b36224,LikelyOpen,441.0,/v3/places/4f7324abe4b039d898b36224,Plaza Fuerzas Armadas,,40.161908,-3.619551
+219,ciempozuelos,Park,4c7b5d0e97028cfaf0c5e0fe,LikelyOpen,714.0,/v3/places/4c7b5d0e97028cfaf0c5e0fe,Recinto de perros,,40.158466,-3.612158
+220,ciempozuelos,Park,4fcb9ce9e4b0a6bf4ffa3787,VeryLikelyOpen,1095.0,/v3/places/4fcb9ce9e4b0a6bf4ffa3787,Parque Camino de Olimpia,"Camino de Olimpia, s/n, Ciempozuelos Comunidad de Madrid",40.153016,-3.631674
+221,cobena,Park,51c5e268498edd33fd31501d,Unsure,170.0,/v3/places/51c5e268498edd33fd31501d,Parque el Matadero,Cobeña Comunidad de Madrid,40.566712,-3.503259
+222,cobena,Park,4f35704be4b0d361ec36d266,LikelyOpen,617.0,/v3/places/4f35704be4b0d361ec36d266,Parque Pijos,28863 Cobeña Comunidad de Madrid,40.572582,-3.501606
+223,cobena,Park,4d32dcac8c42a1cdcfd2ec5d,LikelyOpen,1502.0,/v3/places/4d32dcac8c42a1cdcfd2ec5d,Estanque de Patos Cobeña,Cobeña,40.58106,-3.503061
+224,collado-mediano,Park,518e723f498e89b9f838fa99,VeryLikelyOpen,548.0,/v3/places/518e723f498e89b9f838fa99,Parque de Collado Mediano,Comunidad de Madrid,40.692886,-4.030934
+225,collado-mediano,Park,4f203994e4b03be7a56428aa,LikelyOpen,1924.0,/v3/places/4f203994e4b03be7a56428aa,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,40.704664,-4.006358
+226,collado-villalba,Park,5e1b066b055e24000866cbef,LikelyOpen,210.0,/v3/places/5e1b066b055e24000866cbef,Parque Torre el Raso,28400 Collado Villalba Comunidad de Madrid,40.641325,-3.992353
+227,collado-villalba,Park,4c07b903221620a1e635f775,VeryLikelyOpen,357.0,/v3/places/4c07b903221620a1e635f775,Parque Peñalba,28400 Collado Villalba Comunidad de Madrid,40.643779,-3.988862
+228,collado-villalba,Park,61ffaca51a982a29a44599ae,VeryLikelyOpen,911.0,/v3/places/61ffaca51a982a29a44599ae,Parque Infantil la Dehesa I,28400 Collado Villalba Comunidad de Madrid,40.650012,-3.998944
+229,collado-villalba,Park,61ffad0dbf60467ffac40e4e,LikelyOpen,1098.0,/v3/places/61ffad0dbf60467ffac40e4e,Parque Infantil la Dehesa II,28400 Collado Villalba Comunidad de Madrid,40.650945,-4.001016
+230,collado-villalba,Park,4bd46bbf5631c9b6f945a230,LikelyOpen,1152.0,/v3/places/4bd46bbf5631c9b6f945a230,Parque de las Heras,Madrid,40.640414,-4.006198
+231,collado-villalba,Park,4d84ac97e83fa143a22d68a1,LikelyOpen,1189.0,/v3/places/4d84ac97e83fa143a22d68a1,El Parque de Lolo,,40.639849,-4.006435
+232,collado-villalba,Park,55de0e95498eb885f8e41450,VeryLikelyOpen,1212.0,/v3/places/55de0e95498eb885f8e41450,Parque Pinar de las Heras,,40.639094,-4.006366
+233,collado-villalba,Park,4e7a5accae60f6304decc095,VeryLikelyOpen,1635.0,/v3/places/4e7a5accae60f6304decc095,Parque de los Aromas,Collado Villalba Comunidad de Madrid,40.630262,-4.002374
+234,collado-villalba,Park,6006ba2e085a4f25700d9df7,VeryLikelyOpen,1828.0,/v3/places/6006ba2e085a4f25700d9df7,Parque Infantil los Belgas,28400 Collado Villalba Comunidad de Madrid,40.629232,-4.004575
+235,collado-villalba,Park,57251ab1498e8558a59504df,VeryLikelyOpen,1904.0,/v3/places/57251ab1498e8558a59504df,Parque de los peces,,40.629511,-4.006689
+236,collado-villalba,Park,746bd1dc96da4be9c925fa36,LikelyOpen,1915.0,/v3/places/746bd1dc96da4be9c925fa36,Conservas Artesanas Rosara,"Calle Real, 32, 28400 Collado Villalba Comunidad de Madrid",40.629487,-4.006853
+237,collado-villalba,Park,4e2b5304c65bcaf4002dfca4,VeryLikelyOpen,1954.0,/v3/places/4e2b5304c65bcaf4002dfca4,Parque del Ambulatorio,Collado Villalba Comunidad de Madrid,40.626912,-4.001931
+238,collado-villalba,Park,4e53e06ab61c309d14fcaa7c,VeryLikelyOpen,1963.0,/v3/places/4e53e06ab61c309d14fcaa7c,Parque de las Bombas,Collado Villalba Comunidad de Madrid,40.630291,-4.008593
+239,colmenar-de-oreja,Park,4e430626483b13c708dd9b13,LikelyOpen,666.0,/v3/places/4e430626483b13c708dd9b13,Fuente de los Huertos,Colmenar de Oreja Comunidad de Madrid,40.109238,-3.379691
+240,colmenarejo,Park,4f7b0bade4b06b9552cfc995,LikelyOpen,263.0,/v3/places/4f7b0bade4b06b9552cfc995,Parque Municipal las Quirogas,,40.558845,-4.018429
+241,colmenarejo,Park,50e5af1be4b04630d3fb68f9,LikelyOpen,286.0,/v3/places/50e5af1be4b04630d3fb68f9,Parque del tiro,"Calle Cañada de las Merinas, s/n, 28270 Colmenarejo Comunidad de Madrid",40.558396,-4.015082
+242,colmenarejo,Park,50f97f00e4b00c429b3a8ed0,LikelyOpen,286.0,/v3/places/50f97f00e4b00c429b3a8ed0,Parque del Huevo,"C/ Cañada de las Merinas, 28270 Colmenarejo Comunidad de Madrid",40.558396,-4.015082
+243,colmenarejo,Park,501be55ce4b037b65071ff13,LikelyOpen,1373.0,/v3/places/501be55ce4b037b65071ff13,Fuente de colorines,,40.55184,-4.005223
+244,colmenar-viejo,Park,4f0dd9fae4b0d2af724faa88,LikelyOpen,294.0,/v3/places/4f0dd9fae4b0d2af724faa88,Parque Infantil Maestro Almeida,28770 Colmenar Comunidad de Madrid,40.657746,-3.769199
+245,colmenar-viejo,Park,4fe6a345e4b0972a1d4dba35,LikelyOpen,323.0,/v3/places/4fe6a345e4b0972a1d4dba35,Parque de la Estrella,28770 Colmenar Viejo Comunidad de Madrid,40.661643,-3.76663
+246,colmenar-viejo,Park,4c78f19abd346dcb5eb0f3ef,LikelyOpen,331.0,/v3/places/4c78f19abd346dcb5eb0f3ef,Parque Sebastian Esteban Junquer,Colmenar Viejo Comunidad de Madrid,40.661635,-3.767095
+247,colmenar-viejo,Park,62fa3936fc0f9b436026b312,VeryLikelyOpen,446.0,/v3/places/62fa3936fc0f9b436026b312,Parque Alcalde Cosme Jerez,"Calle del Tío Sandalio (btw Calle de los Tintes & Calle de la Magdalena), Colmenar Viejo Comunidad de Madrid",40.655814,-3.769553
+248,colmenar-viejo,Park,4f94a031e4b0f0f87e4d9ec9,LikelyOpen,502.0,/v3/places/4f94a031e4b0f0f87e4d9ec9,Parque Hierbabuena,28770 Colmenar Viejo Comunidad de Madrid,40.655593,-3.76173
+249,colmenar-viejo,Park,4fd4e81ee4b0191b9c909eaf,VeryLikelyOpen,600.0,/v3/places/4fd4e81ee4b0191b9c909eaf,Bosque de Almendros,28770 Colmenar Viejo Comunidad de Madrid,40.653976,-3.769253
+250,colmenar-viejo,Park,5b5481e525fb7b002c915b9c,LikelyOpen,647.0,/v3/places/5b5481e525fb7b002c915b9c,Parque del Moncayo,28770 Colmenar Viejo Comunidad de Madrid,40.653382,-3.768889
+251,colmenar-viejo,Park,586b94ae03e29a726b32ef28,LikelyOpen,701.0,/v3/places/586b94ae03e29a726b32ef28,Parque Agility,28770 Colmenar Viejo Comunidad de Madrid,40.662481,-3.759204
+252,colmenar-viejo,Park,4fb8be10e4b04b94bec38af7,LikelyOpen,918.0,/v3/places/4fb8be10e4b04b94bec38af7,Parque Félix Rodríguez de la Fuente,,40.663913,-3.774512
+253,colmenar-viejo,Park,4e9a18a49adf277db78e07fe,VeryLikelyOpen,974.0,/v3/places/4e9a18a49adf277db78e07fe,La Alameda,Alameda,40.667243,-3.768954
+254,colmenar-viejo,Park,4e70edbfe4cd5c869436500a,LikelyOpen,1046.0,/v3/places/4e70edbfe4cd5c869436500a,Parque de San Andrés,28770  Comunidad de Madrid,40.659599,-3.778333
+255,colmenar-viejo,Park,4e6a602cb61cc3728d90fe99,LikelyOpen,1070.0,/v3/places/4e6a602cb61cc3728d90fe99,Parque de el Mirador,28770 Colmenar Viejo Comunidad de Madrid,40.666369,-3.773782
+256,colmenar-viejo,Park,4bfbaedad0382d7f54e9c90a,LikelyOpen,1505.0,/v3/places/4bfbaedad0382d7f54e9c90a,El Vivero,28770 Vivero Comunidad de Madrid,40.671977,-3.769953
+257,colmenar-viejo,Park,4e91c02ebe7b7962ea05213a,LikelyOpen,1516.0,/v3/places/4e91c02ebe7b7962ea05213a,Longboard,,40.671649,-3.76002
+258,colmenar-viejo,Park,4f83370ee4b00d74846a0862,LikelyOpen,1645.0,/v3/places/4f83370ee4b00d74846a0862,Angel Leon Park,28770 Colmenar Viejo Comunidad de Madrid,40.666436,-3.782673
+259,colmenar-viejo,Park,4f6cca0ae4b04cb293307988,LikelyOpen,1711.0,/v3/places/4f6cca0ae4b04cb293307988,Parque Infantil,,40.648451,-3.78104
+260,colmenar-viejo,Park,4d9e0442c593a1cd16056e19,LikelyOpen,1726.0,/v3/places/4d9e0442c593a1cd16056e19,Parque Museo Ciclópeo,Colmenar Viejo Comunidad de Madrid,40.671667,-3.777388
+261,colmenar-viejo,Park,570fb588cd103ed3b4dd5c32,LikelyOpen,1858.0,/v3/places/570fb588cd103ed3b4dd5c32,Parque de la Fuente Santa,Almería Almería,40.671256,-3.780637
+262,coslada,Park,4cc2d05f38aaa093c47c0862,LikelyOpen,70.0,/v3/places/4cc2d05f38aaa093c47c0862,Parque de Carlos Marx,"Calle de Miguel Hernández, 28822 Coslada Comunidad de Madrid",40.423015,-3.557868
+263,coslada,Park,503fbb4fe4b0cb197d176e63,LikelyOpen,323.0,/v3/places/503fbb4fe4b0cb197d176e63,Parque de las Casitas,28822 Coslada Comunidad de Madrid,40.426706,-3.555081
+264,coslada,Park,a8a8e917972b4a3aff5e51d9,VeryLikelyOpen,613.0,/v3/places/a8a8e917972b4a3aff5e51d9,Saltilandia,"Avenida España, 23, 28821 Coslada Comunidad de Madrid",40.421863,-3.564629
+265,coslada,Park,614ca8288797c45bb1d16362,LikelyOpen,672.0,/v3/places/614ca8288797c45bb1d16362,Parque de el Cerro,28822 Coslada Comunidad de Madrid,40.420471,-3.548234
+266,coslada,Park,4e63b479b993678bb70f16f9,LikelyOpen,702.0,/v3/places/4e63b479b993678bb70f16f9,Parque la Rambla,La Rambla,40.425146,-3.547173
+267,coslada,Park,4de9563dae6029331907fd96,LikelyOpen,725.0,/v3/places/4de9563dae6029331907fd96,El Parque,"Calle  de José Martí, 28822 Coslada Comunidad de Madrid",40.417294,-3.556006
+268,coslada,Park,4ea9905f1081f945516dd14e,LikelyOpen,747.0,/v3/places/4ea9905f1081f945516dd14e,Parque Infantil -Recinto Ferial,28821 Coslada Comunidad de Madrid,40.429616,-3.55974
+269,coslada,Park,4c874dc2f554236a69a8cb55,VeryLikelyOpen,750.0,/v3/places/4c874dc2f554236a69a8cb55,Recinto Ferial,Coslada Madrid,40.429604,-3.559822
+270,coslada,Park,4e03b4c1aeb7c869c3fb1eef,LikelyOpen,956.0,/v3/places/4e03b4c1aeb7c869c3fb1eef,Parque Pellas,"Calle Bucarest, 28822 Coslada Comunidad de Madrid",40.415392,-3.55291
+271,coslada,Park,4e3f3653091a0fc67ea48c11,LikelyOpen,970.0,/v3/places/4e3f3653091a0fc67ea48c11,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",40.429028,-3.544687
+272,coslada,Park,5014e896e4b00c78e49775b9,LikelyOpen,1041.0,/v3/places/5014e896e4b00c78e49775b9,Parque Av. de España,Comunidad de Madrid,40.422166,-3.567408
+273,coslada,Park,50327ca5e4b06d3d098da6ca,LikelyOpen,1662.0,/v3/places/50327ca5e4b06d3d098da6ca,Parque Pablo Neruda,,40.428433,-3.5366
+274,coslada,Park,4f0877e9e4b09d21f692de97,LikelyOpen,1802.0,/v3/places/4f0877e9e4b09d21f692de97,Plaza de España,San Fernando de Henares Comunidad de Madrid,40.425326,-3.533709
+275,cubas-de-la-sagra,Park,4f314e48e4b0c190b903d01f,LikelyOpen,547.0,/v3/places/4f314e48e4b0c190b903d01f,Parque de la Malata,28978 Cubas Comunidad de Madrid,40.189591,-3.831597
+276,cubas-de-la-sagra,Park,50092b66e4b0d0fe139abf11,LikelyOpen,813.0,/v3/places/50092b66e4b0d0fe139abf11,Parque San Isidro,Cubas de la Sagra Comunidad de Madrid,40.194303,-3.84627
+277,cubas-de-la-sagra,Park,4dfe6ad91f6e1ee122e6e1e7,LikelyOpen,1176.0,/v3/places/4dfe6ad91f6e1ee122e6e1e7,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,40.197839,-3.848229
+278,daganzo-de-arriba,Park,58bc445f668af72c7b162a54,LikelyOpen,362.0,/v3/places/58bc445f668af72c7b162a54,Parque del Globo,"Calle Cuesta Lengua, 34, 28814 Daganzo de Arriba Comunidad de Madrid",40.543698,-3.454043
+279,daganzo-de-arriba,Park,4d9363c75cf5236a7e3162a3,LikelyOpen,370.0,/v3/places/4d9363c75cf5236a7e3162a3,Parque 11 de Marzo,28814 Daganzo de Arriba Comunidad de Madrid,40.548144,-3.459888
+280,daganzo-de-arriba,Park,4f54f7bfe4b036244d02685b,VeryLikelyOpen,602.0,/v3/places/4f54f7bfe4b036244d02685b,Parque Infantil,,40.543867,-3.464773
+281,daganzo-de-arriba,Park,4da180407aee5481e95dc2fe,LikelyOpen,1908.0,/v3/places/4da180407aee5481e95dc2fe,Parque forestal María Marzol,28814 Daganzo de Arriba Comunidad de Madrid,40.562251,-3.455186
+282,escorial-el,Park,4cbae82043ec6dcbae53a731,VeryLikelyOpen,613.0,/v3/places/4cbae82043ec6dcbae53a731,Parque de la Herreria,El Escorial Comunidad de Madrid,40.585253,-4.152645
+283,escorial-el,Park,5fbaaeda28c2c71de0757148,VeryLikelyOpen,198.0,/v3/places/5fbaaeda28c2c71de0757148,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,40.589493,-4.145109
+284,escorial-el,Park,620f055502f5e94360e443bc,LikelyOpen,288.0,/v3/places/620f055502f5e94360e443bc,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",40.58815,-4.150592
+285,escorial-el,Park,4df38712483bdb5e137474b1,VeryLikelyOpen,360.0,/v3/places/4df38712483bdb5e137474b1,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",40.590808,-4.143791
+286,escorial-el,Park,57dd9645498ec726b9259640,LikelyOpen,370.0,/v3/places/57dd9645498ec726b9259640,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,40.590668,-4.143542
+287,escorial-el,Park,53c15e28498e7716d205bf09,LikelyOpen,396.0,/v3/places/53c15e28498e7716d205bf09,Parque la Ladera,El Escorial Comunidad de Madrid,40.585622,-4.146183
+288,escorial-el,Park,4c643e9b11c4a59359d5e811,LikelyOpen,565.0,/v3/places/4c643e9b11c4a59359d5e811,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,40.593299,-4.143676
+289,escorial-el,Park,4ef8afdab63446a509c01fe3,LikelyOpen,1426.0,/v3/places/4ef8afdab63446a509c01fe3,Manguilla,,40.579362,-4.136331
+290,escorial-el,Park,54b6e42a498e71067153aed8,LikelyOpen,1483.0,/v3/places/54b6e42a498e71067153aed8,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,40.585662,-4.130398
+291,escorial-el,Park,4c2bb9bd77cfe21efef3b4f1,VeryLikelyOpen,1599.0,/v3/places/4c2bb9bd77cfe21efef3b4f1,Los Jardincillos,El Escorial Comunidad de Madrid,40.584385,-4.129468
+292,escorial-el,Park,b64bd236e31e44eaecf32ea8,LikelyOpen,575.0,/v3/places/b64bd236e31e44eaecf32ea8,Los Romeros,,40.593324,-4.143512
+293,escorial-el,Monument,4c42f24bff711b8db6391405,VeryLikelyOpen,988.0,/v3/places/4c42f24bff711b8db6391405,Casita del Infante,"Carretera Robledo, s/n, 28200 El Escorial Comunidad de Madrid",40.585345,-4.157992
+294,escorial-el,Monument,e38ddd616af14f2b58975d3e,LikelyOpen,1568.0,/v3/places/e38ddd616af14f2b58975d3e,Ermita de la Virgen de Gracia,28200 El Escorial Comunidad de Madrid,40.585078,-4.129564
+295,escorial-el,Monument,80997383d0aa4e0f2a7c3d2c,LikelyOpen,37.0,/v3/places/80997383d0aa4e0f2a7c3d2c,Monasterio de el Escorial,"San Lorenzo de el Escorial, San Lorenzo de el Escorial, 28200 San Lorenzo de El Escorial Madrid",40.588815,-4.147699
+296,escorial-el,Monument,56c831c915514187b20a94b0,Unsure,562.0,/v3/places/56c831c915514187b20a94b0,Jardín de los Frailes,28200 San Lorenzo de el Escorial Madrid,40.594068,-4.148433
+297,escorial-el,Monument,09b5d18763e445d74c68f13a,LikelyOpen,1333.0,/v3/places/09b5d18763e445d74c68f13a,Estación de el Escorial,28280 El Escorial Madrid,40.585308,-4.132391
+298,fuenlabrada,Park,4be05003cb81c9b62456658b,LikelyOpen,1594.0,/v3/places/4be05003cb81c9b62456658b,Parque de la Solidaridad,28942 Fuenlabrada Comunidad de Madrid,40.284269,-3.811
+299,fuenlabrada,Park,4d284a958292236a57d817bb,Unsure,259.0,/v3/places/4d284a958292236a57d817bb,Parque Infantil,"Calle de Doctor Miguel Aguado, 28944 Fuenlabrada Comunidad de Madrid",40.283374,-3.789514
+300,fuenlabrada,Park,4e4bf32cfa7671a85cf05a37,LikelyOpen,470.0,/v3/places/4e4bf32cfa7671a85cf05a37,Moruzosland,,40.283396,-3.79776
+301,fuenlabrada,Park,4e257a40e4cda4c1ef3e5cd9,LikelyOpen,482.0,/v3/places/4e257a40e4cda4c1ef3e5cd9,Parque del Olivar,Olivar,40.279142,-3.78869
+302,fuenlabrada,Park,4dc976f61f6e4f316a816239,VeryLikelyOpen,548.0,/v3/places/4dc976f61f6e4f316a816239,Parque de los Estados,"Avenida de los Estados, 12, 28945 Fuenlabrada Comunidad de Madrid",40.286387,-3.788634
+303,fuenlabrada,Park,5ab782f7f62f2b2d909f5147,VeryLikelyOpen,552.0,/v3/places/5ab782f7f62f2b2d909f5147,Parque de Perros,28945 Fuenlabrada Comunidad de Madrid,40.28542,-3.7976
+304,fuenlabrada,Park,4dfdcc6762e1a52ce9157686,LikelyOpen,605.0,/v3/places/4dfdcc6762e1a52ce9157686,Parque Infantil,28944 Fuenlabrada Comunidad de Madrid,40.277032,-3.792632
+305,fuenlabrada,Park,4ff84318f2e74b7fe51e5433,LikelyOpen,630.0,/v3/places/4ff84318f2e74b7fe51e5433,Parque de Leganés,"Calle de Leganés, 31, 28945 Fuenlabrada Comunidad de Madrid",40.288081,-3.791516
+306,fuenlabrada,Park,4f82d17fe4b050ced7ff91be,LikelyOpen,645.0,/v3/places/4f82d17fe4b050ced7ff91be,Parque de la urbanización,"Calle Noria, 28944 Fuenlabrada Comunidad de Madrid",40.27671,-3.79162
+307,fuenlabrada,Park,4e305e67fa7614797deccd96,LikelyOpen,654.0,/v3/places/4e305e67fa7614797deccd96,Bulevar Primero de Mayo,,40.287313,-3.78794
+308,fuenlabrada,Park,59fc4125610f043c03b96664,LikelyOpen,674.0,/v3/places/59fc4125610f043c03b96664,ParQue de las R£g!OneS,28941 Fuenlabrada Comunidad de Madrid,40.287229,-3.7973
+309,fuenlabrada,Park,4dbc081a6a23e294ba22e2b3,LikelyOpen,947.0,/v3/places/4dbc081a6a23e294ba22e2b3,Plaza de el Molino,"Calle de Italia, 15-17 (Avenida de las naciones 33), 28943 Fuenlabrada Comunidad de Madrid",40.282544,-3.803544
+310,fuenlabrada,Park,4fadb8e2e4b08a2bb91bca11,LikelyOpen,1053.0,/v3/places/4fadb8e2e4b08a2bb91bca11,Parque Europa,"Avenida de las Naciones, Fuenlabrada Comunidad de Madrid",40.287485,-3.803155
+311,fuenlabrada,Park,51b8c765498e380f23fc3bc0,LikelyOpen,1337.0,/v3/places/51b8c765498e380f23fc3bc0,Parque de Valdeserrano,,40.271013,-3.797141
+312,fuenlabrada,Park,4e598838d22dfba6f4762eed,Unsure,1356.0,/v3/places/4e598838d22dfba6f4762eed,Parque lineal la Serna,Fuenlabrada Comunidad de Madrid,40.292567,-3.801408
+313,fuenlabrada,Park,51b6dc5b498ed5e389571918,Unsure,1387.0,/v3/places/51b6dc5b498ed5e389571918,Parque de la Olla,Fuenlabrada Comunidad de Madrid,40.292328,-3.782244
+314,fuenlabrada,Park,51bacdce498ebbbec0e0851b,LikelyOpen,1658.0,/v3/places/51bacdce498ebbbec0e0851b,Parque de Tebas,Humanes de Madrid Comunidad de Madrid,40.296001,-3.784067
+315,fuenlabrada,Park,515d1fa8e4b0d7a8c0be9735,LikelyOpen,1692.0,/v3/places/515d1fa8e4b0d7a8c0be9735,El arenero,,40.295321,-3.803082
+316,fuenlabrada,Park,4be13dbcd816c928348eefd9,LikelyOpen,1955.0,/v3/places/4be13dbcd816c928348eefd9,Parque de la Paz,"Calle Gijón 2-8, 28942 Fuenlabrada Comunidad de Madrid",40.295536,-3.806814
+317,fuenlabrada,Park,52a3251cec87495521f0bcd1,Unsure,850.0,/v3/places/52a3251cec87495521f0bcd1,Campos Municipales de Petanca,Fuenlabrada Madrid,40.275405,-3.788499
+318,fuente-el-saz-de-jarama,Park,4f073794e4b0671f264f5cc0,LikelyOpen,169.0,/v3/places/4f073794e4b0671f264f5cc0,Parque de la Igualdad,"Avenida Julián Sanchez, Madrid Comunidad de Madrid",40.631715,-3.514496
+319,fuente-el-saz-de-jarama,Park,53b0409a498e7d85f52bcb82,Unsure,238.0,/v3/places/53b0409a498e7d85f52bcb82,Pececitos al Agua,28140 Fuente El Saz de Jarama Comunidad de Madrid,40.633354,-3.512877
+320,fuente-el-saz-de-jarama,Park,4e99ad026c252a15c188677b,LikelyOpen,450.0,/v3/places/4e99ad026c252a15c188677b,Parque Madroños 3,28140 Fuente El Saz de Jarama Comunidad de Madrid,40.629424,-3.517389
+321,fuente-el-saz-de-jarama,Park,c192cc8196f94cbe5205d140,LikelyOpen,651.0,/v3/places/c192cc8196f94cbe5205d140,Tu Castillo,"Calle Almendralejos, 53 Bajo, 28140 Fuente El Saz de Jarama Comunidad de Madrid",40.636989,-3.511253
+322,fuente-el-saz-de-jarama,TV Station,55e49808498e96764e57b056,LikelyOpen,977.0,/v3/places/55e49808498e96764e57b056,Cocinas de MasterChef,"Vereda Cantarranas, 5, Madrid Comunidad de Madrid",40.639435,-3.516736
+323,galapagar,Park,5045dc1fe4b0d43312cd5f3e,LikelyOpen,104.0,/v3/places/5045dc1fe4b0d43312cd5f3e,Parque Infantil,28260 Galapagar Comunidad de Madrid,40.577125,-4.002635
+324,gascones,Park,4d7146137726a1cd8fe34fd2,LikelyOpen,1089.0,/v3/places/4d7146137726a1cd8fe34fd2,Parque de las Avenidas,09006 Burgos Burgos,41.011284,-3.632806
+325,getafe,Park,4f1937efe5e83189744723e0,VeryLikelyOpen,913.0,/v3/places/4f1937efe5e83189744723e0,Parque de la Alhóndiga,28905 Getafe Comunidad de Madrid,40.306134,-3.741517
+326,getafe,Park,4fc17678e4b0d6554a71f845,LikelyOpen,184.0,/v3/places/4fc17678e4b0d6554a71f845,Parque los Escolapios,Comunidad de Madrid,40.308513,-3.732109
+327,getafe,Park,5125e71de4b097752ed68f07,LikelyOpen,245.0,/v3/places/5125e71de4b097752ed68f07,Parque infantil Pocoyo,Getafe Comunidad de Madrid,40.305326,-3.731385
+328,getafe,Park,515093f0e4b01b9f263d8e68,LikelyOpen,545.0,/v3/places/515093f0e4b01b9f263d8e68,Plaza del Matadero,Getafe Comunidad de Madrid,40.302628,-3.730531
+329,getafe,Park,4f932e6ae4b04c3ff9aae935,LikelyOpen,713.0,/v3/places/4f932e6ae4b04c3ff9aae935,Plaza Heredia,Comunidad de Madrid,40.304876,-3.72523
+330,getafe,Park,4f0716bbe4b0ad9c23c278cd,VeryLikelyOpen,727.0,/v3/places/4f0716bbe4b0ad9c23c278cd,Parque el Greco,"Calle de el Greco, 6, 28904 Getafe Comunidad de Madrid",40.300885,-3.736002
+331,getafe,Park,4fc0b0c7e4b07e3cd93002d2,VeryLikelyOpen,892.0,/v3/places/4fc0b0c7e4b07e3cd93002d2,Parque Infantil Paseo de la Estación,Getafe Comunidad de Madrid,40.314944,-3.731165
+332,getafe,Park,5272333811d2f623c6265abd,VeryLikelyOpen,1359.0,/v3/places/5272333811d2f623c6265abd,Parque Lineal Universidad Carlos III,,40.31914,-3.730625
+333,getafe,Park,4f12d15ae4b0042055c7161a,VeryLikelyOpen,1569.0,/v3/places/4f12d15ae4b0042055c7161a,Parque Infantíl Aviocar,,40.320548,-3.738673
+334,getafe,Park,4ee0b7f65c5ccf21923f2b8c,LikelyOpen,1638.0,/v3/places/4ee0b7f65c5ccf21923f2b8c,Columpios el Bercial,28907 Getafe Comunidad de Madrid,40.321372,-3.737868
+335,getafe,Park,5502c708498eed0748b918d0,LikelyOpen,1713.0,/v3/places/5502c708498eed0748b918d0,Paseo brabusete,,40.302634,-3.752542
+336,getafe,Park,4f1937a3e5e8318974471bc3,LikelyOpen,1809.0,/v3/places/4f1937a3e5e8318974471bc3,Parque de Castilla-La Mancha,"Av. Don Juan de Borbón, 28903 Getafe Comunidad de Madrid",40.321112,-3.722381
+337,getafe,Park,4f9014ade4b05b1cb72d6c00,LikelyOpen,1857.0,/v3/places/4f9014ade4b05b1cb72d6c00,Parque Mafalda,28905 Getafe Comunidad de Madrid,40.291892,-3.742377
+338,grinon,Park,4f23ec63e4b04f6e689b8aeb,LikelyOpen,1442.0,/v3/places/4f23ec63e4b04f6e689b8aeb,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,40.202587,-3.867015
+339,grinon,Park,4dfe6ad91f6e1ee122e6e1e7,LikelyOpen,1949.0,/v3/places/4dfe6ad91f6e1ee122e6e1e7,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,40.197839,-3.848229
+340,guadalix-de-la-sierra,Park,4eb0568349010398c8ef9e39,LikelyOpen,531.0,/v3/places/4eb0568349010398c8ef9e39,El Encinar,"Calle Ildefonso, 20, Salamanca Salamanca",40.778819,-3.70519
+341,guadarrama,Park,4e481f77d4c065cb6bb5ecae,LikelyOpen,13.0,/v3/places/4e481f77d4c065cb6bb5ecae,El Parque,Comunidad de Madrid,40.67334,-4.08948
+342,guadarrama,Park,509407bde4b038577557867f,VeryLikelyOpen,25.0,/v3/places/509407bde4b038577557867f,Parque del Ayuntamiento Guadarrama,28440 Guadarrama Comunidad de Madrid,40.673263,-4.089204
+343,guadarrama,Park,4f107372e4b0b827c635a268,LikelyOpen,188.0,/v3/places/4f107372e4b0b827c635a268,Ludobichos,"Reyes Católicos, 3, 28440 Guadarrama Comunidad de Madrid",40.672836,-4.087303
+344,guadarrama,Park,4e5fb2ddb0fb754192bf54cb,VeryLikelyOpen,659.0,/v3/places/4e5fb2ddb0fb754192bf54cb,Parque la Dehesa,28440 Guadarrama Comunidad de Madrid,40.667512,-4.089067
+345,guadarrama,Park,4e91b829d3e3187fc36130b7,VeryLikelyOpen,711.0,/v3/places/4e91b829d3e3187fc36130b7,Parque del dragón,Guadarrama Comunidad de Madrid,40.667116,-4.088155
+346,guadarrama,Park,ae40f53714fa4500eff6b22e,LikelyOpen,169.0,/v3/places/ae40f53714fa4500eff6b22e,Galpark Iberica,"Polígono Industrial la Mata, 48, 28440 Guadarrama Madrid",40.673051,-4.087445
+347,guadarrama,Park,354dd195d8594f4bca1263e5,Unsure,188.0,/v3/places/354dd195d8594f4bca1263e5,Ludo Bichos,"Calle Reyes Católicos, 3, Madrid",40.672836,-4.087303
+348,hoyo-de-manzanares,Park,4e6e822a62e14570896db928,VeryLikelyOpen,67.0,/v3/places/4e6e822a62e14570896db928,Parque Alcantara,Hoyo de Manzanares Comunidad de Madrid,40.622145,-3.907423
+349,hoyo-de-manzanares,Park,4da19a1b2939b1f73424f856,VeryLikelyOpen,1069.0,/v3/places/4da19a1b2939b1f73424f856,La cabilda,,40.627491,-3.896181
+350,humanes-de-madrid,Park,4fc25ee7e4b0c59234d12a8a,LikelyOpen,110.0,/v3/places/4fc25ee7e4b0c59234d12a8a,Parque de la Rana,,40.251651,-3.826262
+351,humanes-de-madrid,Park,5b50aad186bc490036e30c6d,LikelyOpen,738.0,/v3/places/5b50aad186bc490036e30c6d,Parque Hnos,28970 Humanes de Madrid Comunidad de Madrid,40.257252,-3.824606
+352,humanes-de-madrid,Park,56ebe538498e9efb7a125db5,LikelyOpen,965.0,/v3/places/56ebe538498e9efb7a125db5,Parque Tebas,,40.259365,-3.824638
+353,humanes-de-madrid,Park,4db5731043a1369cb5cf3802,VeryLikelyOpen,1629.0,/v3/places/4db5731043a1369cb5cf3802,Prado de la Casa,Humanes de Madrid Comunidad de Madrid,40.251288,-3.808001
+354,loeches,Park,4f5cdf88e4b035e314d61b28,VeryLikelyOpen,578.0,/v3/places/4f5cdf88e4b035e314d61b28,Parque 2 de mayo,,40.38224,-3.415755
+355,madrid,Film Studio,587662d345c3ed55469f348f,LikelyOpen,654.0,/v3/places/587662d345c3ed55469f348f,Zapruder Pictures,"Calle Hortaleza, 25, 28004 Madrid Comunidad de Madrid",40.421918,-3.699994
+356,madrid,Film Studio,5b222388c876c8002c72d9e0,LikelyOpen,895.0,/v3/places/5b222388c876c8002c72d9e0,Hotmart,"Gran Vía, 69, 28013 Madrid Comunidad de Madrid",40.422874,-3.710387
+357,madrid,Film Studio,5ea17cb293f6bd0008954bd5,Unsure,2002.0,/v3/places/5ea17cb293f6bd0008954bd5,The Blondes Pool,"Calle Juan Alvarez Mendizabal, 79, 28008 Madrid Comunidad de Madrid",40.429866,-3.719693
+358,madrid,Palace,53c7a858498e04400a4613d2,VeryLikelyOpen,407.0,/v3/places/53c7a858498e04400a4613d2,Palacio de Santoña,"Calle Huertas, 13 (Huertas 13), 28012 Madrid Comunidad de Madrid",40.413938,-3.700295
+359,madrid,Park,4adcda38f964a520673c21e3,VeryLikelyOpen,1039.0,/v3/places/4adcda38f964a520673c21e3,Jardines de las Vistillas,"Plaza de Gabriel Miró s/n, 28005 Madrid Comunidad de Madrid",40.412363,-3.714738
+360,madrid,Park,4bd0490aa8b3a593058a635f,VeryLikelyOpen,1411.0,/v3/places/4bd0490aa8b3a593058a635f,Parque de la Montaña,"Paseo del Pintor Rosales, 2, 28008 Madrid Comunidad de Madrid",40.423525,-3.717616
+361,madrid,Park,4b8aa4c2f964a5201d7732e3,VeryLikelyOpen,1878.0,/v3/places/4b8aa4c2f964a5201d7732e3,Parque del Retiro,"Plaza de la Independencia, 7 (C. Alcalá), 28001 Madrid Comunidad de Madrid",40.414494,-3.68332
+362,madrid,Park,4deb9f2222713dd973b1c66f,VeryLikelyOpen,1518.0,/v3/places/4deb9f2222713dd973b1c66f,Jardines de la Virgen del Puerto,"Paseo de la Virgen del Puerto, 28011 Madrid Comunidad de Madrid",40.416046,-3.722144
+363,madrid,Park,5326e4dc498e78e019bf55a4,VeryLikelyOpen,1381.0,/v3/places/5326e4dc498e78e019bf55a4,Jardines de el Buen Retiro,Madrid Comunidad de Madrid,40.419537,-3.687677
+364,madrid,Park,5326dfba498ee418095d2f23,VeryLikelyOpen,1339.0,/v3/places/5326dfba498ee418095d2f23,Puerta de Murillo de los Jardines del Buen Retiro,Madrid Comunidad de Madrid,40.41282,-3.688595
+365,madrid,Park,560f7c49498e45c037137430,VeryLikelyOpen,1261.0,/v3/places/560f7c49498e45c037137430,Parque de Madrid,Madrid Comunidad de Madrid,40.416692,-3.688647
+366,madrid,Park,5326e731498e591bbc11b95a,VeryLikelyOpen,1892.0,/v3/places/5326e731498e591bbc11b95a,Puerta de Madrid de los Jardines del Buen Retiro,Madrid Comunidad de Madrid,40.420794,-3.681865
+367,madrid,Park,4bf7e0865317a5930bb0fe7e,VeryLikelyOpen,1310.0,/v3/places/4bf7e0865317a5930bb0fe7e,Parque de Atenas,28005 Madrid Comunidad de Madrid,40.41432,-3.718661
+368,madrid,Park,4db28ec25da3944066ba4217,VeryLikelyOpen,1306.0,/v3/places/4db28ec25da3944066ba4217,Plaza de la Independencia (Madrid),"Plaza de la Independencia, s/n, 28014 Madrid Comunidad de Madrid",40.419818,-3.688171
+369,madrid,Park,4bee8228d355a593a6f10a60,VeryLikelyOpen,1615.0,/v3/places/4bee8228d355a593a6f10a60,Plaza del Conde del Valle de Suchil,"Pza. del Conde del Valle de Suchil, 3, 28015 Madrid Comunidad de Madrid",40.430791,-3.707281
+370,madrid,Park,4c1a55c655e4c9b6ab904723,VeryLikelyOpen,1250.0,/v3/places/4c1a55c655e4c9b6ab904723,Parque de la Cornisa,28005 Madrid Comunidad de Madrid,40.409336,-3.714941
+371,madrid,Park,4be6a5fa2457a5933c03ad15,VeryLikelyOpen,1399.0,/v3/places/4be6a5fa2457a5933c03ad15,Parque Villa de Paris,"C. Orellana, Madrid Comunidad de Madrid",40.426653,-3.693711
+372,madrid,Park,4f10284ee4b0a6added354b9,LikelyOpen,1532.0,/v3/places/4f10284ee4b0a6added354b9,Parque de Perros,,40.430189,-3.707381
+373,madrid,Park,4dac518b6e81162ae7ff17c5,VeryLikelyOpen,1602.0,/v3/places/4dac518b6e81162ae7ff17c5,Parque Puente del Rey,"Calle, 30, 28011 Madrid Comunidad de Madrid",40.418725,-3.722318
+374,madrid,Park,4eb5611c93ad236570219cc8,Unsure,155.0,/v3/places/4eb5611c93ad236570219cc8,Hotel indignado,,40.415322,-3.70331
+375,madrid,Park,4e6b38b4227162c38ec50ea0,LikelyOpen,309.0,/v3/places/4e6b38b4227162c38ec50ea0,Parque infantil Plaza Santa Ana,Madrid Comunidad de Madrid,40.414998,-3.700691
+376,madrid,Park,4bee6ee3d355a59347e10a60,LikelyOpen,1197.0,/v3/places/4bee6ee3d355a59347e10a60,Parque Casino de la Reina,"Calle Embajadores, 68, 28012 Madrid Comunidad de Madrid",40.405956,-3.704653
+377,madrid,Park,570e9c09498eeb357e90321b,LikelyOpen,641.0,/v3/places/570e9c09498eeb357e90321b,Clue Hunter Madrid,"Calle Juanelo, 13, 28012 Madrid Comunidad de Madrid",40.411281,-3.705625
+378,madrid,Park,4e6b347eae60950955d10afa,LikelyOpen,650.0,/v3/places/4e6b347eae60950955d10afa,Parque Infantil Vazquez de Mella,Madrid Comunidad de Madrid,40.420935,-3.698265
+379,madrid,Park,4e502ab1b61cf637a500134c,VeryLikelyOpen,755.0,/v3/places/4e502ab1b61cf637a500134c,Jardines de Lepanto,"C/ Lepanto, 28013 Madrid Comunidad de Madrid",40.417398,-3.712464
+380,madrid,Park,500a863ae4b0c2a4dfe79290,VeryLikelyOpen,810.0,/v3/places/500a863ae4b0c2a4dfe79290,Parque infantil Paseo del Prado,"Pase del Prado, 8 (Zona Central), 28014 Madrid Comunidad de Madrid",40.417203,-3.69402
+381,madrid,Park,4c963a7c94a0236a0bf49c12,VeryLikelyOpen,973.0,/v3/places/4c963a7c94a0236a0bf49c12,Parque del Emir Mohamed I,"& Calle de Segovia, 28005 Madrid Comunidad de Madrid",40.414652,-3.714769
+382,madrid,Park,4f90544be4b0675701c05e91,VeryLikelyOpen,979.0,/v3/places/4f90544be4b0675701c05e91,Parque Infantil Plaza Joan Pujol,,40.425509,-3.703993
+383,madrid,Park,6257bd119552b7515f326356,LikelyOpen,1002.0,/v3/places/6257bd119552b7515f326356,Parl,Madrid Comunidad de Madrid,40.419893,-3.692503
+384,madrid,Park,5cf6acdd588e36002c5cabf2,LikelyOpen,1032.0,/v3/places/5cf6acdd588e36002c5cabf2,Jardin de America,28001 Madrid Comunidad de Madrid,40.419889,-3.692122
+385,madrid,Park,5164077de4b002d2251c0111,VeryLikelyOpen,1032.0,/v3/places/5164077de4b002d2251c0111,Parque Cuesta de la Vega,Madrid Comunidad de Madrid,40.414783,-3.715479
+386,madrid,Park,4d404de5c1d4721eea570fc7,LikelyOpen,1053.0,/v3/places/4d404de5c1d4721eea570fc7,Parque Infantil del Casino,,40.407319,-3.70538
+387,madrid,Park,4ce17c483644a09322685d9f,VeryLikelyOpen,1841.0,/v3/places/4ce17c483644a09322685d9f,Parque de Peñuelas,28005 Madrid Comunidad de Madrid,40.400213,-3.704929
+388,madrid,Park,52027596498ea7d8d3a2b406,LikelyOpen,1253.0,/v3/places/52027596498ea7d8d3a2b406,Columpios Retiro,,40.415726,-3.688825
+389,madrid,Park,4faaa6afe4b048756de750db,VeryLikelyOpen,1283.0,/v3/places/4faaa6afe4b048756de750db,Área de Juegos Infantiles,,40.416313,-3.688424
+390,madrid,Park,4fcb2cd6e4b0928dc1bb1b84,LikelyOpen,1322.0,/v3/places/4fcb2cd6e4b0928dc1bb1b84,Parque Infantil el Fuerte de Madera,Madrid Comunidad de Madrid,40.419997,-3.688555
+391,madrid,Park,514debf3e4b023ae1105beb6,LikelyOpen,1338.0,/v3/places/514debf3e4b023ae1105beb6,El Sitio de los Gatos,,40.414061,-3.688149
+392,madrid,Park,510e5f69e4b0f62779f2e538,VeryLikelyOpen,1356.0,/v3/places/510e5f69e4b0f62779f2e538,Ahuehuete,Madrid Comunidad de Madrid,40.415728,-3.687599
+393,madrid,Park,505c7a1afe708416a0c5c36b,VeryLikelyOpen,1365.0,/v3/places/505c7a1afe708416a0c5c36b,Paseo de las Estatuas,Madrid Comunidad de Madrid,40.416631,-3.687448
+394,madrid,Park,4f412e60e4b0c80f845a8664,VeryLikelyOpen,1417.0,/v3/places/4f412e60e4b0c80f845a8664,Parque de Conde Duque,,40.428538,-3.709838
+395,madrid,Park,4ead75a0e5fad025f820f973,VeryLikelyOpen,1476.0,/v3/places/4ead75a0e5fad025f820f973,Paseo de Mexico,Madrid Comunidad de Madrid,40.41896,-3.686389
+396,madrid,Park,4dc5c745887717c8802d2012,LikelyOpen,1493.0,/v3/places/4dc5c745887717c8802d2012,Parque Infantil Acacias,Madrid Comunidad de Madrid,40.4041,-3.709721
+397,madrid,Park,5326e5be11d2ce1ee64c3451,VeryLikelyOpen,1522.0,/v3/places/5326e5be11d2ce1ee64c3451,Puerta de Hernani de los Jardines del Buen Retiro,Madrid Comunidad de Madrid,40.419887,-3.686075
+398,madrid,Park,526e27d911d2a3342d47716a,LikelyOpen,1539.0,/v3/places/526e27d911d2a3342d47716a,Puerta de Hernani,Madrid Comunidad de Madrid,40.420365,-3.686027
+399,madrid,Park,4e6c96cf483b1f5ebe225a51,LikelyOpen,1543.0,/v3/places/4e6c96cf483b1f5ebe225a51,Parque Villoslada,"Muñopedro, 28005 Madrid Comunidad de Madrid",40.406388,-3.7158
+400,madrid,Park,2e14a3e53b4b411d9253b60c,LikelyOpen,1553.0,/v3/places/2e14a3e53b4b411d9253b60c,Centro Infantil Nariz Roja,"Juan Álvarez Mendizábal, 44, 28008 Madrid Comunidad de Madrid",40.426696,-3.716434
+401,madrid,Park,4d85e40861676dcb0ea393e4,LikelyOpen,1557.0,/v3/places/4d85e40861676dcb0ea393e4,Erizo Castizo,,40.43072,-3.703329
+402,madrid,Park,5b292c355d891b0039c408e3,VeryLikelyOpen,1578.0,/v3/places/5b292c355d891b0039c408e3,Mundo Alopeke,28014 Madrid Madrid,40.421319,-3.685931
+403,madrid,Park,5169b874498ef5fb99aadf4f,LikelyOpen,1599.0,/v3/places/5169b874498ef5fb99aadf4f,Just Run,,40.430078,-3.710568
+404,madrid,Park,500af254e4b0b8de34c6c962,LikelyOpen,1604.0,/v3/places/500af254e4b0b8de34c6c962,Parque infantil san Isidoro de Sevilla,"San Isidoro de Sevilla, 28005 Madrid Comunidad de Madrid",40.4036,-3.711539
+405,madrid,Park,4d02a96228926ea8d4e860c2,LikelyOpen,1618.0,/v3/places/4d02a96228926ea8d4e860c2,Parque,Madrid Comunidad de Madrid,40.4025,-3.707793
+406,madrid,Park,4c9cd90946978cfa81db917f,Unsure,1642.0,/v3/places/4c9cd90946978cfa81db917f,De Duendes,Madrid Madrid,40.431458,-3.708761
+407,madrid,Park,4dd2c5f6c65b47384ce92b7c,LikelyOpen,1668.0,/v3/places/4dd2c5f6c65b47384ce92b7c,Columpios,"Calle de Fuencarral, 140, Madrid Comunidad de Madrid",40.431717,-3.703751
+408,madrid,Park,4dc2c2e21f6ebdce472fe96f,LikelyOpen,1779.0,/v3/places/4dc2c2e21f6ebdce472fe96f,Parque Infantil,"Calle de Fuencarral, 150, 28010 Madrid Comunidad de Madrid",40.432713,-3.704173
+409,madrid,Monument,4b801c4ef964a520285330e3,VeryLikelyOpen,86.0,/v3/places/4b801c4ef964a520285330e3,Statue of the Bear and the Strawberry Tree (Estatua del Oso y el Madroño),"C. de Alcalá, 28013 Madrid Comunidad de Madrid",40.41695,-3.702624
+410,madrid,Monument,4adcda38f964a5204c3c21e3,VeryLikelyOpen,623.0,/v3/places/4adcda38f964a5204c3c21e3,Círculo de Bellas Artes,"Calle Alcalá, 42, 28014 Madrid Comunidad de Madrid",40.418419,-3.696569
+411,madrid,Monument,4e32bade18a846d7ed0a895e,VeryLikelyOpen,24.0,/v3/places/4e32bade18a846d7ed0a895e,Kilometer 0 (Kilómetro 0),28013 Madrid Comunidad de Madrid,40.416834,-3.703821
+412,madrid,Monument,4c63f220edd320a1a98db029,VeryLikelyOpen,664.0,/v3/places/4c63f220edd320a1a98db029,Plaza de las Cortes,"Plaza de las Cortes 4 Izquierda, 28014 Madrid Comunidad de Madrid",40.415886,-3.6958
+413,madrid,Monument,4adcda37f964a5201c3c21e3,VeryLikelyOpen,935.0,/v3/places/4adcda37f964a5201c3c21e3,Fuente de Cibeles (Fuente de La Cibeles),"Plaza de la Cibeles, s/n, 28014 Madrid Comunidad de Madrid",40.419294,-3.692985
+414,madrid,Monument,4adcda37f964a520263c21e3,VeryLikelyOpen,1357.0,/v3/places/4adcda37f964a520263c21e3,Puerta de Toledo,28005 Madrid Comunidad de Madrid,40.406705,-3.711609
+415,madrid,Monument,4f4cfae2e4b027c8729a2a49,VeryLikelyOpen,1051.0,/v3/places/4f4cfae2e4b027c8729a2a49,Monumento a Cervantes,28013 Madrid Comunidad de Madrid,40.42312,-3.712734
+416,madrid,Monument,4adcda37f964a5203c3c21e3,VeryLikelyOpen,893.0,/v3/places/4adcda37f964a5203c3c21e3,Viaducto de Segovia,"Calle Segovia, 21, 28005 Madrid Comunidad de Madrid",40.414063,-3.713563
+417,madrid,Monument,50af224fe4b0a0a3017b54df,VeryLikelyOpen,819.0,/v3/places/50af224fe4b0a0a3017b54df,Fuente de Apolo (Madrid),Madrid Comunidad de Madrid,40.417051,-3.693854
+418,madrid,Monument,4df33eb818a88611c6bbb069,VeryLikelyOpen,1325.0,/v3/places/4df33eb818a88611c6bbb069,Cuartel del Conde-Duque,"Calle del Conde Duque, 11, 28015 Madrid Comunidad de Madrid",40.427417,-3.711076
+419,madrid,Monument,4adcda37f964a5202b3c21e3,VeryLikelyOpen,1873.0,/v3/places/4adcda37f964a5202b3c21e3,Palacio de Cristal del Retiro,"P. de Julio Romero de Torres, s/n (P. de Julio Romero de Torres, s/n), Madrid Comunidad de Madrid",40.413692,-3.681798
+420,madrid,Monument,4d970457744f37041003c957,VeryLikelyOpen,1738.0,/v3/places/4d970457744f37041003c957,Monumento a Alfonso XII de España,"Parque del Retiro, 28009 Madrid Comunidad de Madrid",40.417045,-3.682986
+421,madrid,Monument,50b466c4e4b080561b414f7f,VeryLikelyOpen,877.0,/v3/places/50b466c4e4b080561b414f7f,Monumento del Dos de Mayo,"Paseo del Prado y Precisamente en el Mismo Lugar en el Que el, 2, Madrid Comunidad de Madrid",40.416368,-3.6933
+422,madrid,Monument,4b5ffbd8f964a5207bd229e3,LikelyOpen,966.0,/v3/places/4b5ffbd8f964a5207bd229e3,Bolsa de Madrid,"Plaza de la Lealtad, 1 (Paseo del Prado), 28014 Madrid Comunidad de Madrid",40.416859,-3.691945
+423,madrid,Monument,4c852cf02f1c236acd345243,VeryLikelyOpen,1483.0,/v3/places/4c852cf02f1c236acd345243,Bosque del Recuerdo,"El Bosque del Recuerdo Es Un Monumento Homenaje a las, 191 (Parque del Retiro), 28009 Madrid Comunidad de Madrid",40.411853,-3.687166
+424,madrid,Monument,4e3f8b27d22d102e855d3542,VeryLikelyOpen,1888.0,/v3/places/4e3f8b27d22d102e855d3542,Monumento del Ángel Caído,28009 Madrid Comunidad de Madrid,40.411121,-3.682499
+425,madrid,Monument,4adcda37f964a520093c21e3,VeryLikelyOpen,541.0,/v3/places/4adcda37f964a520093c21e3,Congreso de los Diputados,"Calle Floridablanca, s/n (Pl. de las Cortes), 28014 Madrid Comunidad de Madrid",40.415932,-3.696699
+426,madrid,Monument,5231fa1511d254927578f644,VeryLikelyOpen,1485.0,/v3/places/5231fa1511d254927578f644,Puerta del Angel Caido,28001 Madrid Comunidad de Madrid,40.409766,-3.688581
+427,madrid,Monument,4ea148830cd6fc5af3903ca0,VeryLikelyOpen,1474.0,/v3/places/4ea148830cd6fc5af3903ca0,Puerta de San Vicente,28008 Madrid Comunidad de Madrid,40.420242,-3.720377
+428,madrid,Monument,4d6eb881d583a09327b38685,VeryLikelyOpen,32.0,/v3/places/4d6eb881d583a09327b38685,Estatua de Carlos III,Madrid Comunidad de Madrid,40.416995,-3.703523
+429,madrid,Monument,4adcda38f964a5206e3c21e3,VeryLikelyOpen,1431.0,/v3/places/4adcda38f964a5206e3c21e3,Palacio de Liria,"Calle Princesa, 20, 28008 Madrid Comunidad de Madrid",40.426694,-3.713219
+430,madrid,Monument,4e0548d07d8b2a01804d086e,VeryLikelyOpen,1452.0,/v3/places/4e0548d07d8b2a01804d086e,Monumento a Cristobal Colón,"P. de la Castellana, 4, 28046 Madrid Comunidad de Madrid",40.42518,-3.690504
+431,madrid,Monument,4c961c0482b56dcbe476deaa,VeryLikelyOpen,746.0,/v3/places/4c961c0482b56dcbe476deaa,Estatua de Felipe IV,28013 Madrid Comunidad de Madrid,40.418325,-3.71215
+432,madrid,Monument,628a0ae7f78d6d165e86b273,LikelyOpen,203.0,/v3/places/628a0ae7f78d6d165e86b273,Placa Fundación del Atlético de Madrid,28012 Madrid Comunidad de Madrid,40.415485,-3.701787
+433,madrid,Monument,4adcda37f964a5202d3c21e3,LikelyOpen,304.0,/v3/places/4adcda37f964a5202d3c21e3,Palacio de Santa Cruz (Madrid),"Plaza de la Provincia, 1, 28012 Madrid Comunidad de Madrid",40.414793,-3.706136
+434,madrid,Monument,53c56312498ef100872a5b66,VeryLikelyOpen,312.0,/v3/places/53c56312498ef100872a5b66,Monumento Calderón de la Barca,"Plaza de Santa Ana, Madrid Comunidad de Madrid",40.414625,-3.70123
+435,madrid,Monument,6457d4d36a610935fdd2464d,VeryLikelyOpen,357.0,/v3/places/6457d4d36a610935fdd2464d,La Reina Dana Isabel II,28012 Madrid Comunidad de Madrid,40.415369,-3.707424
+436,madrid,Monument,31ef59676a8c43c0ee966df8,LikelyOpen,496.0,/v3/places/31ef59676a8c43c0ee966df8,Casa de Cervantes (Madrid),"Calle Cervantes, 2, 28014 Madrid Comunidad de Madrid",40.414364,-3.698585
+437,madrid,Monument,5658d7d7498ea630648f29c7,VeryLikelyOpen,580.0,/v3/places/5658d7d7498ea630648f29c7,Palacio y Torre de los Lujanes,Comunidad de Madrid,40.415431,-3.710231
+438,madrid,Monument,50ae709fe4b0caa69b0637c9,VeryLikelyOpen,608.0,/v3/places/50ae709fe4b0caa69b0637c9,Monumento a los Abogados de Atocha,28014 Madrid Comunidad de Madrid,40.41256,-3.699268
+439,madrid,Monument,566ab7c4498e7d638c29a12b,LikelyOpen,617.0,/v3/places/566ab7c4498e7d638c29a12b,Casa Cisneros,"Plaza de la Villa, 4, 28005 Madrid Comunidad de Madrid",40.415144,-3.710581
+440,madrid,Monument,4c037755187ec928beb7b57b,LikelyOpen,623.0,/v3/places/4c037755187ec928beb7b57b,Casa de la Villa de Madrid,"Plaza de la Villa, 5, 28005 Madrid Comunidad de Madrid",40.415393,-3.711701
+441,madrid,Monument,4adcda37f964a520393c21e3,LikelyOpen,719.0,/v3/places/4adcda37f964a520393c21e3,Casa de las Siete Chimeneas,"Plaza del Rey, 1, 28004 Madrid Comunidad de Madrid",40.420203,-3.69643
+442,madrid,Monument,62de5501e88f9b258381a0b3,VeryLikelyOpen,800.0,/v3/places/62de5501e88f9b258381a0b3,The Curious Neighbor,28013 Madrid Comunidad de Madrid,40.415226,-3.712843
+443,madrid,Monument,529b432b11d20334c3172b4d,LikelyOpen,813.0,/v3/places/529b432b11d20334c3172b4d,Monumento a Larra,Madrid Comunidad de Madrid,40.415808,-3.713287
+444,madrid,Monument,2dd3fbf1087c470c45f1c311,LikelyOpen,837.0,/v3/places/2dd3fbf1087c470c45f1c311,La Casa de la Brujita,Madrid Comunidad de Madrid,40.422638,-3.697471
+445,madrid,Monument,5c1663082b274a0039ba381b,VeryLikelyOpen,839.0,/v3/places/5c1663082b274a0039ba381b,Republican Lamp Post,28013 Madrid Comunidad de Madrid,40.418159,-3.713292
+446,madrid,Monument,cadada72b4a04325089e1b87,LikelyOpen,936.0,/v3/places/cadada72b4a04325089e1b87,Muralla Árabe,"Cuesta de la Vega, s/n, 28005 Madrid Comunidad de Madrid",40.415681,-3.714566
+447,madrid,Monument,5a464f6a8ad62e547bba6382,VeryLikelyOpen,987.0,/v3/places/5a464f6a8ad62e547bba6382,Estatua de Velasquez,28014 Madrid Comunidad de Madrid,40.413834,-3.692531
+448,madrid,Monument,778c5bff36424b3e003615ea,LikelyOpen,1021.0,/v3/places/778c5bff36424b3e003615ea,Agustinas Recoletas Molasterio de Santa Isabel,"Calle Santa Isabel, 48, 28012 Madrid Comunidad de Madrid",40.409416,-3.69623
+449,madrid,Monument,505adf14e4b0ae6951fbb373,VeryLikelyOpen,1037.0,/v3/places/505adf14e4b0ae6951fbb373,Rae,,40.414857,-3.691564
+450,madrid,Monument,4f62255de4b024e6f79fe34b,VeryLikelyOpen,1130.0,/v3/places/4f62255de4b024e6f79fe34b,Palacio Longoria,"Calle de Fernando VI, 4, 28004 Madrid Comunidad de Madrid",40.425468,-3.696201
+451,madrid,Monument,50b5a999e4b08f5b46298685,VeryLikelyOpen,1268.0,/v3/places/50b5a999e4b08f5b46298685,Puerta de Felipe IV,Madrid Comunidad de Madrid,40.415272,-3.68871
+452,madrid,Monument,4d7e077b2ff9b60c277ca447,VeryLikelyOpen,1649.0,/v3/places/4d7e077b2ff9b60c277ca447,Monumento homenaje a las víctimas del 11-M,28005 Madrid Comunidad de Madrid,40.40689,-3.688951
+453,madrid,Monument,4b56f6a7f964a520e42028e3,LikelyOpen,1456.0,/v3/places/4b56f6a7f964a520e42028e3,Torres de Colón,"Calle de Genova, 2 (C. Génova, 27), 28004 Madrid Comunidad de Madrid",40.425664,-3.691219
+454,madrid,Monument,e01dcdfd238f42e17e13165e,LikelyOpen,1603.0,/v3/places/e01dcdfd238f42e17e13165e,Real Parque del Buen Retiro,"Alfonso XII, s/n, 28014 Madrid Comunidad de Madrid",40.407606,-3.688879
+455,madrid,Monument,582d63968551895d8590623c,VeryLikelyOpen,1883.0,/v3/places/582d63968551895d8590623c,Monumento a Santiago Ramón y Cajal,Madrid Comunidad de Madrid,40.41634,-3.68137
+456,madrid,Monument,4adcda37f964a520ff3b21e3,Unsure,1924.0,/v3/places/4adcda37f964a520ff3b21e3,Antiguas Escuelas Aguirre,"Calle de Alcalá, 62, 28009 Madrid Comunidad de Madrid",40.421662,-3.681806
+457,madrid,Monument,a43f353812bb49b92b19489a,LikelyOpen,32.0,/v3/places/a43f353812bb49b92b19489a,Estación de Sol,Madrid Madrid,40.416995,-3.703523
+458,madrid,Monument,797ba065c1584ef7b10d505d,LikelyOpen,32.0,/v3/places/797ba065c1584ef7b10d505d,Cartel de Tio Pepe,28005 Madrid Madrid,40.416995,-3.703523
+459,madrid,Fountain,4adcda37f964a5201d3c21e3,VeryLikelyOpen,820.0,/v3/places/4adcda37f964a5201d3c21e3,Fuente de Neptuno,"Calle Marques de Cubas, 18, 28014 Madrid Comunidad de Madrid",40.415244,-3.694157
+460,madrid,Fountain,511784cde4b0b0ae6fd22b50,VeryLikelyOpen,1544.0,/v3/places/511784cde4b0b0ae6fd22b50,Fuente de los Galápagos,Madrid Comunidad de Madrid,40.41816,-3.685425
+461,madrid,Fountain,505c7bcdfe708416a0c5e61d,VeryLikelyOpen,1651.0,/v3/places/505c7bcdfe708416a0c5e61d,Fuente de la Alcachofa,28012 Madrid Comunidad de Madrid,40.415409,-3.684136
+462,madrid,Bridge,4adcda37f964a520383c21e3,LikelyOpen,481.0,/v3/places/4adcda37f964a520383c21e3,Puente de Segovia,"Calle Segovia, 0, 28005 Madrid Comunidad de Madrid",40.41406,-3.72367
+463,madrid,Bridge,4c6f182bd274b60c58a6d50d,LikelyOpen,927.0,/v3/places/4c6f182bd274b60c58a6d50d,Viaducto,"Calle Moreria, 11, 28005 Madrid Comunidad de Madrid",40.413019,-3.713467
+464,madrid,Bridge,4d84e61f40a7a35d0c1a15be,VeryLikelyOpen,1587.0,/v3/places/4d84e61f40a7a35d0c1a15be,Puente del Rey,Madrid Comunidad de Madrid,40.418811,-3.722128
+465,madrid,Bridge,4ff889a4e4b083d14cc6e04a,LikelyOpen,1738.0,/v3/places/4ff889a4e4b083d14cc6e04a,Pasarela Casa de Campo,"Calle Aniceto Marinas, 24 (Casa de Campo), 28008 Madrid Comunidad de Madrid",40.421861,-3.722988
+466,madrid,Bridge,4dc57cdcc65b89d3ca6f9130,VeryLikelyOpen,1891.0,/v3/places/4dc57cdcc65b89d3ca6f9130,Puente de San Isidro,"Av. del Manzanares, Madrid Comunidad de Madrid",40.405484,-3.720391
+467,madrid,Bridge,4ff1ae6ee4b0e19833c00698,LikelyOpen,1958.0,/v3/places/4ff1ae6ee4b0e19833c00698,Presa nº4,"Calle Ribera del Manzanares, 31, 28008 Madrid Comunidad de Madrid",40.423198,-3.725105
+468,madrid,Beach,60a29297523343aa45514c57,Unsure,1365.0,/v3/places/60a29297523343aa45514c57,Playas de Rodalquilar,"Calle Marques de la Ensenada Numero, 16, Madrid Madrid",40.425306,-3.692059
+469,madrid,TV Station,5583dc51498e37b88622ff8a,Unsure,551.0,/v3/places/5583dc51498e37b88622ff8a,Non Stop People,"Calle Gran Vía, 1, 28013 Madrid Comunidad de Madrid",40.419187,-3.69816
+470,madrid,TV Station,aa83aee1ce6044e06e0654c1,LikelyOpen,840.0,/v3/places/aa83aee1ce6044e06e0654c1,Antena 3 de Television,"Plaza Marina Española, 8, 28013 Madrid Comunidad de Madrid",40.421099,-3.711671
+471,madrid,TV Station,51a4b12f498e6d1ba24fc8de,Unsure,1286.0,/v3/places/51a4b12f498e6d1ba24fc8de,Paramount Comedy Channel España,"Recoletos, 33, 28004 Madrid Comunidad de Madrid",40.423895,-3.691658
+472,madrid,TV Station,6262626e2767ca5cc5641b1a,LikelyOpen,1301.0,/v3/places/6262626e2767ca5cc5641b1a,Tinku,"Ronda de Segovia, 2G, 28005 Madrid Comunidad de Madrid",40.412377,-3.717871
+473,madrid,TV Station,4d5247d93626a09319fc2cbd,Unsure,1625.0,/v3/places/4d5247d93626a09319fc2cbd,Bloomberg,"Paseo Castellana, 9, 28046 Madrid Comunidad de Madrid",40.430705,-3.691314
+474,madrid,TV Station,de7c4fa099c3451035effaf8,Unsure,403.0,/v3/places/de7c4fa099c3451035effaf8,Canal Plus,"Gran Vía, 32, 28013 Madrid Madrid",40.420339,-3.703569
+475,madrid,TV Station,6adf79a5430d41dd0ca8c07b,LikelyOpen,403.0,/v3/places/6adf79a5430d41dd0ca8c07b,Digital,"Gran Vía, 32, 28013 Madrid Madrid",40.420339,-3.703569
+476,madrid,TV Station,2e84f6649b654f1c07ba3a80,Unsure,1928.0,/v3/places/2e84f6649b654f1c07ba3a80,Mtv España,"Serrano, 43-45, 28001 Madrid Madrid",40.428924,-3.687394
+477,majadahonda,Park,4bd2c31b046076b00a927471,VeryLikelyOpen,568.0,/v3/places/4bd2c31b046076b00a927471,Parque Colón,"Plaza Colón, s/n, 28220 Majadahonda Comunidad de Madrid",40.468899,-3.86911
+478,majadahonda,Park,4de0cd42ae605835c45c0dca,VeryLikelyOpen,204.0,/v3/places/4de0cd42ae605835c45c0dca,Plaza de la Constitución,Majadahonda Comunidad de Madrid,40.473003,-3.874827
+479,majadahonda,Park,4ed76a0f0e0189600b1dcc51,LikelyOpen,370.0,/v3/places/4ed76a0f0e0189600b1dcc51,Parque de la Constitución,,40.471836,-3.868338
+480,majadahonda,Park,4e5e8ffe7d8b67dc8ff5fc88,LikelyOpen,414.0,/v3/places/4e5e8ffe7d8b67dc8ff5fc88,Estrella de la muerte,Estrella,40.475739,-3.875826
+481,majadahonda,Park,4dd53f55d4c0e6b33e4e824a,LikelyOpen,541.0,/v3/places/4dd53f55d4c0e6b33e4e824a,Parque de la rueda,Majadahonda Comunidad de Madrid,40.475027,-3.878272
+482,majadahonda,Park,4e3e5830d4c058f9dc1186ec,VeryLikelyOpen,578.0,/v3/places/4e3e5830d4c058f9dc1186ec,Parque de la Laguna,28220 Majadahonda Comunidad de Madrid,40.475081,-3.87871
+483,majadahonda,Park,4da0eaf37aee54810c32b6fe,VeryLikelyOpen,769.0,/v3/places/4da0eaf37aee54810c32b6fe,Parque del Cerro del Aire,"Avda. de España, 28220 Majadahonda Comunidad de Madrid",40.478669,-3.867081
+484,majadahonda,Park,4e7660fb1f6e072f14188e71,Unsure,776.0,/v3/places/4e7660fb1f6e072f14188e71,Parque,Majadahonda Comunidad de Madrid,40.466085,-3.873051
+485,majadahonda,Park,4e7640e48998ed82a5034d8a,VeryLikelyOpen,886.0,/v3/places/4e7640e48998ed82a5034d8a,Parque del Arcipreste,28220 Majadahonda Comunidad de Madrid,40.4779,-3.880748
+486,majadahonda,Park,4f185749e4b0bb143f0114cf,LikelyOpen,1017.0,/v3/places/4f185749e4b0bb143f0114cf,Parque de Peco,"av. paralela, Madrid Comunidad de Madrid",40.475302,-3.860749
+487,majadahonda,Park,4ed2bdb730f81894b1230858,LikelyOpen,1025.0,/v3/places/4ed2bdb730f81894b1230858,Parque del boniato,,40.470723,-3.860676
+488,majadahonda,Park,4dcac52c183817362feb1206,VeryLikelyOpen,1085.0,/v3/places/4dcac52c183817362feb1206,Parque Granja del Conde,Majadahonda Comunidad de Madrid,40.473832,-3.885216
+489,majadahonda,Park,5070902be4b008c20d8c3ed5,LikelyOpen,1125.0,/v3/places/5070902be4b008c20d8c3ed5,Descampado Perros,,40.482239,-3.86681
+490,majadahonda,Park,4e611e70c65b2dc89f0c44ea,LikelyOpen,1162.0,/v3/places/4e611e70c65b2dc89f0c44ea,Area Infantil,Las Rozas Comunidad de Madrid,40.483356,-3.870023
+491,majadahonda,Park,4e629326c65b2dc89fb277d1,VeryLikelyOpen,1296.0,/v3/places/4e629326c65b2dc89fb277d1,Parque de Bruselas,28200 Majadahonda Comunidad de Madrid,40.484339,-3.868537
+492,majadahonda,Park,4b9570bef964a520b3a234e3,LikelyOpen,1585.0,/v3/places/4b9570bef964a520b3a234e3,Parque de Lisboa,"Calle Comunidad de Baleares, 1-7, 28231 Las Rozas Comunidad de Madrid",40.48726,-3.870686
+493,majadahonda,Park,5783c72d38faa3a2ed2b67aa,LikelyOpen,1616.0,/v3/places/5783c72d38faa3a2ed2b67aa,Parque Piscis,28231 Las Rozas Comunidad de Madrid,40.487602,-3.872766
+494,majadahonda,Park,4bfea028a8c39c74d583f237,VeryLikelyOpen,1673.0,/v3/places/4bfea028a8c39c74d583f237,Parque Navaluenga,"Rodas, 28220 Majadahonda Comunidad de Madrid",40.476251,-3.853065
+495,majadahonda,Park,4e5be34b2271886715132348,LikelyOpen,1710.0,/v3/places/4e5be34b2271886715132348,Parque Nuevo,,40.468918,-3.852923
+496,majadahonda,Park,4cdedcd2f8cdb1f764e48d12,LikelyOpen,1731.0,/v3/places/4cdedcd2f8cdb1f764e48d12,Jugalia,Majadahonda Comunidad de Madrid,40.479122,-3.853547
+497,majadahonda,Park,4efc99c361af53c674d2591c,LikelyOpen,1761.0,/v3/places/4efc99c361af53c674d2591c,Descampado,"Calle Sonora (Calle Palenque), 28231 Las Rozas Comunidad de Madrid",40.480522,-3.854033
+498,majadahonda,Park,55ec2113498eb91aea7257d5,LikelyOpen,1925.0,/v3/places/55ec2113498eb91aea7257d5,Parque infantil P.Paris,,40.489097,-3.881038
+499,majadahonda,Park,4f084b72e4b08f52488b02bf,Unsure,1954.0,/v3/places/4f084b72e4b08f52488b02bf,Parque de Dublín,28231 Las Rozas Comunidad de Madrid,40.490572,-3.872978
+500,majadahonda,Monument,21044e00b13a4f974e1d8525,LikelyOpen,209.0,/v3/places/21044e00b13a4f974e1d8525,Academia de Teatro Noroeste,"Calle Santa Ana, 20, 28220 Majadahonda Comunidad de Madrid",40.472402,-3.870094
+501,majadahonda,Beach,4e062bf1e4cdefcff6d42106,LikelyOpen,1778.0,/v3/places/4e062bf1e4cdefcff6d42106,El Teson de Figueras,Madrid,40.479585,-3.853199
+502,majadahonda,TV Station,59b3a3160d8a0f65467f9a40,LikelyOpen,333.0,/v3/places/59b3a3160d8a0f65467f9a40,Ciencias Médicas Producciones,"Calle Vid, 1, 28220 Majadahonda Comunidad de Madrid",40.471211,-3.875809
+503,majadahonda,TV Station,4468872f9cfe40384b7071d9,Unsure,548.0,/v3/places/4468872f9cfe40384b7071d9,Canal Rural Television,"Calle Santa Brigida, 1, 28220 Majadahonda Madrid",40.469843,-3.867487
+504,manzanares-el-real,Park,5d5536418c5572000809568b,VeryLikelyOpen,102.0,/v3/places/5d5536418c5572000809568b,Parque Infantil del Castillo de Manzanares,"Calle del Cura, s/n (Avenida de Madrid), 28410 Manzanares el Real Comunidad de Madrid",40.726468,-3.863824
+505,manzanares-el-real,Castle,4ba60e09f964a520903039e3,VeryLikelyOpen,251.0,/v3/places/4ba60e09f964a520903039e3,Castillo de Manzanares el Real,28410 Manzanares el Real Comunidad de Madrid,40.727082,-3.862026
+506,meco,Park,53a713e1498e4ec9e9865422,LikelyOpen,925.0,/v3/places/53a713e1498e4ec9e9865422,Parque del Lago,,40.546876,-3.33436
+507,mejorada-del-campo,Park,4f47faaee4b0d63740878e11,LikelyOpen,419.0,/v3/places/4f47faaee4b0d63740878e11,Parque Norte,Mesas,40.400907,-3.488844
+508,miraflores-de-la-sierra,Monument,9734b9d890504ebb992744c4,LikelyOpen,843.0,/v3/places/9734b9d890504ebb992744c4,Gruta de Nuestra Señora de Begoña,"Calle de la Virgen de Begoña, s/n, 28792 Miraflores de la Sierra Comunidad de Madrid",40.809409,-3.775332
+509,miraflores-de-la-sierra,Monument,03f82c6f2c134099b43faadc,Unsure,5.0,/v3/places/03f82c6f2c134099b43faadc,Sociedad Cooperativa Limitada el Encinar de Miraflores,"Pza. de España, 1, Miraflores de la Sierra Madrid",40.813749,-3.766791
+510,miraflores-de-la-sierra,Monument,5e049e9fef0b484aec96d843,Unsure,126.0,/v3/places/5e049e9fef0b484aec96d843,Monumento al Perrero,28792 Miraflores de la Sierra Madrid,40.813621,-3.765227
+511,moralzarzal,Park,51c6056c498e79713e161b39,LikelyOpen,104.0,/v3/places/51c6056c498e79713e161b39,La carreterita,"Bellas Vistas, 28411 Moralzarzal Comunidad de Madrid",40.678892,-3.9709
+512,moralzarzal,Park,4daac3e01e72c1ab9bfb62f6,VeryLikelyOpen,465.0,/v3/places/4daac3e01e72c1ab9bfb62f6,Parque de la Tejera,28411 Moralzarzal Comunidad de Madrid,40.677832,-3.977349
+513,mostoles,Park,4c8aa644a92fa093c93b93bf,VeryLikelyOpen,975.0,/v3/places/4c8aa644a92fa093c93b93bf,Parque Liana,"Avenida de Portugal, Nº 1, 28931 Móstoles Comunidad de Madrid",40.323823,-3.873593
+514,mostoles,Park,4c38c21418e72d7f4ef318f5,VeryLikelyOpen,217.0,/v3/places/4c38c21418e72d7f4ef318f5,Parque Zarauz,28931 Móstoles Comunidad de Madrid,40.325671,-3.865857
+515,mostoles,Park,4be87d9d88ed2d7fc1efcb1d,LikelyOpen,362.0,/v3/places/4be87d9d88ed2d7fc1efcb1d,El Hoyo,"Calle Badajoz, 2, 28931 Móstoles Comunidad de Madrid",40.325527,-3.861251
+516,mostoles,Park,50336938e4b012c9cf95c539,LikelyOpen,603.0,/v3/places/50336938e4b012c9cf95c539,Parque Cataluña,"valladolid, 28938 Móstoles Comunidad de Madrid",40.320133,-3.859913
+517,mostoles,Park,4e3d930a1495bf24a5dcb9db,Unsure,633.0,/v3/places/4e3d930a1495bf24a5dcb9db,Parque Plaza Valencia,Comunidad de Madrid,40.325453,-3.857762
+518,mostoles,Park,503fca62e4b06c0c2ae4e150,LikelyOpen,679.0,/v3/places/503fca62e4b06c0c2ae4e150,Pipican Parque San Luis,,40.317782,-3.865869
+519,mostoles,Park,4e6237a51495676d55a1709a,LikelyOpen,720.0,/v3/places/4e6237a51495676d55a1709a,La Pista Roja,,40.330301,-3.863996
+520,mostoles,Park,4da9c6d2b3dccb44d37d885e,LikelyOpen,787.0,/v3/places/4da9c6d2b3dccb44d37d885e,Parque de Galicia,"Calle Hermanos Pinzón, 2, 28937 Móstoles Comunidad de Madrid",40.322383,-3.855834
+521,mostoles,Park,50a8c246e4b007904b63d47b,LikelyOpen,828.0,/v3/places/50a8c246e4b007904b63d47b,Parque de las aventuras,,40.324132,-3.874688
+522,mostoles,Park,4f1b4518e5e85dca13190b28,LikelyOpen,852.0,/v3/places/4f1b4518e5e85dca13190b28,Parque la Paz,28938 Móstoles Comunidad de Madrid,40.316359,-3.867535
+523,mostoles,Park,4fcf8bcee4b04a202eef3bb3,LikelyOpen,874.0,/v3/places/4fcf8bcee4b04a202eef3bb3,Happy Land,"Cid Campeador, 7, 28935 Móstoles Comunidad de Madrid",40.328003,-3.873987
+524,mostoles,Park,4da1a0fb9935a0935acaa36f,VeryLikelyOpen,945.0,/v3/places/4da1a0fb9935a0935acaa36f,Parque de los Planetas,28933 Móstoles Comunidad de Madrid,40.331052,-3.870874
+525,mostoles,Park,578151a1498e5025abcd4e45,LikelyOpen,1009.0,/v3/places/578151a1498e5025abcd4e45,Parque Constitución,,40.314777,-3.864296
+526,mostoles,Park,4e23e3351f6effe84f89c8c3,LikelyOpen,1037.0,/v3/places/4e23e3351f6effe84f89c8c3,Parque Infantil Coronel Palma,Palma de Mallorca,40.317433,-3.873819
+527,mostoles,Park,4ed6b5054fc6a0235f03c2d4,VeryLikelyOpen,1050.0,/v3/places/4ed6b5054fc6a0235f03c2d4,Parque Día del Agua,Móstoles Comunidad de Madrid,40.317358,-3.873926
+528,mostoles,Park,5714ff05498e84909f201d60,Unsure,1105.0,/v3/places/5714ff05498e84909f201d60,Party Sport,"Calle Cámara de la Industria, 4, 28938 Móstoles Comunidad de Madrid",40.315074,-3.871057
+529,mostoles,Park,4e24a073c65b2b5e35665ea0,Unsure,1174.0,/v3/places/4e24a073c65b2b5e35665ea0,Parque Infantil Levante,Móstoles Comunidad de Madrid,40.325131,-3.851164
+530,mostoles,Park,4f0733b0e4b05f830c2ee1a1,LikelyOpen,1179.0,/v3/places/4f0733b0e4b05f830c2ee1a1,Parque Arroyo del Soto,"Calle Pintor Sorolla, Móstoles",40.332339,-3.856563
+531,mostoles,Park,511103dde4b0eace41ce3269,LikelyOpen,1185.0,/v3/places/511103dde4b0eace41ce3269,Parque del Rancho,28932 Móstoles Comunidad de Madrid,40.334262,-3.861879
+532,mostoles,Park,4e596c768877c8a76de60f83,LikelyOpen,1196.0,/v3/places/4e596c768877c8a76de60f83,El Rancho,28932 Móstoles Comunidad de Madrid,40.333948,-3.860021
+533,mostoles,Park,4e63e32cb61cd780892fa9f5,LikelyOpen,1214.0,/v3/places/4e63e32cb61cd780892fa9f5,Parque Salvador Allende,,40.326338,-3.850965
+534,mostoles,Park,4bf9739a8d30d13a193c0218,VeryLikelyOpen,1229.0,/v3/places/4bf9739a8d30d13a193c0218,Parque Andalucía,Móstoles Comunidad de Madrid,40.334903,-3.865513
+535,mostoles,Park,4e23d77522717a5245e30f02,LikelyOpen,1232.0,/v3/places/4e23d77522717a5245e30f02,Parque Infantil la Onu,Móstoles Comunidad de Madrid,40.327206,-3.851061
+536,mostoles,Park,4fadcb0ee4b0861eac69d737,LikelyOpen,1253.0,/v3/places/4fadcb0ee4b0861eac69d737,Parque Arroyo del Santo,28933 Móstoles Comunidad de Madrid,40.332161,-3.874925
+537,mostoles,Park,4e3f81fa52b1a04aff331d00,LikelyOpen,1334.0,/v3/places/4e3f81fa52b1a04aff331d00,Parque Levante,Alcorcón Comunidad de Madrid,40.324539,-3.849194
+538,mostoles,Park,ca9a3abdcc4048a6d692e1d6,LikelyOpen,1379.0,/v3/places/ca9a3abdcc4048a6d692e1d6,Juega Conmigo,"Río Júcar, s/n, 28935 Móstoles Comunidad de Madrid",40.315916,-3.878508
+539,mostoles,Park,4e3f8342e4cdab9b935e7ae8,Unsure,1429.0,/v3/places/4e3f8342e4cdab9b935e7ae8,Parque Onu,Móstoles Comunidad de Madrid,40.321426,-3.848355
+540,mostoles,Park,50c7140fe4b06508389fc3d3,LikelyOpen,1434.0,/v3/places/50c7140fe4b06508389fc3d3,Fuente los Rosales,,40.336761,-3.864888
+541,mostoles,Park,4cd4295e08f48cfabcd0a485,LikelyOpen,1590.0,/v3/places/4cd4295e08f48cfabcd0a485,Parque Rio Ebro / Rio Segura,"Rio duero, Móstoles Comunidad de Madrid",40.313826,-3.878311
+542,mostoles,Park,4ccee6d272106dcb6cfbab99,Unsure,1605.0,/v3/places/4ccee6d272106dcb6cfbab99,Parque Prado Ovejero,"Calle de Jacinto, Móstoles Comunidad de Madrid",40.338496,-3.859112
+543,mostoles,Park,4e2208161f6effe84f77da94,LikelyOpen,1627.0,/v3/places/4e2208161f6effe84f77da94,Parque las Cumbres,,40.313601,-3.878634
+544,mostoles,Park,4f3039bee4b0599151ee502c,LikelyOpen,1732.0,/v3/places/4f3039bee4b0599151ee502c,Parque Manuela Malasaña,Móstoles Comunidad de Madrid,40.308589,-3.860766
+545,mostoles,Park,4df78fefb0fba21ee54f5ad5,LikelyOpen,1747.0,/v3/places/4df78fefb0fba21ee54f5ad5,Parque Columpios,28935 Móstoles Comunidad de Madrid,40.326944,-3.885142
+546,mostoles,Park,6421d94d831cf403c0d78520,VeryLikelyOpen,1867.0,/v3/places/6421d94d831cf403c0d78520,Parque Fuentecisneros,28922 Alcorcón Comunidad de Madrid,40.339281,-3.856181
+547,mostoles,Park,3c373179eb14450a309952dc,Unsure,382.0,/v3/places/3c373179eb14450a309952dc,Fernandez Pascual Eduardo,"Avenida de la Constitucion, 50, 28931 Móstoles Madrid",40.326031,-3.861422
+548,mostoles,Park,f0e14fb945304e80624f7257,LikelyOpen,1036.0,/v3/places/f0e14fb945304e80624f7257,Princesas y Piratas,"Calle Salcillo, 11, 28932 Móstoles Madrid",40.333178,-3.86524
+549,mostoles,Park,f43d269e2d63480ce441fe57,Unsure,1301.0,/v3/places/f43d269e2d63480ce441fe57,La Casita de Daman,"Nueva York, 36, 28938 Móstoles Madrid",40.314991,-3.854874
+550,navacerrada,Park,5f22d578bb6c7b7f8462aa38,LikelyOpen,95.0,/v3/places/5f22d578bb6c7b7f8462aa38,Parque Infantil,"Avenida de Madrid, 28491 Navacerrada Comunidad de Madrid",40.728416,-4.01619
+551,navacerrada,Park,4dbd82fa0437955ec04de6cd,LikelyOpen,354.0,/v3/places/4dbd82fa0437955ec04de6cd,Pino Manolo,Navacerrada Comunidad de Madrid,40.729461,-4.011052
+552,navacerrada,Park,4de6740cd22d7fddb9d78e9a,LikelyOpen,474.0,/v3/places/4de6740cd22d7fddb9d78e9a,Parque Muñoyerro,Navacerrada Comunidad de Madrid,40.725902,-4.018093
+553,navacerrada,Park,4be49101cf200f470125123c,LikelyOpen,580.0,/v3/places/4be49101cf200f470125123c,Parque infantil,"Calle de Amanecer, 12, 28491 Navacerrada Comunidad de Madrid",40.730071,-4.008484
+554,navalagamella,Park,4f26888ce4b0a93fc0ee80a6,LikelyOpen,172.0,/v3/places/4f26888ce4b0a93fc0ee80a6,Parque de la Iglesia,"Calle Ancha, Navalagamella Comunidad de Madrid",40.468532,-4.120783
+555,navalagamella,Park,4f2685bbe4b050258d3cff39,LikelyOpen,289.0,/v3/places/4f2685bbe4b050258d3cff39,Parque del Hondillo,"Calle San Sebastian, 44, 28212 Navalagamella Comunidad de Madrid",40.47147,-4.124013
+556,navalagamella,Park,4f50b7dfe4b0b5f8687ee948,LikelyOpen,337.0,/v3/places/4f50b7dfe4b0b5f8687ee948,Parque Paseo Mirador de la Iglesia,,40.468597,-4.118759
+557,navalagamella,Park,4f354175e4b0e4d04f43add0,LikelyOpen,882.0,/v3/places/4f354175e4b0e4d04f43add0,Parque el Romeral,Romeral,40.462808,-4.129153
+558,navalcarnero,Park,4e010c9662e12fb08939466c,Unsure,482.0,/v3/places/4e010c9662e12fb08939466c,Parque Pozo Concejo,28600 Navalcarnero Comunidad de Madrid,40.283386,-4.013963
+559,navalcarnero,Park,4e0cdf8de4cdc8c1cded11d3,LikelyOpen,615.0,/v3/places/4e0cdf8de4cdc8c1cded11d3,Parque de la Crispina,28600 Navalcarnero Comunidad de Madrid,40.284881,-4.020533
+560,navalcarnero,Park,4dc5326db0fb5556cce98fb3,VeryLikelyOpen,650.0,/v3/places/4dc5326db0fb5556cce98fb3,Parque de los Charcones,Navalcarnero Comunidad de Madrid,40.287917,-4.006491
+561,navalcarnero,Park,4e1584ebfa764fb14ae7ac38,LikelyOpen,653.0,/v3/places/4e1584ebfa764fb14ae7ac38,Parque los Pinos,"Calle Mieres, s/n, 28600 Navalcarnero Comunidad de Madrid",40.28434,-4.020605
+562,navalcarnero,Park,58fcae43a9fe125948e47299,LikelyOpen,700.0,/v3/places/58fcae43a9fe125948e47299,Parque de la Tirolina,28600 Navalcarnero Comunidad de Madrid,40.282408,-4.009855
+563,navalcarnero,Park,4d9b1a2173df8cfa303ceeec,LikelyOpen,752.0,/v3/places/4d9b1a2173df8cfa303ceeec,Parque de el Señorio,28600 Navalcarnero Comunidad de Madrid,40.287375,-4.023169
+564,navalcarnero,Park,4df5f2d245dd4e2693487369,Unsure,785.0,/v3/places/4df5f2d245dd4e2693487369,Parque de los Tubos,Navalcarnero Comunidad de Madrid,40.285006,-4.022853
+565,navalcarnero,Park,518c081550190dd28adcd3af,LikelyOpen,792.0,/v3/places/518c081550190dd28adcd3af,Parque de San Jorge,"C/ Juan Ramón Jiménez, 28600 Navalcarnero Comunidad de Madrid",40.284943,-4.022879
+566,navalcarnero,Park,6065f0642035106f99a35927,VeryLikelyOpen,1529.0,/v3/places/6065f0642035106f99a35927,Parque de San Juan Bautista,28600 Navalcarnero Comunidad de Madrid,40.299989,-4.006132
+567,navalcarnero,Park,4e216a43ae6015b212a560ca,LikelyOpen,1639.0,/v3/places/4e216a43ae6015b212a560ca,Parque Regional del Rio Guadarrama,Guadarrama Comunidad de Madrid,40.286382,-3.99504
+568,navalcarnero,Monument,0e37c7d424e941aaa58d2814,Unsure,139.0,/v3/places/0e37c7d424e941aaa58d2814,La Casa de la Lonja,"Plazuela del Mercado, 18, 28600 Navalcarnero Madrid",40.288051,-4.01271
+569,navas-del-rey,Park,4edd12029a5286d92285635d,LikelyOpen,449.0,/v3/places/4edd12029a5286d92285635d,El Tren de la Navidad,Fuenlabrada Comunidad de Madrid,40.382649,-4.248755
+570,paracuellos-de-jarama,Park,4eddf9046da1642c60df7d19,LikelyOpen,298.0,/v3/places/4eddf9046da1642c60df7d19,Parque Infantil Nave Espacial,28860 Paracuellos Comunidad de Madrid,40.503285,-3.528898
+571,paracuellos-de-jarama,Park,4e2285561f6effe84f7d1987,LikelyOpen,1122.0,/v3/places/4e2285561f6effe84f7d1987,Pinarillo AVM,"Avenida de Sombra de la Torre, 14, 28860 Paracuellos de Jarama Comunidad de Madrid",40.505424,-3.518493
+572,paracuellos-de-jarama,Park,4e689fcb45dd6cc5bd0fe517,LikelyOpen,1551.0,/v3/places/4e689fcb45dd6cc5bd0fe517,Parque Infantil,28860 Paracuellos de Jarama Comunidad de Madrid,40.502598,-3.513642
+573,paracuellos-de-jarama,Park,52e55b5f498e706e7eab1563,LikelyOpen,1699.0,/v3/places/52e55b5f498e706e7eab1563,Canaima Park,Comunidad de Madrid,40.513258,-3.548566
+574,parla,Park,57efac90498ee915d315b50d,LikelyOpen,568.0,/v3/places/57efac90498ee915d315b50d,Parque de la Ermita,28981 Parla Comunidad de Madrid,40.234709,-3.777593
+575,parla,Park,4faf7102754a19c8e3d655f2,VeryLikelyOpen,610.0,/v3/places/4faf7102754a19c8e3d655f2,Parque Vía de Ronda,Parla Comunidad de Madrid,40.238329,-3.778978
+576,parla,Park,51a3a019498e4b108506fb1a,Unsure,635.0,/v3/places/51a3a019498e4b108506fb1a,Paseo Real,Principado de Asturias,40.232122,-3.774782
+577,parla,Park,4de27932d22d2a4ecdc65512,LikelyOpen,642.0,/v3/places/4de27932d22d2a4ecdc65512,Parque de la Garrapata,"C/ Mexico, 28980 Parla Comunidad de Madrid",40.231884,-3.769613
+578,parla,Park,506f206fe4b025a930d83168,LikelyOpen,748.0,/v3/places/506f206fe4b025a930d83168,parque de las Montañas,28982  Comunidad de Madrid,40.231456,-3.767731
+579,parla,Park,4e833f1a0aaf371d66aadecf,Unsure,808.0,/v3/places/4e833f1a0aaf371d66aadecf,Bichos,"Calle Toledo, 34, 28981 Parla Comunidad de Madrid",40.230912,-3.776206
+580,parla,Park,c9c4f4a825824528c84e3b12,Unsure,846.0,/v3/places/c9c4f4a825824528c84e3b12,Rayuela,"Isaac Albéniz, 16, 28981 Parla Comunidad de Madrid",40.229714,-3.773959
+581,parla,Park,58c2b0af424f9335297db94e,LikelyOpen,915.0,/v3/places/58c2b0af424f9335297db94e,Paseo Marítimo Perruno,28983 Parla Comunidad de Madrid,40.23761,-3.761104
+582,parla,Park,4e2eaadfd1646b407b858e6a,LikelyOpen,1021.0,/v3/places/4e2eaadfd1646b407b858e6a,Parque de la Ballena,"Calle Real, s/n, Parla Comunidad de Madrid",40.245116,-3.767656
+583,parla,Park,4d975e819079b1f73f42110a,LikelyOpen,1172.0,/v3/places/4d975e819079b1f73f42110a,Nanitos y Pelusas,"Calle Icíar Bollaín, 3, 28981 Parla Comunidad de Madrid",40.230943,-3.778789
+584,parla,Park,4e271fffc65bb6120fd29104,VeryLikelyOpen,1475.0,/v3/places/4e271fffc65bb6120fd29104,Parque Parla Este,Parla Comunidad de Madrid,40.228524,-3.75888
+585,parla,Park,4cd045daf6378cfafe1cb4d6,VeryLikelyOpen,1650.0,/v3/places/4cd045daf6378cfafe1cb4d6,Parque del Universo,Madrid,40.227008,-3.757989
+586,parla,Park,512d10d5e4b014e6752112f2,Unsure,1658.0,/v3/places/512d10d5e4b014e6752112f2,La Jungla Perdida,"Turin, s/n, 28983 Parla Comunidad de Madrid",40.236125,-3.75241
+587,parla,Park,5011ab79e4b0bc7cf44a0a9a,LikelyOpen,1905.0,/v3/places/5011ab79e4b0bc7cf44a0a9a,Parque de las primeras citas,,40.253712,-3.778795
+588,patones,Monument,82ceabb9747145d2fc4b9455,Unsure,1467.0,/v3/places/82ceabb9747145d2fc4b9455,Patones de Arriba,Patones Madrid,40.866035,-3.493183
+589,pinto,Park,4c609815832fa5930326f0d3,VeryLikelyOpen,464.0,/v3/places/4c609815832fa5930326f0d3,Parque Juan Carlos I,"Calle Pablo Picasso, s/n, 28320 Pinto Comunidad de Madrid",40.243357,-3.696003
+590,pinto,Park,574ae3f5498ea9fad30784f6,VeryLikelyOpen,302.0,/v3/places/574ae3f5498ea9fad30784f6,Plaza Ocho de Marzo,Comunidad de Madrid,40.238997,-3.698063
+591,pinto,Park,4eea2fd729c220d20eaefbe4,Unsure,327.0,/v3/places/4eea2fd729c220d20eaefbe4,Plaza de la Rábida,"Pza. de la Rábida, s/n, 28329 Pinto Comunidad de Madrid",40.241736,-3.704242
+592,pinto,Park,4d84a89140a7a35d4d3f0fbe,VeryLikelyOpen,474.0,/v3/places/4d84a89140a7a35d4d3f0fbe,Parque Municipal Nicolás Fuster,"Doce de Octubre, 28320 Pinto Comunidad de Madrid",40.239322,-3.704264
+593,pinto,Park,4e9e9f084901fd63b81fe9a8,LikelyOpen,710.0,/v3/places/4e9e9f084901fd63b81fe9a8,Parque Exacta Pares,28320 Pinto Comunidad de Madrid,40.245407,-3.694454
+594,pinto,Park,4f5356dde4b0b5d9dead9f67,VeryLikelyOpen,866.0,/v3/places/4f5356dde4b0b5d9dead9f67,Parque Norte,Comunidad de Madrid,40.248242,-3.696775
+595,pinto,Park,e4ec8343912b4c114f172e65,LikelyOpen,971.0,/v3/places/e4ec8343912b4c114f172e65,Pequeteca,"Plaza David Martín, 1, 28320 Pinto Comunidad de Madrid",40.233285,-3.683287
+596,pinto,Park,594ac6e8a2a6ce5a0317e3d1,LikelyOpen,1247.0,/v3/places/594ac6e8a2a6ce5a0317e3d1,Pinto Pinto Gorgorito,"Calle Italia, 14, 28320 Pinto Comunidad de Madrid",40.251695,-3.696088
+597,pinto,Park,4e85d36d9adf071fee3c4a73,VeryLikelyOpen,1471.0,/v3/places/4e85d36d9adf071fee3c4a73,Parque del Cementerio,28320 Pinto Comunidad de Madrid,40.254184,-3.699165
+598,pinto,Park,4bcb1ef1fb84c9b63e261e3e,LikelyOpen,1627.0,/v3/places/4bcb1ef1fb84c9b63e261e3e,Parque Alcalde Gabriel Martín Santos,Pinto Comunidad de Madrid,40.253551,-3.69065
+599,pinto,Park,2fb7002aaef24b00a38978a9,Unsure,364.0,/v3/places/2fb7002aaef24b00a38978a9,Parque Infantil Chichopark,"Salvador Dalí, 12, 28320 Pinto Madrid",40.238033,-3.698621
+600,pinto,Park,60e4ff2b97f4409370569a28,LikelyOpen,925.0,/v3/places/60e4ff2b97f4409370569a28,Palmas Palmitas,"Calle Navarra, 4, 28320 Pinto Madrid",40.249042,-3.697737
+601,pinto,Monument,62f2323003f7295022d1cca8,LikelyOpen,249.0,/v3/places/62f2323003f7295022d1cca8,Torre de Pinto,28320 Pinto Comunidad de Madrid,40.24139,-3.703395
+602,pinto,Monument,594ac6e8a2a6ce5a0317e3d1,LikelyOpen,1247.0,/v3/places/594ac6e8a2a6ce5a0317e3d1,Pinto Pinto Gorgorito,"Calle Italia, 14, 28320 Pinto Comunidad de Madrid",40.251695,-3.696088
+603,pozuelo-de-alarcon,Park,4d9233c114228cfaf24d477b,VeryLikelyOpen,1652.0,/v3/places/4d9233c114228cfaf24d477b,Parque de las Minas,28224 Pozuelo de Alarcón Comunidad de Madrid,40.448882,-3.807756
+604,pozuelo-de-alarcon,Park,4e8605462c5b35a3386d3e1a,VeryLikelyOpen,1846.0,/v3/places/4e8605462c5b35a3386d3e1a,Parque Prados de Torrejón,Pozuelo de Alarcón Comunidad de Madrid,40.44879,-3.803963
+605,pozuelo-de-alarcon,Park,4e0643a8c65b5bf27788a369,VeryLikelyOpen,375.0,/v3/places/4e0643a8c65b5bf27788a369,Parque la Gitana,Majadahonda Comunidad de Madrid,40.438001,-3.815393
+606,pozuelo-de-alarcon,Park,4bcb4c1c937ca593a740a992,VeryLikelyOpen,425.0,/v3/places/4bcb4c1c937ca593a740a992,Santuario Nuestra Señora de Schoenstatt,Madrid,40.431018,-3.813269
+607,pozuelo-de-alarcon,Park,4e4102a81f6e54050be49d8b,VeryLikelyOpen,594.0,/v3/places/4e4102a81f6e54050be49d8b,Parque el Pradillo,Pozuelo de Alarcón Comunidad de Madrid,40.439976,-3.815559
+608,pozuelo-de-alarcon,Park,51889b90498ed2659e13efb1,LikelyOpen,745.0,/v3/places/51889b90498ed2659e13efb1,Parque Cruz de la Atalaya,Atalaya,40.430299,-3.808131
+609,pozuelo-de-alarcon,Park,4bd312a8046076b04e127571,VeryLikelyOpen,957.0,/v3/places/4bd312a8046076b04e127571,Parque Fuente de la Salud,Pozuelo de Alarcón Comunidad de Madrid,40.443232,-3.813808
+610,pozuelo-de-alarcon,Park,4e903a19775bfdaabc3c48d8,LikelyOpen,967.0,/v3/places/4e903a19775bfdaabc3c48d8,Parque Atenas,28224 Pozuelo de Alarcón Comunidad de Madrid,40.434815,-3.803399
+611,pozuelo-de-alarcon,Park,4cde8d987e2e236a57e17f1b,LikelyOpen,993.0,/v3/places/4cde8d987e2e236a57e17f1b,Parque Europa,"Avenida de Europa, 1, 28224 Pozuelo de Alarcón Comunidad de Madrid",40.433896,-3.803249
+612,pozuelo-de-alarcon,Park,4f05c2e199116f05b5e5296f,VeryLikelyOpen,1008.0,/v3/places/4f05c2e199116f05b5e5296f,Parque Plaza de España,"Avenida de España, 10, 28224 Pozuelo de Alarcón Comunidad de Madrid",40.440682,-3.805914
+613,pozuelo-de-alarcon,Park,4c40b5ccd7fad13ae46906da,LikelyOpen,1066.0,/v3/places/4c40b5ccd7fad13ae46906da,Cerro Perdigones,Pozuelo de Alarcón Comunidad de Madrid,40.435335,-3.802261
+614,pozuelo-de-alarcon,Park,4d73f327e278f04d972751b8,LikelyOpen,1196.0,/v3/places/4d73f327e278f04d972751b8,Dog Run,28224 Pozuelo de Alarcón Comunidad de Madrid,40.440103,-3.802633
+615,pozuelo-de-alarcon,Park,4eaffb9e9911374b170db177,LikelyOpen,1363.0,/v3/places/4eaffb9e9911374b170db177,Descampado Acacias,,40.440402,-3.800592
+616,pozuelo-de-alarcon,Park,e83f8b5b3daf41dc792de291,Unsure,1417.0,/v3/places/e83f8b5b3daf41dc792de291,Miracle Play,"Carretera Húmera, 92, 28224 Pozuelo de Alarcón Comunidad de Madrid",40.435687,-3.799049
+617,pozuelo-de-alarcon,Park,4fcd1d86e4b096bc2c8a1434,LikelyOpen,1473.0,/v3/places/4fcd1d86e4b096bc2c8a1434,Bule Avenue,,40.436203,-3.797529
+618,pozuelo-de-alarcon,Park,4e75c808a809582dd61667e1,LikelyOpen,1793.0,/v3/places/4e75c808a809582dd61667e1,Circuito de Bicis y Patines Pozuelo,Pozuelo Comunidad de Madrid,40.448808,-3.804645
+619,pozuelo-de-alarcon,Park,5860fc8c0319b827e6d36b0c,LikelyOpen,1909.0,/v3/places/5860fc8c0319b827e6d36b0c,Playground,,40.439375,-3.793131
+620,pozuelo-de-alarcon,Park,99f5c7181b28458194fab5d8,Unsure,1026.0,/v3/places/99f5c7181b28458194fab5d8,Parque Cerro de los Perdigones,Pozuelo de Alarcón Madrid,40.436245,-3.802875
+621,pozuelo-de-alarcon,Park,7420c014de43489de85401ff,Unsure,1676.0,/v3/places/7420c014de43489de85401ff,Parque de las Piedras,Pozuelo de Alarcón Madrid,40.441115,-3.796921
+622,pozuelo-de-alarcon,Park,54994ed6ccac4578fdc1ad03,LikelyOpen,1873.0,/v3/places/54994ed6ccac4578fdc1ad03,Parque del Dimante,Pozuelo de Alarcón Madrid,40.439593,-3.793653
+623,pozuelo-de-alarcon,Monument,4dbe2dd16e810768bf882b94,LikelyOpen,1716.0,/v3/places/4dbe2dd16e810768bf882b94,Bandera España Pozuelo,28224 Pozuelo de Alarcón Comunidad de Madrid,40.447173,-3.802957
+624,quijorna,Park,b23659a20765460d4e522bc0,LikelyOpen,115.0,/v3/places/b23659a20765460d4e522bc0,Elfos Empresa de Servicios Pedagogicos,"Calle Santa Ana, 4, 28693 Quijorna Madrid",40.428186,-4.057237
+625,rascafria,Monument,4d96cbb297d06ea88e2b0c0b,LikelyOpen,1827.0,/v3/places/4d96cbb297d06ea88e2b0c0b,Túnel Ave San Pedro,40194 Segovia Castilla y León,40.888291,-3.887187
+626,rascafria,Monument,b42a9374a6694d6d9aca2673,LikelyOpen,58.0,/v3/places/b42a9374a6694d6d9aca2673,Rascafria,Rascafría Madrid,40.904232,-3.879756
+627,reduena,Monument,9b5dda24716b44de8f09486d,LikelyOpen,1825.0,/v3/places/9b5dda24716b44de8f09486d,Iglesia Parroquial de San Juan Bautista,Cabanillas de la Sierra Madrid,40.821107,-3.624473
+628,rivas-vaciamadrid,Park,4d88e5b8401a224b7baf8118,Unsure,456.0,/v3/places/4d88e5b8401a224b7baf8118,Parque Bellavista,"Avda. Ramón y Cajal, 28522 Rivas-Vaciamadrid Comunidad de Madrid",40.356691,-3.526304
+629,rivas-vaciamadrid,Park,50926b0d29a67ce923ff6e0b,Unsure,1194.0,/v3/places/50926b0d29a67ce923ff6e0b,Abracadabra Fiestas Infantiles,"Joaquin Sorolla, 6 (Avenida de la Técnica), 28522 Rivas-Vaciamadrid Comunidad de Madrid",40.346086,-3.540343
+630,rivas-vaciamadrid,Park,4d98412ec19fb60ce567aa65,LikelyOpen,436.0,/v3/places/4d98412ec19fb60ce567aa65,Parque para perros,"Capa negra, 28522 Rivas-Vaciamadrid Comunidad de Madrid",40.35361,-3.536243
+631,rivas-vaciamadrid,Park,4d2f2bfead3a8cfa6c519bbd,LikelyOpen,921.0,/v3/places/4d2f2bfead3a8cfa6c519bbd,Parque,,40.347112,-3.524322
+632,rivas-vaciamadrid,Park,4d4ede06db1b3704bb44121f,VeryLikelyOpen,1332.0,/v3/places/4d4ede06db1b3704bb44121f,Parque Avda. de los Almendros,Almendros,40.365546,-3.532491
+633,rivas-vaciamadrid,Park,4dff98ee18a8d4e888b03b34,VeryLikelyOpen,1337.0,/v3/places/4dff98ee18a8d4e888b03b34,Parque Cerro del Telégrafo,"pilar bardem, Madrid Comunidad de Madrid",40.362475,-3.520417
+634,rivas-vaciamadrid,Park,56f2efa5cd1058e4092fa02c,LikelyOpen,1493.0,/v3/places/56f2efa5cd1058e4092fa02c,Parque Ecopolis,,40.353918,-3.548721
+635,rivas-vaciamadrid,Park,4da98c0293a04642f0685907,LikelyOpen,1557.0,/v3/places/4da98c0293a04642f0685907,Centro de Recursos Ambientales Chico Mendes,"Calle del Enebro, 27, 28522 Rivas-Vaciamadrid Comunidad de Madrid",40.3678,-3.525422
+636,rivas-vaciamadrid,Park,167d851c73e14bc62b35b524,LikelyOpen,1641.0,/v3/places/167d851c73e14bc62b35b524,Ludoteca Divertiteca,"Plaza del Monte Ciruelo, 2, 28523 Rivas-Vaciamadrid Comunidad de Madrid",40.361471,-3.547666
+637,rivas-vaciamadrid,Park,4fa17a78e4b0ee815d154b85,VeryLikelyOpen,1822.0,/v3/places/4fa17a78e4b0ee815d154b85,Lago CC H2Ocio,,40.337526,-3.52685
+638,rivas-vaciamadrid,Park,4f8088bfe4b007a66561e926,VeryLikelyOpen,1974.0,/v3/places/4f8088bfe4b007a66561e926,Parque Asturias,Principado de Asturias,40.362873,-3.550972
+639,rivas-vaciamadrid,Park,4f534690e4b028a9204243d1,LikelyOpen,1976.0,/v3/places/4f534690e4b028a9204243d1,Parque Canino Parque Asturias,Principado de Asturias,40.361813,-3.551802
+640,rivas-vaciamadrid,Park,e3a8fa073336474c4441ebc1,LikelyOpen,116.0,/v3/places/e3a8fa073336474c4441ebc1,Mahela,28522 Rivas-Vaciamadrid Madrid,40.354469,-3.530301
+641,rivas-vaciamadrid,Monument,48a4f510614b4fe64cdd5801,LikelyOpen,1207.0,/v3/places/48a4f510614b4fe64cdd5801,Cromadrid,"Carretilla, 3, 28522 Rivas-Vaciamadrid Madrid",40.353584,-3.545347
+642,robledo-de-chavela,Park,4e63a489d4c06542ab76377c,LikelyOpen,977.0,/v3/places/4e63a489d4c06542ab76377c,El Robledillo,Comunidad de Madrid,40.507292,-4.230123
+643,robledo-de-chavela,Monument,393a3d5770fc487b50c1ed69,LikelyOpen,19.0,/v3/places/393a3d5770fc487b50c1ed69,Semana Santa,28013  Madrid,40.500878,-4.238318
+644,rozas-de-madrid-las,Park,4bb8c65153649c74544e47fb,VeryLikelyOpen,971.0,/v3/places/4bb8c65153649c74544e47fb,Parque París,Las Rozas Comunidad de Madrid,40.48941,-3.886122
+645,rozas-de-madrid-las,Park,4e9eab5d6c25364827a58c88,VeryLikelyOpen,1983.0,/v3/places/4e9eab5d6c25364827a58c88,Pinar de las Rozas,Pinar Comunidad de Madrid,40.507475,-3.890129
+646,rozas-de-madrid-las,Park,57b556f6498e1a4e26733205,VeryLikelyOpen,241.0,/v3/places/57b556f6498e1a4e26733205,Jardines del Arcipreste D. Abel Blanco,"Avenida de la Iglesia, 14, 28231 Las Rozas Comunidad de Madrid",40.491736,-3.87387
+647,rozas-de-madrid-las,Park,4bf7c792508c0f47c6f83d31,LikelyOpen,318.0,/v3/places/4bf7c792508c0f47c6f83d31,Dog Run,28230 Las Rozas Comunidad de Madrid,40.493295,-3.872065
+648,rozas-de-madrid-las,Park,4594822b78ec4e7261b516ff,LikelyOpen,367.0,/v3/places/4594822b78ec4e7261b516ff,Lian Centro Infantil,"Calle Esperanza, 4, 28231 Las Rozas Comunidad de Madrid",40.491098,-3.872604
+649,rozas-de-madrid-las,Park,4f084b72e4b08f52488b02bf,Unsure,384.0,/v3/places/4f084b72e4b08f52488b02bf,Parque de Dublín,28231 Las Rozas Comunidad de Madrid,40.490572,-3.872978
+650,rozas-de-madrid-las,Park,4dac76534df01c19b1b4e626,LikelyOpen,398.0,/v3/places/4dac76534df01c19b1b4e626,Dog Run,28231 Las Rozas Comunidad de Madrid,40.496604,-3.873975
+651,rozas-de-madrid-las,Park,4d957df697d06ea81657ec0a,VeryLikelyOpen,480.0,/v3/places/4d957df697d06ea81657ec0a,Parque Nueva Javeriana,"C/ de la Jabonería, 28231 Las Rozas Comunidad de Madrid",40.491925,-3.870569
+652,rozas-de-madrid-las,Park,4c0a47dcffb8c9b6163d6b61,LikelyOpen,557.0,/v3/places/4c0a47dcffb8c9b6163d6b61,Parque Otero Besteiro,"Calle de la Comunidad de Castilla-la Mancha, 38-78, 28231 Las Rozas Comunidad de Madrid",40.490267,-3.881084
+653,rozas-de-madrid-las,Park,4e6cf5b9ae603c15efda6161,LikelyOpen,631.0,/v3/places/4e6cf5b9ae603c15efda6161,Parque botanico,28231 Las Rozas Comunidad de Madrid,40.491803,-3.883047
+654,rozas-de-madrid-las,Park,55ec2113498eb91aea7257d5,LikelyOpen,641.0,/v3/places/55ec2113498eb91aea7257d5,Parque infantil P.Paris,,40.489097,-3.881038
+655,rozas-de-madrid-las,Park,4fe0268ce4b03409c6ee9e32,VeryLikelyOpen,673.0,/v3/places/4fe0268ce4b03409c6ee9e32,Parque el Montecillo,,40.496991,-3.882175
+656,rozas-de-madrid-las,Park,5783c72d38faa3a2ed2b67aa,LikelyOpen,685.0,/v3/places/5783c72d38faa3a2ed2b67aa,Parque Piscis,28231 Las Rozas Comunidad de Madrid,40.487602,-3.872766
+657,rozas-de-madrid-las,Park,4ef0b5645c5ca1ec31296a30,LikelyOpen,748.0,/v3/places/4ef0b5645c5ca1ec31296a30,Dog Run,28230 Las Rozas Comunidad de Madrid,40.496611,-3.883562
+658,rozas-de-madrid-las,Park,57150d25498e1a08ee7505e5,VeryLikelyOpen,795.0,/v3/places/57150d25498e1a08ee7505e5,Parque Mercedes Formica,Comunidad de Madrid,40.497853,-3.883118
+659,rozas-de-madrid-las,Park,63fb42114fb614034f37d449,VeryLikelyOpen,797.0,/v3/places/63fb42114fb614034f37d449,Parque de los Tubos de las Rozas,28232 Las Rozas Comunidad de Madrid,40.497778,-3.883226
+660,rozas-de-madrid-las,Park,4b9570bef964a520b3a234e3,LikelyOpen,801.0,/v3/places/4b9570bef964a520b3a234e3,Parque de Lisboa,"Calle Comunidad de Baleares, 1-7, 28231 Las Rozas Comunidad de Madrid",40.48726,-3.870686
+661,rozas-de-madrid-las,Park,63fb429940a09800ce484c39,VeryLikelyOpen,838.0,/v3/places/63fb429940a09800ce484c39,Parque Infantil Mercedes Formica,"Calle Mercedes Formica, s/n, 28232 Las Rozas Comunidad de Madrid",40.49802,-3.883585
+662,rozas-de-madrid-las,Park,4cffffe70457b1f7a3d82e78,Unsure,1033.0,/v3/places/4cffffe70457b1f7a3d82e78,Dog Run,28231 Las Rozas Comunidad de Madrid,40.499341,-3.866536
+663,rozas-de-madrid-las,Park,4e629326c65b2dc89fb277d1,VeryLikelyOpen,1172.0,/v3/places/4e629326c65b2dc89fb277d1,Parque de Bruselas,28200 Majadahonda Comunidad de Madrid,40.484339,-3.868537
+664,rozas-de-madrid-las,Park,4d7e51b4555c59418322d077,LikelyOpen,1180.0,/v3/places/4d7e51b4555c59418322d077,Dog Run,28231 Las Rozas Comunidad de Madrid,40.491096,-3.862172
+665,rozas-de-madrid-las,Park,52e3ad2a11d201751b77f931,LikelyOpen,1206.0,/v3/places/52e3ad2a11d201751b77f931,Parque Alejandra y Martina Salas,"Calle Tulipán, 6, 28231 Las Rozas Comunidad de Madrid",40.502229,-3.867701
+666,rozas-de-madrid-las,Park,4e611e70c65b2dc89f0c44ea,LikelyOpen,1210.0,/v3/places/4e611e70c65b2dc89f0c44ea,Area Infantil,Las Rozas Comunidad de Madrid,40.483356,-3.870023
+667,rozas-de-madrid-las,Park,625be5b95fd84872a6e823f0,LikelyOpen,1275.0,/v3/places/625be5b95fd84872a6e823f0,Parque del Dinosaurio,"Calle Clara Campoamor, s/n, 28232 Las Rozas Comunidad de Madrid",40.504113,-3.880951
+668,rozas-de-madrid-las,Park,5070902be4b008c20d8c3ed5,LikelyOpen,1447.0,/v3/places/5070902be4b008c20d8c3ed5,Descampado Perros,,40.482239,-3.86681
+669,rozas-de-madrid-las,Park,4f340d59e4b005a8a09a5d71,LikelyOpen,1470.0,/v3/places/4f340d59e4b005a8a09a5d71,Pipican el Faro,,40.489254,-3.892402
+670,rozas-de-madrid-las,Park,2c7898f2763540bd9d895ce7,LikelyOpen,1576.0,/v3/places/2c7898f2763540bd9d895ce7,Animal party - fun4u,"Calle Dublín Polígono Industrial Európolis, 37 -b, 28232 Las Rozas Comunidad de Madrid",40.504469,-3.891774
+671,rozas-de-madrid-las,Park,4e7640e48998ed82a5034d8a,VeryLikelyOpen,1761.0,/v3/places/4e7640e48998ed82a5034d8a,Parque del Arcipreste,28220 Majadahonda Comunidad de Madrid,40.4779,-3.880748
+672,rozas-de-madrid-las,Park,b32d50a7bb214f0a0c98a05e,LikelyOpen,1772.0,/v3/places/b32d50a7bb214f0a0c98a05e,Sonrisas Centro de Ocio y Tiempo Libre Infantil y Juvenil,"Calle Dublín Polígono Industrial Európolis, 39, 28232 Las Rozas Comunidad de Madrid",40.5052,-3.892005
+673,rozas-de-madrid-las,Park,4da0eaf37aee54810c32b6fe,VeryLikelyOpen,1787.0,/v3/places/4da0eaf37aee54810c32b6fe,Parque del Cerro del Aire,"Avda. de España, 28220 Majadahonda Comunidad de Madrid",40.478669,-3.867081
+674,rozas-de-madrid-las,Park,4bb7727a98c7ef3bc7c12f02,LikelyOpen,1813.0,/v3/places/4bb7727a98c7ef3bc7c12f02,Kids Play,"Mónaco, 36, 28230 Las Rozas de Madrid Madrid",40.503758,-3.89261
+675,rozas-de-madrid-las,Park,4e5e8ffe7d8b67dc8ff5fc88,LikelyOpen,1952.0,/v3/places/4e5e8ffe7d8b67dc8ff5fc88,Estrella de la muerte,Estrella,40.475739,-3.875826
+676,rozas-de-madrid-las,Park,cebd05824f2e4f6faf5a096d,LikelyOpen,771.0,/v3/places/cebd05824f2e4f6faf5a096d,Parque Paris las Rozas,28231  Madrid,40.490086,-3.883921
+677,rozas-de-madrid-las,Park,b58974b494664f90662a74f5,Unsure,1813.0,/v3/places/b58974b494664f90662a74f5,Kids Play Parque Iinfantil,"Calle Mónaco Polígono Industrial Európolis, 36, 28232 Las Rozas de Madrid Madrid",40.503181,-3.892928
+678,san-agustin-del-guadalix,Park,fdbc8d360b264c50faedf5a8,Unsure,23.0,/v3/places/fdbc8d360b264c50faedf5a8,Diverarte,28750 San Agustín del Guadalix Comunidad de Madrid,40.679033,-3.61632
+679,san-agustin-del-guadalix,Park,4f57bb4ce4b01cdf1e9690d7,VeryLikelyOpen,306.0,/v3/places/4f57bb4ce4b01cdf1e9690d7,Parque Municipal,San Agustín del Guadalix Comunidad de Madrid,40.681428,-3.614766
+680,san-agustin-del-guadalix,Park,4f60cd71e4b0dabd47990545,LikelyOpen,537.0,/v3/places/4f60cd71e4b0dabd47990545,Parque de la Vega,,40.674871,-3.6134
+681,san-agustin-del-guadalix,Park,5055a7cee4b04df234be5790,VeryLikelyOpen,658.0,/v3/places/5055a7cee4b04df234be5790,Parque Lineal de San Agustín de Guadalix,San Agustín Comunidad de Madrid,40.684371,-3.620048
+682,san-fernando-de-henares,Park,4e063675d4c03ae0b9c24c0f,LikelyOpen,1319.0,/v3/places/4e063675d4c03ae0b9c24c0f,Paseo de los Chopos,28830 San Fernando de Henares Comunidad de Madrid,40.422586,-3.519724
+683,san-fernando-de-henares,Park,4f0877e9e4b09d21f692de97,LikelyOpen,98.0,/v3/places/4f0877e9e4b09d21f692de97,Plaza de España,San Fernando de Henares Comunidad de Madrid,40.425326,-3.533709
+684,san-fernando-de-henares,Park,4e303de122717d7058689505,VeryLikelyOpen,404.0,/v3/places/4e303de122717d7058689505,Plaza Primero de Mayo,28830 San Fernando de Henares Comunidad de Madrid,40.430165,-3.532729
+685,san-fernando-de-henares,Park,50327ca5e4b06d3d098da6ca,LikelyOpen,418.0,/v3/places/50327ca5e4b06d3d098da6ca,Parque Pablo Neruda,,40.428433,-3.5366
+686,san-fernando-de-henares,Park,4f91d934e4b07f1ded0f31e8,Unsure,525.0,/v3/places/4f91d934e4b07f1ded0f31e8,Parque Monserat Roig,"Virgen Del Templo, 28830 San Fernando de Henares Comunidad de Madrid",40.430165,-3.532729
+687,san-fernando-de-henares,Park,4c9def5854c8a1cd0e46884b,LikelyOpen,701.0,/v3/places/4c9def5854c8a1cd0e46884b,Parque Dolores Ibárruri,"Av. San Sebastián, 28830 San Fernando de Henares Comunidad de Madrid",40.4231,-3.527155
+688,san-fernando-de-henares,Park,4fc57f51e4b0e5e072fd0130,LikelyOpen,817.0,/v3/places/4fc57f51e4b0e5e072fd0130,Parque Abogados de Atocha,,40.430822,-3.529391
+689,san-fernando-de-henares,Park,50b64de6e4b0c55f3974c22b,LikelyOpen,831.0,/v3/places/50b64de6e4b0c55f3974c22b,parque Dulce Chacón,,40.430947,-3.529338
+690,san-fernando-de-henares,Park,4c01bf7bf8492d7f34675ffa,LikelyOpen,899.0,/v3/places/4c01bf7bf8492d7f34675ffa,Parque el General,"Avenida de San Sebastián, 28830 San Fernando de Henares Comunidad de Madrid",40.421862,-3.525156
+691,san-fernando-de-henares,Park,4e63b479b993678bb70f16f9,LikelyOpen,1027.0,/v3/places/4e63b479b993678bb70f16f9,Parque la Rambla,La Rambla,40.425146,-3.547173
+692,san-fernando-de-henares,Park,4e3f3653091a0fc67ea48c11,LikelyOpen,1034.0,/v3/places/4e3f3653091a0fc67ea48c11,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",40.429028,-3.544687
+693,san-fernando-de-henares,Park,614ca8288797c45bb1d16362,LikelyOpen,1221.0,/v3/places/614ca8288797c45bb1d16362,Parque de el Cerro,28822 Coslada Comunidad de Madrid,40.420471,-3.548234
+694,san-fernando-de-henares,Park,503fbb4fe4b0cb197d176e63,LikelyOpen,1708.0,/v3/places/503fbb4fe4b0cb197d176e63,Parque de las Casitas,28822 Coslada Comunidad de Madrid,40.426706,-3.555081
+695,san-fernando-de-henares,Park,4cc2d05f38aaa093c47c0862,LikelyOpen,1709.0,/v3/places/4cc2d05f38aaa093c47c0862,Parque de Carlos Marx,"Calle de Miguel Hernández, 28822 Coslada Comunidad de Madrid",40.423015,-3.557868
+696,san-fernando-de-henares,Park,4e03b4c1aeb7c869c3fb1eef,LikelyOpen,1841.0,/v3/places/4e03b4c1aeb7c869c3fb1eef,Parque Pellas,"Calle Bucarest, 28822 Coslada Comunidad de Madrid",40.415392,-3.55291
+697,san-fernando-de-henares,Park,4de9563dae6029331907fd96,LikelyOpen,1962.0,/v3/places/4de9563dae6029331907fd96,El Parque,"Calle  de José Martí, 28822 Coslada Comunidad de Madrid",40.417294,-3.556006
+698,san-fernando-de-henares,TV Station,5fdd31a46dfb3d7a342ead24,LikelyOpen,793.0,/v3/places/5fdd31a46dfb3d7a342ead24,Margin Capital,"Calle Soria, 14, 28830 San Fernando de Henares Comunidad de Madrid",40.431654,-3.532175
+699,san-lorenzo-de-el-escorial,Park,4cbae82043ec6dcbae53a731,VeryLikelyOpen,944.0,/v3/places/4cbae82043ec6dcbae53a731,Parque de la Herreria,El Escorial Comunidad de Madrid,40.585253,-4.152645
+700,san-lorenzo-de-el-escorial,Park,4c643e9b11c4a59359d5e811,LikelyOpen,302.0,/v3/places/4c643e9b11c4a59359d5e811,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,40.593299,-4.143676
+701,san-lorenzo-de-el-escorial,Park,4df38712483bdb5e137474b1,VeryLikelyOpen,351.0,/v3/places/4df38712483bdb5e137474b1,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",40.590808,-4.143791
+702,san-lorenzo-de-el-escorial,Park,57dd9645498ec726b9259640,LikelyOpen,377.0,/v3/places/57dd9645498ec726b9259640,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,40.590668,-4.143542
+703,san-lorenzo-de-el-escorial,Park,5fbaaeda28c2c71de0757148,VeryLikelyOpen,393.0,/v3/places/5fbaaeda28c2c71de0757148,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,40.589493,-4.145109
+704,san-lorenzo-de-el-escorial,Park,620f055502f5e94360e443bc,LikelyOpen,579.0,/v3/places/620f055502f5e94360e443bc,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",40.58815,-4.150592
+705,san-lorenzo-de-el-escorial,Park,53c15e28498e7716d205bf09,LikelyOpen,787.0,/v3/places/53c15e28498e7716d205bf09,Parque la Ladera,El Escorial Comunidad de Madrid,40.585622,-4.146183
+706,san-lorenzo-de-el-escorial,Park,54b6e42a498e71067153aed8,LikelyOpen,1614.0,/v3/places/54b6e42a498e71067153aed8,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,40.585662,-4.130398
+707,san-lorenzo-de-el-escorial,Park,4ef8afdab63446a509c01fe3,LikelyOpen,1738.0,/v3/places/4ef8afdab63446a509c01fe3,Manguilla,,40.579362,-4.136331
+708,san-lorenzo-de-el-escorial,Park,4c2bb9bd77cfe21efef3b4f1,VeryLikelyOpen,1754.0,/v3/places/4c2bb9bd77cfe21efef3b4f1,Los Jardincillos,El Escorial Comunidad de Madrid,40.584385,-4.129468
+709,san-lorenzo-de-el-escorial,Park,b64bd236e31e44eaecf32ea8,LikelyOpen,316.0,/v3/places/b64bd236e31e44eaecf32ea8,Los Romeros,,40.593324,-4.143512
+710,san-lorenzo-de-el-escorial,Monument,4c42f24bff711b8db6391405,VeryLikelyOpen,1227.0,/v3/places/4c42f24bff711b8db6391405,Casita del Infante,"Carretera Robledo, s/n, 28200 El Escorial Comunidad de Madrid",40.585345,-4.157992
+711,san-lorenzo-de-el-escorial,Monument,e38ddd616af14f2b58975d3e,LikelyOpen,1707.0,/v3/places/e38ddd616af14f2b58975d3e,Ermita de la Virgen de Gracia,28200 El Escorial Comunidad de Madrid,40.585078,-4.129564
+712,san-lorenzo-de-el-escorial,Monument,56c831c915514187b20a94b0,Unsure,188.0,/v3/places/56c831c915514187b20a94b0,Jardín de los Frailes,28200 San Lorenzo de el Escorial Madrid,40.594068,-4.148433
+713,san-lorenzo-de-el-escorial,Monument,80997383d0aa4e0f2a7c3d2c,LikelyOpen,430.0,/v3/places/80997383d0aa4e0f2a7c3d2c,Monasterio de el Escorial,"San Lorenzo de el Escorial, San Lorenzo de el Escorial, 28200 San Lorenzo de El Escorial Madrid",40.588815,-4.147699
+714,san-lorenzo-de-el-escorial,Monument,09b5d18763e445d74c68f13a,LikelyOpen,1490.0,/v3/places/09b5d18763e445d74c68f13a,Estación de el Escorial,28280 El Escorial Madrid,40.585308,-4.132391
+715,san-martin-de-la-vega,Park,5156ceb9e4b0ddfa2443f68e,VeryLikelyOpen,1372.0,/v3/places/5156ceb9e4b0ddfa2443f68e,Parque Tierno Galván,,40.218016,-3.563823
+716,san-martin-de-valdeiglesias,Park,4e3c095baeb73139a16560ff,VeryLikelyOpen,1695.0,/v3/places/4e3c095baeb73139a16560ff,El Bosque Encantado,"Camino de Marañones, 217, 28680 San Martín de Valdeiglesias Comunidad de Madrid",40.347831,-4.404158
+717,san-martin-de-valdeiglesias,Park,525ec781498edaae681c458a,LikelyOpen,335.0,/v3/places/525ec781498edaae681c458a,Parque de la Estacion,,40.365381,-4.397472
+718,san-martin-de-valdeiglesias,Castle,4c7a43f83badb1f7fca95154,VeryLikelyOpen,243.0,/v3/places/4c7a43f83badb1f7fca95154,Castillo de la Coracera,"Calle de la Cuesta del Castillo, 11, 28680 San Martín de Valdeiglesias Comunidad de Madrid",40.362616,-4.401297
+719,san-sebastian-de-los-reyes,Park,4bf6ab0d004ed13a9bd842a0,VeryLikelyOpen,1188.0,/v3/places/4bf6ab0d004ed13a9bd842a0,Parque Temático del Barco Pirata,Alcobendas Comunidad de Madrid,40.536798,-3.628183
+720,san-sebastian-de-los-reyes,Park,4dc66646887717c8803bab67,LikelyOpen,1560.0,/v3/places/4dc66646887717c8803bab67,Parque de la Dehesa,San Sebastián de los Reyes Comunidad de Madrid,40.560239,-3.633443
+721,san-sebastian-de-los-reyes,Park,4bc0a91d4cdfc9b6dc2f9321,VeryLikelyOpen,1334.0,/v3/places/4bc0a91d4cdfc9b6dc2f9321,Jardín de la Vega,"Avenida Olímpica Con Una Superficie de 180.000, 28108 Alcobendas Comunidad de Madrid",40.536178,-3.631666
+722,san-sebastian-de-los-reyes,Park,4bd1e9c4462cb713df2adb07,LikelyOpen,1923.0,/v3/places/4bd1e9c4462cb713df2adb07,Parque de Andalucía,28100 Alcobendas Comunidad de Madrid,40.539522,-3.646352
+723,san-sebastian-de-los-reyes,Park,4c797b7493ef236a27c8af0f,LikelyOpen,772.0,/v3/places/4c797b7493ef236a27c8af0f,Parque de la Marina,28703 San Sebastián de los Reyes Comunidad de Madrid,40.553699,-3.627469
+724,san-sebastian-de-los-reyes,Park,4d541f65d4a6721ebfe291ac,LikelyOpen,1040.0,/v3/places/4d541f65d4a6721ebfe291ac,Parque,"Calle de Ramón Esteban, 30, 28701 Alcobendas Comunidad de Madrid",40.539004,-3.63162
+725,san-sebastian-de-los-reyes,Park,71eaa141ffd24d8a58e47783,LikelyOpen,378.0,/v3/places/71eaa141ffd24d8a58e47783,Colorin,"Sacramento, 3, 28701 San Sebastián de los Reyes Comunidad de Madrid",40.544654,-3.628691
+726,san-sebastian-de-los-reyes,Park,4fff4df9d63e295d76b70bad,LikelyOpen,635.0,/v3/places/4fff4df9d63e295d76b70bad,Área Canina Av. Ramón y Cajal,28700 San Sebastián de los Reyes Comunidad de Madrid,40.543967,-3.620011
+727,san-sebastian-de-los-reyes,Park,4f9144ef121d1e2a7d9039f1,Unsure,689.0,/v3/places/4f9144ef121d1e2a7d9039f1,Parque de Valencia,"Avenida de España, s/n (c/ Bachiller Alonso López), 28100 Alcobendas Comunidad de Madrid",40.544589,-3.632399
+728,san-sebastian-de-los-reyes,Park,d1ef5c9d9ee743eaeee09056,LikelyOpen,701.0,/v3/places/d1ef5c9d9ee743eaeee09056,La Marina,"Avenida Cataluña, 4 Bajo, 28703 San Sebastián de los Reyes Comunidad de Madrid",40.553633,-3.627114
+729,san-sebastian-de-los-reyes,Park,51f8018a498eb166c4309500,LikelyOpen,780.0,/v3/places/51f8018a498eb166c4309500,Parque de las Sombras,San Sebastián de los Reyes Comunidad de Madrid,40.550475,-3.634356
+730,san-sebastian-de-los-reyes,Park,4c8285ced8086dcb7e597752,VeryLikelyOpen,826.0,/v3/places/4c8285ced8086dcb7e597752,Parque del Zoco las Pirámides,Madrid,40.554359,-3.629414
+731,san-sebastian-de-los-reyes,Park,50afbf63e4b04cb0a19bc1ad,LikelyOpen,908.0,/v3/places/50afbf63e4b04cb0a19bc1ad,Club de Ajedrez V Centenario,San Sebastián de los Reyes Comunidad de Madrid,40.554072,-3.63222
+732,san-sebastian-de-los-reyes,Park,4fb8c015e4b018d6ec5aa9f3,LikelyOpen,963.0,/v3/places/4fb8c015e4b018d6ec5aa9f3,Parque de Murcia,Alcobendas Comunidad de Madrid,40.539345,-3.630479
+733,san-sebastian-de-los-reyes,Park,4c6bbde2599fbe9ad644933f,LikelyOpen,1010.0,/v3/places/4c6bbde2599fbe9ad644933f,Parque Camilo Cienfuegos,"Jarama, Alcobendas Comunidad de Madrid",40.545458,-3.637783
+734,san-sebastian-de-los-reyes,Park,4f908136be77acb15eedb0e0,LikelyOpen,1037.0,/v3/places/4f908136be77acb15eedb0e0,Área Canina Parque Comunidad de Madrid,"c/ Jarama, 28100 Alcobendas Comunidad de Madrid",40.545246,-3.638026
+735,san-sebastian-de-los-reyes,Park,5220f28c11d2303d8df78500,LikelyOpen,1042.0,/v3/places/5220f28c11d2303d8df78500,Parque Comunidad de Madrid,Comunidad de Madrid,40.54536,-3.638054
+736,san-sebastian-de-los-reyes,Park,4fd38676e4b0a071e1407b64,LikelyOpen,1073.0,/v3/places/4fd38676e4b0a071e1407b64,Parque Infantil,,40.538756,-3.620301
+737,san-sebastian-de-los-reyes,Park,4ffef79345b0986b7d3c23c0,LikelyOpen,1093.0,/v3/places/4ffef79345b0986b7d3c23c0,Área Canina Polideportivo,"C. Teresa Perales, 28100 Alcobendas Comunidad de Madrid",40.538189,-3.621384
+738,san-sebastian-de-los-reyes,Park,4db66a4e4b226b343db4408d,LikelyOpen,1113.0,/v3/places/4db66a4e4b226b343db4408d,Parque de la Artesanía,"Calle de Ramón Fernández Guisasola, 22, 28100 Alcobendas Comunidad de Madrid",40.540983,-3.636226
+739,san-sebastian-de-los-reyes,Park,4d9df11c8efaa143920e72b7,LikelyOpen,1298.0,/v3/places/4d9df11c8efaa143920e72b7,Parque,,40.558274,-3.631591
+740,san-sebastian-de-los-reyes,Park,4e876fd093adc4c015bf2c27,LikelyOpen,1428.0,/v3/places/4e876fd093adc4c015bf2c27,Parque,,40.55051,-3.609649
+741,san-sebastian-de-los-reyes,Park,4e57cd8fb9935d203cfe1f98,LikelyOpen,1488.0,/v3/places/4e57cd8fb9935d203cfe1f98,Deposite Aquí las Heces de Su Perro,,40.559156,-3.634439
+742,san-sebastian-de-los-reyes,Park,50744637e4b0b56e98ce9c64,LikelyOpen,1495.0,/v3/places/50744637e4b0b56e98ce9c64,Cerro del Tambor,Cerro,40.554497,-3.641089
+743,san-sebastian-de-los-reyes,Park,4f907c3fbe77acb15eed2bd4,LikelyOpen,1511.0,/v3/places/4f907c3fbe77acb15eed2bd4,Área Canina Parque Arroyo de la Vega,"Av. de la Ermita, 28100 Alcobendas Comunidad de Madrid",40.535582,-3.634985
+744,san-sebastian-de-los-reyes,Park,4befc98ec601a593c1fcc2d1,LikelyOpen,1548.0,/v3/places/4befc98ec601a593c1fcc2d1,Parque Av Valdelasfuentes,San Sebastián de los Reyes Comunidad de Madrid,40.554841,-3.641558
+745,san-sebastian-de-los-reyes,Park,50005379e4b0d0c03f9c1212,VeryLikelyOpen,1554.0,/v3/places/50005379e4b0d0c03f9c1212,Parque Victimas del Terrorismo,Comunidad de Madrid,40.537022,-3.638439
+746,san-sebastian-de-los-reyes,Park,50d75fc4e4b06e4a01ae8367,LikelyOpen,1573.0,/v3/places/50d75fc4e4b06e4a01ae8367,Colorín Colorado,"Paseo Maria Maeztu, 4, 28707 San Sebastián de los Reyes Comunidad de Madrid",40.561061,-3.622434
+747,san-sebastian-de-los-reyes,Park,4f75cbdae4b0dbc5b645d1bb,LikelyOpen,1576.0,/v3/places/4f75cbdae4b0dbc5b645d1bb,Parque Infantil y Ping Pong,"Maestro Luna, s/n, 28100 Alcobendas Comunidad de Madrid",40.553534,-3.642877
+748,san-sebastian-de-los-reyes,Park,4f907117be77b06bd1a6c0c0,LikelyOpen,1614.0,/v3/places/4f907117be77b06bd1a6c0c0,Área Canina Parque Navarra,"Calle Marqués de la Valdavia, 90 (Av. de España), 28100 Alcobendas Comunidad de Madrid",40.5453,-3.644981
+749,san-sebastian-de-los-reyes,Park,4f96a2cbe5e8d28602a157a2,LikelyOpen,1620.0,/v3/places/4f96a2cbe5e8d28602a157a2,Área Canina Parque de Navarra,"Calle Marqués de la Valdavia, 90, 28100 Alcobendas Comunidad de Madrid",40.545175,-3.645034
+750,san-sebastian-de-los-reyes,Park,4dbfc8b881545e1cc7d526d0,LikelyOpen,1645.0,/v3/places/4dbfc8b881545e1cc7d526d0,Parque navarra,28100 Alcobendas Comunidad de Madrid,40.545077,-3.645306
+751,san-sebastian-de-los-reyes,Park,4e70e96589987b9ce529a395,Unsure,1653.0,/v3/places/4e70e96589987b9ce529a395,Parque de Extremadura,Alcobendas Comunidad de Madrid,40.552423,-3.644882
+752,san-sebastian-de-los-reyes,Park,4dbc68981e72b351cab26468,VeryLikelyOpen,1655.0,/v3/places/4dbc68981e72b351cab26468,Parque de la universidad,28100 Alcobendas Comunidad de Madrid,40.542205,-3.644451
+753,san-sebastian-de-los-reyes,Park,5328812e11d230d1b7e483a0,LikelyOpen,1673.0,/v3/places/5328812e11d230d1b7e483a0,Área Canina Pq. Valconejero,"Bulevar del Manzanares, 28701 San Sebastián de los Reyes Comunidad de Madrid",40.559256,-3.638232
+754,san-sebastian-de-los-reyes,Park,4f96a921e5e8d28602a214f6,LikelyOpen,1701.0,/v3/places/4f96a921e5e8d28602a214f6,Área Canina Parque Víctimas del Terrorismo,"c/ Pintor Velázquez, 28100 Alcobendas Comunidad de Madrid",40.53613,-3.639737
+755,san-sebastian-de-los-reyes,Park,4ee4d4e9c2eee7f357b112f8,VeryLikelyOpen,1740.0,/v3/places/4ee4d4e9c2eee7f357b112f8,Parque arroyo Valconejero,"Paseo Albacete, s/n, 28701 San Sebastián de los Reyes Comunidad de Madrid",40.556012,-3.643209
+756,san-sebastian-de-los-reyes,Park,4dd0443bd164679b8d2ce539,LikelyOpen,1776.0,/v3/places/4dd0443bd164679b8d2ce539,Parque Dehesa Vieja,"Avda. Quiñones, 28702 San Sebastián de los Reyes Comunidad de Madrid",40.56224,-3.61833
+757,san-sebastian-de-los-reyes,Park,4f905487be77b06bd1a34aed,Unsure,1791.0,/v3/places/4f905487be77b06bd1a34aed,Área canina Parque Andalucía,"Pintor Murillo, 14, 28100 Alcobendas Comunidad de Madrid",40.539328,-3.644441
+758,san-sebastian-de-los-reyes,Park,532884f5498e867c1ba412df,LikelyOpen,1822.0,/v3/places/532884f5498e867c1ba412df,Área Canina Pq. Valconejero 2,28702 San Sebastián de los Reyes Comunidad de Madrid,40.562874,-3.633095
+759,san-sebastian-de-los-reyes,Park,4dd427de22716ea3ce57664c,LikelyOpen,1834.0,/v3/places/4dd427de22716ea3ce57664c,Parque de Perros,"Calle de María Moliner, 2A, 28702 San Sebastián de los Reyes Comunidad de Madrid",40.562779,-3.618255
+760,san-sebastian-de-los-reyes,Park,51af98c7498e7f0b89958e33,LikelyOpen,1847.0,/v3/places/51af98c7498e7f0b89958e33,Parque de Perros SanSe,San Sebastián de los Reyes Comunidad de Madrid,40.559811,-3.611537
+761,san-sebastian-de-los-reyes,Park,4fad04db6d866e7143cb70fc,VeryLikelyOpen,1918.0,/v3/places/4fad04db6d866e7143cb70fc,Recinto Ferial Alcobendas,"Huelva, s/n (Parque de Andalucía), 28100 Alcobendas Comunidad de Madrid",40.541593,-3.64747
+762,san-sebastian-de-los-reyes,Park,4f96a5e6e5e8d28602a1b3c8,LikelyOpen,1959.0,/v3/places/4f96a5e6e5e8d28602a1b3c8,Área Canina Parque Castilla la Mancha,"c/ Pintor Murillo, 28100 Alcobendas Comunidad de Madrid",40.5418,-3.648073
+763,san-sebastian-de-los-reyes,Park,4f96b759e5e8d28602a3bf61,LikelyOpen,1963.0,/v3/places/4f96b759e5e8d28602a3bf61,Área Canina Clara Campoamor,"Av. de Quiñones, 28700 San Sebastián de los Reyes Comunidad de Madrid",40.563452,-3.616436
+764,san-sebastian-de-los-reyes,Park,50caf509fa074232ca9612e5,Unsure,655.0,/v3/places/50caf509fa074232ca9612e5,Parque de la Marina,28700  Madrid,40.553172,-3.627463
+765,san-sebastian-de-los-reyes,Park,26daa0ca8eaf4c1b6f4be56c,LikelyOpen,981.0,/v3/places/26daa0ca8eaf4c1b6f4be56c,Parque de Félix Rodríguez de la Fuente,Alcobendas Madrid,40.544395,-3.637006
+766,san-sebastian-de-los-reyes,Park,65a18c606e45479004182e0e,LikelyOpen,1251.0,/v3/places/65a18c606e45479004182e0e,Conservera Bromar,"Avenida Antonio Machado, 81, 28700 San Sebastián de los Reyes Madrid",40.557394,-3.632807
+767,san-sebastian-de-los-reyes,Park,55ce39199ddf4873cb4ae0e6,LikelyOpen,1569.0,/v3/places/55ce39199ddf4873cb4ae0e6,Parque de las Cepas,Madrid,40.550344,-3.644228
+768,san-sebastian-de-los-reyes,Monument,7d742596086641dbc1b7eb92,Unsure,504.0,/v3/places/7d742596086641dbc1b7eb92,Monumento a los Reyes Católicos,"Calle de San Onofre, San Sebastián de los Reyes Madrid",40.551389,-3.628831
+769,san-sebastian-de-los-reyes,Monument,8effe272b7db4257c6b75538,LikelyOpen,1977.0,/v3/places/8effe272b7db4257c6b75538,Parroquia de Nuestra Señora de la Moraleja,"Calle de Nardo, 44, 28108 Alcobendas Madrid",40.53118,-3.635774
+770,san-sebastian-de-los-reyes,"Print, TV, Radio and Outdoor Advertising Service",c36f7ce6ace74cb149731212,LikelyOpen,970.0,/v3/places/c36f7ce6ace74cb149731212,FORMATO A6 Soluciones Graficas,"Avenida de Somosierra, 12, nave 33, 28703 San Sebastián de los Reyes Comunidad de Madrid",40.552067116827935,-3.617377281188965
+771,san-sebastian-de-los-reyes,TV Station,4b6aa7fcf964a52004db2be3,LikelyOpen,1430.0,/v3/places/4b6aa7fcf964a52004db2be3,Antena 3 Televisión,"Avenida Isla Graciosa, s/n, 28700 San Sebastián de los Reyes Comunidad de Madrid",40.557707,-3.615956
+772,san-sebastian-de-los-reyes,TV Station,514d4501e4b08debdef8769c,VeryLikelyOpen,1361.0,/v3/places/514d4501e4b08debdef8769c,Atresmedia,"Avenida Isla Graciosa, 13, 28703 San Sebastián de los Reyes Comunidad de Madrid",40.557707,-3.615956
+773,san-sebastian-de-los-reyes,TV Station,527a0f98498e2e7f6789fed0,LikelyOpen,1284.0,/v3/places/527a0f98498e2e7f6789fed0,I3 Television,"Calle Isla de Graciosa, 13, 28703 San Sebastián de los Reyes Comunidad de Madrid",40.556483,-3.616704
+774,san-sebastian-de-los-reyes,TV Station,5375f3f4498e3437caae76f7,LikelyOpen,1556.0,/v3/places/5375f3f4498e3437caae76f7,Digi24,"Calle de Anabel Segura, 14, Alcobendas Comunidad de Madrid",40.533977,-3.631447
+775,san-sebastian-de-los-reyes,TV Station,7e8d4c94e85447719610a058,LikelyOpen,1267.0,/v3/places/7e8d4c94e85447719610a058,La Sexta,"Avenida Isla Graciosa, 13, 28703 San Sebastián de los Reyes Madrid",40.556065,-3.616344
+776,san-sebastian-de-los-reyes,TV Station,c80f5721a92141c58d656312,LikelyOpen,1291.0,/v3/places/c80f5721a92141c58d656312,Antena 3 Televisión,"Isla Fuerteventura, 12, 28700 San Sebastián de los Reyes Madrid",40.557417,-3.618379
+777,san-sebastian-de-los-reyes,TV Station,cba9bcedd41240e4ac0089b5,Unsure,1298.0,/v3/places/cba9bcedd41240e4ac0089b5,Uniprex Valencia Tv,"Fuerteventura, 12, 28703 San Sebastián de los Reyes Madrid",40.557569,-3.618545
+778,santos-de-la-humosa-los,Park,4e16cfabd22d334ac057dd00,VeryLikelyOpen,566.0,/v3/places/4e16cfabd22d334ac057dd00,Mirador de la Alcarria,28817 Los Santos de la Humosa Comunidad de Madrid,40.505051,-3.252153
+779,serna-del-monte-la,Monument,4a470120ec564dc5ff1fae09,LikelyOpen,1735.0,/v3/places/4a470120ec564dc5ff1fae09,Ayuntamiento Braojos de la Sierra,Braojos Madrid,41.039387,-3.642364
+780,serranillos-del-valle,Park,4f23ec63e4b04f6e689b8aeb,LikelyOpen,1557.0,/v3/places/4f23ec63e4b04f6e689b8aeb,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,40.202587,-3.867015
+781,sevilla-la-nueva,Park,4e906a4030f81ec6ff7761eb,LikelyOpen,174.0,/v3/places/4e906a4030f81ec6ff7761eb,Parque de Baena,"Juan De Herrwra, Sevilla la Nueva Comunidad de Madrid",40.347179,-4.025526
+782,sevilla-la-nueva,Park,60a143fac611da6b0e009d9e,LikelyOpen,400.0,/v3/places/60a143fac611da6b0e009d9e,Parque Antón Sevillano,28609 Sevilla la Nueva Comunidad de Madrid,40.344827,-4.030642
+783,sevilla-la-nueva,Park,4e2a51e41f6ebe544247b303,LikelyOpen,411.0,/v3/places/4e2a51e41f6ebe544247b303,Parque el Olivar,28609 Sevilla la Nueva Comunidad de Madrid,40.345828,-4.031834
+784,sevilla-la-nueva,Monument,da94bb2b71ec41d989461c99,Unsure,133.0,/v3/places/da94bb2b71ec41d989461c99,Plaza Mayor de Brunete,Brunete Madrid,40.348715,-4.027874
+785,soto-del-real,Park,4fc103efe4b07c20e99e739a,VeryLikelyOpen,219.0,/v3/places/4fc103efe4b07c20e99e739a,Parque del Rio,Comunidad de Madrid,40.753886,-3.789196
+786,soto-del-real,Park,4ea85e95775bfe480344b716,LikelyOpen,318.0,/v3/places/4ea85e95775bfe480344b716,Zoco Real,Comunidad de Madrid,40.752661,-3.783016
+787,soto-del-real,Park,4f6e0e8be4b05c9c2b6fae0e,VeryLikelyOpen,912.0,/v3/places/4f6e0e8be4b05c9c2b6fae0e,Parque de los burdiales “Un Clásico”,,40.746337,-3.781224
+788,soto-del-real,Park,4f083200e4b039f5aca9dbcb,LikelyOpen,1312.0,/v3/places/4f083200e4b039f5aca9dbcb,Parque infantil Prado de la Iglesia,,40.762413,-3.776505
+789,talamanca-de-jarama,Park,4e4fea3aae6051db8dd2b4cf,VeryLikelyOpen,1045.0,/v3/places/4e4fea3aae6051db8dd2b4cf,La Chopera,28100 Talamanca de Jarama Comunidad de Madrid,40.752855,-3.520427
+790,talamanca-de-jarama,Monument,d8571952ddc1402724458b98,Unsure,211.0,/v3/places/d8571952ddc1402724458b98,Iglesia de San Juan Bautista,La Toba Guadalajara,40.746292,-3.515
+791,torrejon-de-ardoz,Park,4e6ce1f7b993061ea9037143,VeryLikelyOpen,453.0,/v3/places/4e6ce1f7b993061ea9037143,Parque ferrocarril,"Avenida de la Costituccion N86, Torrejón de Ardoz Comunidad de Madrid",40.456505,-3.474884
+792,torrejon-de-ardoz,Park,4e25c0a71f6ee0c70a62a5f1,LikelyOpen,556.0,/v3/places/4e25c0a71f6ee0c70a62a5f1,Parque del Agua,28850 Torrejón de Ardoz Comunidad de Madrid,40.458153,-3.472807
+793,torrejon-de-ardoz,Park,5151cad3e4b0cd7e63c5d82c,VeryLikelyOpen,556.0,/v3/places/5151cad3e4b0cd7e63c5d82c,El Gran Parque,,40.454914,-3.483518
+794,torrejon-de-ardoz,Park,4cd5b1d02944b1f7f8ba5eec,VeryLikelyOpen,556.0,/v3/places/4cd5b1d02944b1f7f8ba5eec,Parque San Isidro,San Isidro Madrid,40.454914,-3.483518
+795,torrejon-de-ardoz,Park,4f6090fae4b0f16f28cf4a54,LikelyOpen,561.0,/v3/places/4f6090fae4b0f16f28cf4a54,Parque Veredillas,28850 Torrejón de Ardoz Comunidad de Madrid,40.461795,-3.474015
+796,torrejon-de-ardoz,Park,4fc0ca57e4b02131fa4ce62d,LikelyOpen,621.0,/v3/places/4fc0ca57e4b02131fa4ce62d,Parque 11 de Marzo,"Avenida Madrid, 1 (Avenida Virgen de Loreto), Torrejón de Ardoz Comunidad de Madrid",40.463272,-3.474765
+797,torrejon-de-ardoz,Park,51227540e4b0d60623fac18b,VeryLikelyOpen,705.0,/v3/places/51227540e4b0d60623fac18b,Parque del Norte,,40.464611,-3.482614
+798,torrejon-de-ardoz,Park,4d81f99f2ad9a143df2a7d28,LikelyOpen,978.0,/v3/places/4d81f99f2ad9a143df2a7d28,Parque Félix Rodríguez de la Fuente,Comunidad de Madrid,40.453565,-3.470012
+799,torrejon-de-ardoz,Park,5165371ae4b0764fd75db3ad,LikelyOpen,1023.0,/v3/places/5165371ae4b0764fd75db3ad,Parque Paseo de la Chopera,,40.464196,-3.469552
+800,torrejon-de-ardoz,Park,640f0f4dd313563fd4f3f775,VeryLikelyOpen,1121.0,/v3/places/640f0f4dd313563fd4f3f775,Parque Girasol,28850 Torrejón de Ardoz Comunidad de Madrid,40.460557,-3.466277
+801,torrejon-de-ardoz,Park,525575aa11d2be9ef7906ec5,Unsure,1142.0,/v3/places/525575aa11d2be9ef7906ec5,Rio Ebro,28850 Torrejón de Ardoz Comunidad de Madrid,40.460705,-3.466061
+802,torrejon-de-ardoz,Park,4dd4eda81f6ec4e0bb847813,LikelyOpen,1150.0,/v3/places/4dd4eda81f6ec4e0bb847813,Columpios del Parque de los Patos,,40.465508,-3.468994
+803,torrejon-de-ardoz,Park,4bfc0c2fda7120a1237949fd,VeryLikelyOpen,1208.0,/v3/places/4bfc0c2fda7120a1237949fd,Parque de los Patos,"Avenida de Madrid, 17, 28850 Torrejón de Ardoz Comunidad de Madrid",40.465054,-3.467657
+804,torrejon-de-ardoz,Park,50b90ceae4b01cb32a276d24,LikelyOpen,1248.0,/v3/places/50b90ceae4b01cb32a276d24,Parque Maycas,Comunidad de Madrid,40.464339,-3.466507
+805,torrejon-de-ardoz,Park,590a0b47b1ec131d5c5a3d20,LikelyOpen,1312.0,/v3/places/590a0b47b1ec131d5c5a3d20,Parque Rosario,28850 Torrejón de Ardoz Comunidad de Madrid,40.450174,-3.468699
+806,torrejon-de-ardoz,Park,4dfdd0e7e4cdbe059c3dbe93,LikelyOpen,1316.0,/v3/places/4dfdd0e7e4cdbe059c3dbe93,Parque Madrid,Madrid Comunidad de Madrid,40.464405,-3.465637
+807,torrejon-de-ardoz,Park,4e5bd3adfa76d2b00c2c3708,LikelyOpen,1342.0,/v3/places/4e5bd3adfa76d2b00c2c3708,Columpios Tras Bar Milan,,40.464717,-3.465504
+808,torrejon-de-ardoz,Park,521f111b11d276a0d833ffb3,VeryLikelyOpen,1392.0,/v3/places/521f111b11d276a0d833ffb3,parque Budapest,,40.459829,-3.462761
+809,torrejon-de-ardoz,Park,4c1c524463750f47077cb667,VeryLikelyOpen,1506.0,/v3/places/4c1c524463750f47077cb667,Parque Grande,28850 Torrejón de Ardoz Comunidad de Madrid,40.446307,-3.47233
+810,torrejon-de-ardoz,Park,4e384ea21838d056d27b8493,VeryLikelyOpen,1508.0,/v3/places/4e384ea21838d056d27b8493,Parque Plaza del Progreso,Torrejón de Ardoz Comunidad de Madrid,40.447728,-3.468972
+811,torrejon-de-ardoz,Park,631875113a8edf1986ad7fc7,VeryLikelyOpen,1513.0,/v3/places/631875113a8edf1986ad7fc7,Parque Sur,28850 Torrejón de Ardoz Comunidad de Madrid,40.449395,-3.466352
+812,torrejon-de-ardoz,Park,63175ae0edb4fe5c4806a642,VeryLikelyOpen,1529.0,/v3/places/63175ae0edb4fe5c4806a642,Parque del Arte,28850 Torrejón de Ardoz Comunidad de Madrid,40.44781,-3.468402
+813,torrejon-de-ardoz,Park,4d0ded683905b1f704269d4b,LikelyOpen,1530.0,/v3/places/4d0ded683905b1f704269d4b,Parque de los Fresnos,"Zeus, Torrejón de Ardoz Comunidad de Madrid",40.446069,-3.472355
+814,torrejon-de-ardoz,Park,50f0727ce4b0c3a9cf525e3f,LikelyOpen,1544.0,/v3/places/50f0727ce4b0c3a9cf525e3f,Parque 'la Pradera,28850  Comunidad de Madrid,40.460578,-3.461218
+815,torrejon-de-ardoz,Park,4dcd8767ae603b786d18a2c7,Unsure,1600.0,/v3/places/4dcd8767ae603b786d18a2c7,Parque Alcatel,Torrejón de Ardoz Comunidad de Madrid,40.450113,-3.464211
+816,torrejon-de-ardoz,Park,4da491dbb521224b9f8135ee,VeryLikelyOpen,1622.0,/v3/places/4da491dbb521224b9f8135ee,Parque los Juncales,Torrejón de Ardoz Comunidad de Madrid,40.462066,-3.460662
+817,torrejon-de-ardoz,Park,4cc960ff41e75481b6e55b84,VeryLikelyOpen,1825.0,/v3/places/4cc960ff41e75481b6e55b84,Parque de las Estrellas,Madrid,40.448823,-3.462158
+818,torrejon-de-ardoz,Park,51238449e4b0c869566c1332,LikelyOpen,1846.0,/v3/places/51238449e4b0c869566c1332,pipican Parque Nuevo,,40.448807,-3.461859
+819,torrejon-de-ardoz,Park,632c7dfb738d032eeafc9556,VeryLikelyOpen,1962.0,/v3/places/632c7dfb738d032eeafc9556,Parque Residencial Torrejón,28850 Torrejón de Ardoz Comunidad de Madrid,40.452903,-3.457441
+820,torrejon-de-ardoz,Park,5597cfe3bbb74392e13e9b90,LikelyOpen,1543.0,/v3/places/5597cfe3bbb74392e13e9b90,Parque los Fresnos,Torrejón de Ardoz Madrid,40.444945,-3.477728
+821,torrejon-de-la-calzada,Park,50b100e3e4b0ca599ac2e047,LikelyOpen,1547.0,/v3/places/50b100e3e4b0ca599ac2e047,Airsoft el Cortijo,Comunidad de Madrid,40.188609,-3.80842
+822,torrejon-de-velasco,Park,4d32e3a42e56236a961721b4,LikelyOpen,321.0,/v3/places/4d32e3a42e56236a961721b4,Área Infantil,"Calle Francisco Alonso, 28990 Torrejón de Velasco Comunidad de Madrid",40.186885,-3.773119
+823,torrejon-de-velasco,Park,4d3195686c7c721efb3ba756,VeryLikelyOpen,326.0,/v3/places/4d3195686c7c721efb3ba756,Parque Provincias,"Calle Cuenca, 28990 Torrejón de Velasco Comunidad de Madrid",40.186835,-3.773064
+824,torrelodones,Park,4ffc784be4b0290718c3fff8,LikelyOpen,233.0,/v3/places/4ffc784be4b0290718c3fff8,Parque JH,,40.576267,-3.925841
+825,torrelodones,Park,5009c8c3e4b0fec2ccffc79c,VeryLikelyOpen,1844.0,/v3/places/5009c8c3e4b0fec2ccffc79c,Parque Pradogrande,,40.582231,-3.949004
+826,torrelodones,Park,4dd6abc6d22d38ef42d5584a,VeryLikelyOpen,1980.0,/v3/places/4dd6abc6d22d38ef42d5584a,Prado Grande,Prado Madrid,40.578151,-3.951944
+827,torremocha-de-jarama,Monument,2b27dac10b0442bcde14efaf,LikelyOpen,237.0,/v3/places/2b27dac10b0442bcde14efaf,Torremocha del Jarama,"Carretera M- de Torremocha a Uceda, s/n, 28189 Torremocha de Jarama Comunidad de Madrid",40.837093,-3.492159
+828,tres-cantos,Park,4bf8fc53508c0f47d6fd3e31,VeryLikelyOpen,244.0,/v3/places/4bf8fc53508c0f47d6fd3e31,Parque Central,28760 Tres Cantos Comunidad de Madrid,40.607803,-3.708941
+829,tres-cantos,Park,5b798d83b1538e002c2ce28d,LikelyOpen,542.0,/v3/places/5b798d83b1538e002c2ce28d,Parque Antonio López,28760 Tres Cantos Comunidad de Madrid,40.610468,-3.710426
+830,tres-cantos,Park,4dd7c065c65bee535ab936e6,LikelyOpen,606.0,/v3/places/4dd7c065c65bee535ab936e6,Parque Infantil Literatos 1,"Sector de los Literatos, 28, 28760 Tres Cantos Comunidad de Madrid",40.608659,-3.713187
+831,tres-cantos,Park,525e617c11d258276696751d,VeryLikelyOpen,666.0,/v3/places/525e617c11d258276696751d,Parque Central Tres Cantos,Tres Cantos Comunidad de Madrid,40.610314,-3.712718
+832,tres-cantos,Park,4dc67077d4c0ad9c0fa0fa2a,VeryLikelyOpen,676.0,/v3/places/4dc67077d4c0ad9c0fa0fa2a,Bike Park Tres Cantos,Tres Cantos Comunidad de Madrid,40.612526,-3.704718
+833,tres-cantos,Park,4f5e1f4ce4b06784fa05d4f7,VeryLikelyOpen,722.0,/v3/places/4f5e1f4ce4b06784fa05d4f7,Parque infantil del castillo,,40.602591,-3.713294
+834,tres-cantos,Park,4d6a35dd2acd6ea864b143c0,LikelyOpen,768.0,/v3/places/4d6a35dd2acd6ea864b143c0,Parque Infantil Descubridores 1,,40.609678,-3.714676
+835,tres-cantos,Park,4f21779ee4b0c3e5ef253ad0,LikelyOpen,786.0,/v3/places/4f21779ee4b0c3e5ef253ad0,Parque Infantil Pza Constitucion,Tres Cantos Comunidad de Madrid,40.599933,-3.709735
+836,tres-cantos,Park,4e0c9da66284f2bbda5ae395,LikelyOpen,865.0,/v3/places/4e0c9da66284f2bbda5ae395,Palmera Saharaui,"Avda del Parque, 28760 Tres Cantos Comunidad de Madrid",40.608476,-3.716489
+837,tres-cantos,Park,4d63e80ea45b548118e8062d,LikelyOpen,1009.0,/v3/places/4d63e80ea45b548118e8062d,Parque Infantil Artesanos 2,"Artesanos, 64, Tres Cantos Comunidad de Madrid",40.615313,-3.709837
+838,tres-cantos,Park,525bdbe311d2bece4f937855,Unsure,1011.0,/v3/places/525bdbe311d2bece4f937855,Embarcaciones,Comunidad de Madrid,40.597946,-3.702744
+839,tres-cantos,Park,4dadc8a66a23037eec97bff3,LikelyOpen,1038.0,/v3/places/4dadc8a66a23037eec97bff3,Parque Infantil Embarcaciones 4,Tres Cantos Comunidad de Madrid,40.597743,-3.702522
+840,tres-cantos,Park,4fba70597beb503189b7f71a,LikelyOpen,1223.0,/v3/places/4fba70597beb503189b7f71a,El caballito de Laura,"Calle del Fuego, 1, 28770 Tres Cantos Comunidad de Madrid",40.61324,-3.718085
+841,tres-cantos,Park,4d9b18f93a32a093ef688a19,LikelyOpen,1368.0,/v3/places/4d9b18f93a32a093ef688a19,Parque,,40.611853,-3.691872
+842,tres-cantos,Park,55199ca7498efa51483c6a4d,LikelyOpen,1484.0,/v3/places/55199ca7498efa51483c6a4d,Parque de las Siete Leguas,Comunidad de Madrid,40.613773,-3.721316
+843,tres-cantos,Park,4dc96df9d164c28eea836b09,LikelyOpen,1531.0,/v3/places/4dc96df9d164c28eea836b09,Mini Parque,"Calle del Tagarral, 10, 28760 Tres Cantos Comunidad de Madrid",40.593553,-3.700608
+844,tres-cantos,Park,520a60a111d2957a64b70fb5,LikelyOpen,1540.0,/v3/places/520a60a111d2957a64b70fb5,Parque Sector Islas,,40.592973,-3.703003
+845,tres-cantos,Park,4bf96cc55317a593b63b017f,LikelyOpen,1554.0,/v3/places/4bf96cc55317a593b63b017f,Parque Infantil,,40.593134,-3.701476
+846,tres-cantos,Park,5221e29811d2729e83a4eda8,LikelyOpen,1926.0,/v3/places/5221e29811d2729e83a4eda8,Parque de los Alcornocales,Comunidad de Madrid,40.591478,-3.700334
+847,tres-cantos,Monument,a9deccfd435e41a09f75676d,LikelyOpen,1597.0,/v3/places/a9deccfd435e41a09f75676d,Castillo de Soto de Vinuelas,Tres Cantos Comunidad de Madrid,40.611976,-3.688979
+848,tres-cantos,Monument,bb4ed48c6a07466240cedbc7,LikelyOpen,577.0,/v3/places/bb4ed48c6a07466240cedbc7,ACTION LIVE Tres Cantos,Tres Cantos Madrid,40.609043,-3.712564
+849,tres-cantos,Monument,73d2976576564f037faddb22,LikelyOpen,1085.0,/v3/places/73d2976576564f037faddb22,Plaza de la Estación,28760 Tres Cantos Madrid,40.599278,-3.715078
+850,tres-cantos,TV Station,55aadd3a498e17c485179839,LikelyOpen,1113.0,/v3/places/55aadd3a498e17c485179839,Movistar,Tres Cantos Comunidad de Madrid,40.599107,-3.697953
+851,tres-cantos,TV Station,53b2d576e8224244a959f496,LikelyOpen,1125.0,/v3/places/53b2d576e8224244a959f496,Dts Distribuidora de Television Digital,"Avenida Artesanos, 6, 28760 Tres Cantos Comunidad de Madrid",40.598462,-3.698764
+852,tres-cantos,TV Station,d9c0258ea8fc4cab2d6275fd,Unsure,1106.0,/v3/places/d9c0258ea8fc4cab2d6275fd,Canal Satelite Digital,"Avenida Artesanos, 6, 28760 Tres Cantos Madrid",40.598587,-3.698711
+853,valdemaqueda,Monument,5214dcbf97da4b384e2441d1,Unsure,1002.0,/v3/places/5214dcbf97da4b384e2441d1,Puente Mocha,Valdemaqueda Madrid,40.502246,-4.300479
+854,valdemorillo,Monument,4e6c1bea1495f34925691187,VeryLikelyOpen,445.0,/v3/places/4e6c1bea1495f34925691187,Plaza de toros la Candelaria Valdemorillo,28210 Valdemorillo Comunidad de Madrid,40.497991,-4.069579
+855,valdemoro,Park,4e652e82ae60e9edf6ebaf32,LikelyOpen,1148.0,/v3/places/4e652e82ae60e9edf6ebaf32,Los Lagos,Valdemoro Comunidad de Madrid,40.183308,-3.682841
+856,valdemoro,Park,4c0a9ab76071a59353dadf32,VeryLikelyOpen,487.0,/v3/places/4c0a9ab76071a59353dadf32,Parque Enrique Tierno Galván,Valdemoro Comunidad de Madrid,40.185893,-3.675653
+857,valdemoro,Park,622c99947707736f718156c1,VeryLikelyOpen,580.0,/v3/places/622c99947707736f718156c1,Parque Forestal Cerro del Castillo,28343 Valdemoro Comunidad de Madrid,40.194067,-3.670847
+858,valdemoro,Park,4de94ef47d8b02ee9f2ca631,LikelyOpen,626.0,/v3/places/4de94ef47d8b02ee9f2ca631,Parque Nuestra Señora de Monserrat,"Paseo de la estacion, 28340 Valdemoro Comunidad de Madrid",40.193014,-3.666407
+859,valdemoro,Park,4e88a4a9775b68cb831a5f26,LikelyOpen,628.0,/v3/places/4e88a4a9775b68cb831a5f26,Parque de Extremadura,,40.193256,-3.666763
+860,valdemoro,Park,5198edeb498e01d90691fcf4,LikelyOpen,641.0,/v3/places/5198edeb498e01d90691fcf4,Parque Enrique Tierno Galván,Comunidad de Madrid,40.188233,-3.678942
+861,valdemoro,Park,57385391498ee39bab92b8b9,LikelyOpen,793.0,/v3/places/57385391498ee39bab92b8b9,Parque Perros Agility,,40.195936,-3.670138
+862,valdemoro,Park,4e4eb3ddd164978659bfa738,VeryLikelyOpen,794.0,/v3/places/4e4eb3ddd164978659bfa738,Parque Duque de Ahumada,"Calle Libertad Numero, 1, 28040 Valdemoro Comunidad de Madrid",40.189898,-3.681218
+863,valdemoro,Park,4ec140ad93ad36d7a9b2862e,LikelyOpen,870.0,/v3/places/4ec140ad93ad36d7a9b2862e,Parque Infantil Hojarasca,,40.18424,-3.679704
+864,valdemoro,Park,4e82e98ad3e37ba06ecd9b7a,LikelyOpen,872.0,/v3/places/4e82e98ad3e37ba06ecd9b7a,Parque de las Sombras,,40.189838,-3.681624
+865,valdemoro,Park,534677b2498e4a24df6368c7,VeryLikelyOpen,1002.0,/v3/places/534677b2498e4a24df6368c7,Parque de las Víctimas del Terrorismo,28340 Valdemoro Comunidad de Madrid,40.195431,-3.67958
+866,valdemoro,Park,4ec62f5077c8be49210e01ca,VeryLikelyOpen,1111.0,/v3/places/4ec62f5077c8be49210e01ca,Parque de los Olivos,,40.178887,-3.670512
+867,valdemoro,Park,61af54fab1a341fbb8f127e8,LikelyOpen,1126.0,/v3/places/61af54fab1a341fbb8f127e8,Parque España,Valdemoro Comunidad de Madrid,40.18167,-3.680783
+868,valdemoro,Park,4e231fb922717a5245dbf345,VeryLikelyOpen,1141.0,/v3/places/4e231fb922717a5245dbf345,Parque Bolitas del Airón,"Paseo del Prado, s/n, 28343 Valdemoro Comunidad de Madrid",40.191593,-3.658462
+869,valdemoro,Park,4e9072195c5c4562effeea7c,LikelyOpen,1424.0,/v3/places/4e9072195c5c4562effeea7c,Parque de las Eras,Valdemoro Comunidad de Madrid,40.197302,-3.684058
+870,valdemoro,Park,4e823b217beb302d96f2f2cc,LikelyOpen,1577.0,/v3/places/4e823b217beb302d96f2f2cc,Guanta,28341 Valdemoro Comunidad de Madrid,40.189135,-3.690005
+871,valdemoro,Park,4db562290f2cc52c2110f7cc,LikelyOpen,1673.0,/v3/places/4db562290f2cc52c2110f7cc,Parque Adolfo Suárez,"Antonio Van de Per, 28342 Valdemoro Comunidad de Madrid",40.197692,-3.687404
+872,valdemoro,Park,4f593ca7e4b07f0bf59940fb,LikelyOpen,1676.0,/v3/places/4f593ca7e4b07f0bf59940fb,Playground,,40.197617,-3.687511
+873,valdemoro,Park,4ecfa77ecc219860f67f592c,LikelyOpen,1996.0,/v3/places/4ecfa77ecc219860f67f592c,Avd. del Mar Adriatico,,40.175938,-3.687765
+874,valdemoro,Park,20dc164956194d251ae6f723,Unsure,1027.0,/v3/places/20dc164956194d251ae6f723,Parque de las Eras,,40.193437,-3.681943
+875,valdemoro,Park,340a939d4c974cddb19bc60e,LikelyOpen,1528.0,/v3/places/340a939d4c974cddb19bc60e,Ludoteca Chia Junior,"Avenida Hispanoamérica, 50, 28341 Valdemoro Madrid",40.186211,-3.689097
+876,valdemoro,Park,8a460ce6511b485cd89c9ecf,Unsure,1528.0,/v3/places/8a460ce6511b485cd89c9ecf,Actilud Infantiles,"Avenida Hispano América, 50, 28341 Valdemoro Madrid",40.186211,-3.689097
+877,valverde-de-alcala,Park,5c2229e2f427de002c86d4e9,LikelyOpen,1598.0,/v3/places/5c2229e2f427de002c86d4e9,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,40.431979,-3.295011
+878,villalbilla,Park,5c2229e2f427de002c86d4e9,LikelyOpen,321.0,/v3/places/5c2229e2f427de002c86d4e9,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,40.431979,-3.295011
+879,villamanrique-de-tajo,Park,59bd10284186867189850394,VeryLikelyOpen,327.0,/v3/places/59bd10284186867189850394,Parque Fluvial Villamanrique de Tajo,28598 Villamanrique de Tajo Comunidad de Madrid,40.065794,-3.239405
+880,villanueva-de-la-canada,Park,4c8c036a509e37046d862f55,LikelyOpen,577.0,/v3/places/4c8c036a509e37046d862f55,Arevalo's Park,Arévalo,40.452004,-4.005417
+881,villanueva-de-la-canada,Park,4d60d40ed7206ea870c9f9f1,LikelyOpen,739.0,/v3/places/4d60d40ed7206ea870c9f9f1,Pinar de la Cañada,Cañada,40.451747,-3.996396
+882,villanueva-de-la-canada,Park,4e0cf1a08877936cb3f7187d,LikelyOpen,789.0,/v3/places/4e0cf1a08877936cb3f7187d,El Parque del Verano,28691 Villanueva de la Cañada Comunidad de Madrid,40.453012,-3.997402
+883,villanueva-de-la-canada,Park,5c61a3ceb9a5a8002c84be45,VeryLikelyOpen,803.0,/v3/places/5c61a3ceb9a5a8002c84be45,Parque Infantil Avda Metepec,"Avenida Metepec 2B, 28691 Villanueva de la Cañada Comunidad de Madrid",40.445388,-3.993606
+884,villanueva-de-la-canada,Park,4d5ac6f1f8ff236a08cfd94a,LikelyOpen,857.0,/v3/places/4d5ac6f1f8ff236a08cfd94a,Parque del Heiser,,40.452928,-3.995979
+885,villanueva-de-la-canada,Park,5d7bcc3069a1450008247016,VeryLikelyOpen,1280.0,/v3/places/5d7bcc3069a1450008247016,Parque Infantil,"Avenida De Castilla yLeón, 28691 Villanueva de la Cañada Comunidad de Madrid",40.436487,-3.997247
+886,villanueva-de-la-canada,Monument,676364908f9a4900fa0812e4,LikelyOpen,985.0,/v3/places/676364908f9a4900fa0812e4,Complejo Deportivo Santiago Apóstol,"Avenida Polideportivo, s/n, 28691 Villanueva de la Cañada Comunidad de Madrid",40.455226,-3.995173
+887,villanueva-de-la-canada,Monument,ddb3c3e13ed346b308eca5c0,Unsure,809.0,/v3/places/ddb3c3e13ed346b308eca5c0,Centro Deportivo San Isidro,Villanueva de la Cañada,40.440059,-4.00097
+888,villanueva-de-la-canada,Monument,44d77b2627c64dc48a278e53,Unsure,962.0,/v3/places/44d77b2627c64dc48a278e53,Piscina Cubierta Municipal,Villanueva de la Cañada Córdoba,40.454161,-3.996001
+889,villanueva-del-pardillo,Park,50817da7e4b09e409b84eeab,LikelyOpen,337.0,/v3/places/50817da7e4b09e409b84eeab,Fiestas de Villanueva del Pardillo,,40.493946,-3.963791
+890,villanueva-del-pardillo,Park,cfbe75a61929499e28e0283c,LikelyOpen,582.0,/v3/places/cfbe75a61929499e28e0283c,Ocio Infantil,"Gral. Mola, 13, 28229 Villanueva del Pardillo Comunidad de Madrid",40.490092,-3.963178
+891,villanueva-del-pardillo,Park,4e5d2e1088771beefa9570aa,LikelyOpen,596.0,/v3/places/4e5d2e1088771beefa9570aa,Parque de al Lado del Rio,Comunidad de Madrid,40.494181,-3.966993
+892,villanueva-del-pardillo,Park,4f8162b6e4b0ef20990bae3f,LikelyOpen,599.0,/v3/places/4f8162b6e4b0ef20990bae3f,Parque Antonio Machado,Villanueva del Pardillo Comunidad de Madrid,40.494118,-3.967019
+893,villanueva-del-pardillo,Park,4f5cba9ee4b0090c0ab5a08e,LikelyOpen,695.0,/v3/places/4f5cba9ee4b0090c0ab5a08e,Parque del Reloj,"Avda. De Madrid, Villanueva del Pardillo Comunidad de Madrid",40.48885,-3.958019
+894,villanueva-del-pardillo,Park,5b046b0fb9a5a8002c910638,LikelyOpen,1339.0,/v3/places/5b046b0fb9a5a8002c910638,Parque de la Tirolina,28229 Villanueva del Pardillo Comunidad de Madrid,40.483016,-3.962455
+895,villarejo-de-salvanes,Park,502c1d0f83025ae48dff342a,LikelyOpen,526.0,/v3/places/502c1d0f83025ae48dff342a,Parque Infantil,"c/ Viso, 28590 Villarejo de Salvanés Comunidad de Madrid",40.169294,-3.279958
+896,villaviciosa-de-odon,Park,54e89b5d498e1348dd51f8ba,LikelyOpen,1747.0,/v3/places/54e89b5d498e1348dd51f8ba,Mi Mundo,"Avenida de las Nieves, 35, 28935 Móstoles Comunidad de Madrid",40.350023,-3.881915
+897,villaviciosa-de-odon,Park,4fed68bde4b0f5b9d76b4fa2,LikelyOpen,350.0,/v3/places/4fed68bde4b0f5b9d76b4fa2,Parque de las Margaritas,,40.356448,-3.904184
+898,villaviciosa-de-odon,Park,4fcb4a74e4b0a6e7151b91e1,LikelyOpen,422.0,/v3/places/4fcb4a74e4b0a6e7151b91e1,Pinar del Castillo,Pinar,40.358165,-3.89535
+899,villaviciosa-de-odon,Park,503ba9e4e4b0105c0f87dbfc,LikelyOpen,710.0,/v3/places/503ba9e4e4b0105c0f87dbfc,Parque Vicente Ferrer,,40.358766,-3.908421
+900,villaviciosa-de-odon,Park,4eb9ce72f5b9ea8ad72b8677,LikelyOpen,792.0,/v3/places/4eb9ce72f5b9ea8ad72b8677,Parque Antonio Machado,28670 Villaviciosa de Odón Comunidad de Madrid,40.354856,-3.908984
+901,villaviciosa-de-odon,Park,4f8c367de4b0af4d5076f36f,LikelyOpen,836.0,/v3/places/4f8c367de4b0af4d5076f36f,Parque Vaillo,Villaviciosa de Odón Comunidad de Madrid,40.361322,-3.908654
+902,villaviciosa-de-odon,Park,51ffcb685019c1bb402374fd,LikelyOpen,1043.0,/v3/places/51ffcb685019c1bb402374fd,Matadero de Villaviciosa CQB ARISOFT,28670 Villaviciosa de Odón Comunidad de Madrid,40.351365,-3.890769
+903,villaviciosa-de-odon,Park,4c7a6f88566db60c43e7470e,LikelyOpen,1626.0,/v3/places/4c7a6f88566db60c43e7470e,Parque del Castillo,"Avenida del Castillo, 28670 Villaviciosa de Odón Comunidad de Madrid",40.357793,-3.881113
+904,villaviciosa-de-odon,Monument,5834bfa364f54721bc08814d,Unsure,747.0,/v3/places/5834bfa364f54721bc08814d,Discoteca Doblón,"Avenida Principe de Asturias, 94, Villaviciosa de Odón Madrid",40.360011,-3.90836
+905,zarzalejo,Park,4ed124af5c5c9528fa2230de,LikelyOpen,1577.0,/v3/places/4ed124af5c5c9528fa2230de,Pinar Zarzalejo,Pinar,40.540691,-4.165816
+906,zarzalejo,Park,533ff52e498edb19c2e9aff6,LikelyOpen,1803.0,/v3/places/533ff52e498edb19c2e9aff6,Parque Pedro Rodríguez-Ponga,"Avenida de la Estación, 45, Zarzalejo Comunidad de Madrid",40.539747,-4.163441
