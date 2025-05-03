@@ -1,0 +1,53 @@
+provincia,provincia_id,region_id
+Albacete,02,7
+Alicante/Alacant,03,15
+Almería,04,4
+Araba/Álava,01,10
+Asturias,33,11
+Ávila,05,8
+Badajoz,06,16
+"Balears, Illes",07,8743
+Barcelona,08,9
+Bizkaia,48,10
+Burgos,09,8
+Cáceres,10,16
+Cádiz,11,4
+Cantabria,39,6
+Castellón/Castelló,12,15
+Ciudad Real,13,7
+Córdoba,14,4
+"Coruña, A",15,17
+Cuenca,16,7
+Gipuzkoa,20,10
+Girona,17,9
+Granada,18,4
+Guadalajara,19,7
+Huelva,21,4
+Huesca,22,5
+Jaén,23,4
+León,24,8
+Lleida,25,9
+Lugo,27,17
+Madrid,28,13
+Málaga,29,4
+Murcia,30,21
+Navarra,31,14
+Ourense,32,17
+Palencia,34,8
+"Palmas, Las",35,8742
+Pontevedra,36,17
+"Rioja, La",26,20
+Salamanca,37,8
+Santa Cruz de Tenerife,38,8742
+Segovia,40,8
+Sevilla,41,4
+Soria,42,8
+Tarragona,43,9
+Teruel,44,5
+Toledo,45,7
+Valencia/València,46,15
+Valladolid,47,8
+Zamora,49,8
+Zaragoza,50,5
+Ceuta,51,8744
+Melilla,52,8745

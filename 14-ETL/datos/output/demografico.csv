@@ -1,0 +1,1873 @@
+grupo_edad,origen,sexo,year,total,provincia_id
+0-15 años,Españoles,Hombres,2020,27979.0,02
+0-15 años,Españoles,Mujeres,2020,25953.0,02
+0-15 años,Extranjeros,Hombres,2020,2445.0,02
+0-15 años,Extranjeros,Mujeres,2020,2191.0,02
+16-64 años,Españoles,Hombres,2020,118606.0,02
+16-64 años,Españoles,Mujeres,2020,114793.0,02
+16-64 años,Extranjeros,Hombres,2020,11488.0,02
+16-64 años,Extranjeros,Mujeres,2020,9436.0,02
+65 y más,Españoles,Hombres,2020,33242.0,02
+65 y más,Españoles,Mujeres,2020,41373.0,02
+65 y más,Extranjeros,Hombres,2020,321.0,02
+65 y más,Extranjeros,Mujeres,2020,443.0,02
+0-15 años,Españoles,Hombres,2020,123879.0,03
+0-15 años,Españoles,Mujeres,2020,116230.0,03
+0-15 años,Extranjeros,Hombres,2020,26167.0,03
+0-15 años,Extranjeros,Mujeres,2020,24953.0,03
+16-64 años,Españoles,Hombres,2020,488873.0,03
+16-64 años,Españoles,Mujeres,2020,480020.0,03
+16-64 años,Extranjeros,Hombres,2020,124773.0,03
+16-64 años,Extranjeros,Mujeres,2020,121991.0,03
+65 y más,Españoles,Hombres,2020,129671.0,03
+65 y más,Españoles,Mujeres,2020,166597.0,03
+65 y más,Extranjeros,Hombres,2020,38493.0,03
+65 y más,Extranjeros,Mujeres,2020,38241.0,03
+0-15 años,Españoles,Hombres,2020,52824.0,04
+0-15 años,Españoles,Mujeres,2020,50175.0,04
+0-15 años,Extranjeros,Hombres,2020,14105.0,04
+0-15 años,Extranjeros,Mujeres,2020,13379.0,04
+16-64 años,Españoles,Hombres,2020,189607.0,04
+16-64 años,Españoles,Mujeres,2020,185285.0,04
+16-64 años,Extranjeros,Hombres,2020,65918.0,04
+16-64 años,Extranjeros,Mujeres,2020,47971.0,04
+65 y más,Españoles,Hombres,2020,42233.0,04
+65 y más,Españoles,Mujeres,2020,53226.0,04
+65 y más,Extranjeros,Hombres,2020,6871.0,04
+65 y más,Extranjeros,Mujeres,2020,6351.0,04
+0-15 años,Españoles,Hombres,2020,23695.0,01
+0-15 años,Españoles,Mujeres,2020,22182.0,01
+0-15 años,Extranjeros,Hombres,2020,3252.0,01
+0-15 años,Extranjeros,Mujeres,2020,3097.0,01
+16-64 años,Españoles,Hombres,2020,93338.0,01
+16-64 años,Españoles,Mujeres,2020,92747.0,01
+16-64 años,Extranjeros,Hombres,2020,12870.0,01
+16-64 años,Extranjeros,Mujeres,2020,12283.0,01
+65 y más,Españoles,Hombres,2020,31035.0,01
+65 y más,Españoles,Mujeres,2020,38527.0,01
+65 y más,Extranjeros,Hombres,2020,334.0,01
+65 y más,Extranjeros,Mujeres,2020,580.0,01
+0-15 años,Españoles,Hombres,2020,57298.0,33
+0-15 años,Españoles,Mujeres,2020,54177.0,33
+0-15 años,Extranjeros,Hombres,2020,3158.0,33
+0-15 años,Extranjeros,Mujeres,2020,2942.0,33
+16-64 años,Españoles,Hombres,2020,297245.0,33
+16-64 años,Españoles,Mujeres,2020,300516.0,33
+16-64 años,Extranjeros,Hombres,2020,16903.0,33
+16-64 años,Extranjeros,Mujeres,2020,19978.0,33
+65 y más,Españoles,Hombres,2020,110476.0,33
+65 y más,Españoles,Mujeres,2020,153751.0,33
+65 y más,Extranjeros,Hombres,2020,986.0,33
+65 y más,Extranjeros,Mujeres,2020,1354.0,33
+0-15 años,Españoles,Hombres,2020,9370.0,05
+0-15 años,Españoles,Mujeres,2020,8669.0,05
+0-15 años,Extranjeros,Hombres,2020,1117.0,05
+0-15 años,Extranjeros,Mujeres,2020,1033.0,05
+16-64 años,Españoles,Hombres,2020,45880.0,05
+16-64 años,Españoles,Mujeres,2020,42511.0,05
+16-64 años,Extranjeros,Hombres,2020,3807.0,05
+16-64 años,Extranjeros,Mujeres,2020,4145.0,05
+65 y más,Españoles,Hombres,2020,18774.0,05
+65 y más,Españoles,Mujeres,2020,21988.0,05
+65 y más,Extranjeros,Hombres,2020,161.0,05
+65 y más,Extranjeros,Mujeres,2020,209.0,05
+0-15 años,Españoles,Hombres,2020,50481.0,06
+0-15 años,Españoles,Mujeres,2020,47847.0,06
+0-15 años,Extranjeros,Hombres,2020,1779.0,06
+0-15 años,Extranjeros,Mujeres,2020,1662.0,06
+16-64 años,Españoles,Hombres,2020,214177.0,06
+16-64 años,Españoles,Mujeres,2020,207509.0,06
+16-64 años,Extranjeros,Hombres,2020,7765.0,06
+16-64 años,Extranjeros,Mujeres,2020,8925.0,06
+65 y más,Españoles,Hombres,2020,57581.0,06
+65 y más,Españoles,Mujeres,2020,73512.0,06
+65 y más,Extranjeros,Hombres,2020,421.0,06
+65 y más,Extranjeros,Mujeres,2020,478.0,06
+0-15 años,Españoles,Hombres,2020,79066.0,07
+0-15 años,Españoles,Mujeres,2020,74641.0,07
+0-15 años,Extranjeros,Hombres,2020,16175.0,07
+0-15 años,Extranjeros,Mujeres,2020,15382.0,07
+16-64 años,Españoles,Hombres,2020,319755.0,07
+16-64 años,Españoles,Mujeres,2020,310582.0,07
+16-64 años,Extranjeros,Hombres,2020,87781.0,07
+16-64 años,Extranjeros,Mujeres,2020,84937.0,07
+65 y más,Españoles,Hombres,2020,74297.0,07
+65 y más,Españoles,Mujeres,2020,93167.0,07
+65 y más,Extranjeros,Hombres,2020,7224.0,07
+65 y más,Extranjeros,Mujeres,2020,8536.0,07
+0-15 años,Españoles,Hombres,2020,400042.0,08
+0-15 años,Españoles,Mujeres,2020,377523.0,08
+0-15 años,Extranjeros,Hombres,2020,68576.0,08
+0-15 años,Extranjeros,Mujeres,2020,64219.0,08
+16-64 años,Españoles,Hombres,2020,1506464.0,08
+16-64 años,Españoles,Mujeres,2020,1519981.0,08
+16-64 años,Extranjeros,Hombres,2020,369365.0,08
+16-64 años,Extranjeros,Mujeres,2020,349893.0,08
+65 y más,Españoles,Hombres,2020,446745.0,08
+65 y más,Españoles,Mujeres,2020,609089.0,08
+65 y más,Extranjeros,Hombres,2020,13124.0,08
+65 y más,Extranjeros,Mujeres,2020,18381.0,08
+0-15 años,Españoles,Hombres,2020,75820.0,48
+0-15 años,Españoles,Mujeres,2020,71793.0,48
+0-15 años,Extranjeros,Hombres,2020,6671.0,48
+0-15 años,Extranjeros,Mujeres,2020,6109.0,48
+16-64 años,Españoles,Hombres,2020,329974.0,48
+16-64 años,Españoles,Mujeres,2020,330830.0,48
+16-64 años,Extranjeros,Hombres,2020,35887.0,48
+16-64 años,Extranjeros,Mujeres,2020,36621.0,48
+65 y más,Españoles,Hombres,2020,110539.0,48
+65 y más,Españoles,Mujeres,2020,152936.0,48
+65 y más,Extranjeros,Hombres,2020,907.0,48
+65 y más,Extranjeros,Mujeres,2020,1356.0,48
+0-15 años,Españoles,Hombres,2020,22755.0,09
+0-15 años,Españoles,Mujeres,2020,21490.0,09
+0-15 años,Extranjeros,Hombres,2020,2408.0,09
+0-15 años,Extranjeros,Mujeres,2020,2320.0,09
+16-64 años,Españoles,Hombres,2020,103064.0,09
+16-64 años,Españoles,Mujeres,2020,96836.0,09
+16-64 años,Extranjeros,Hombres,2020,11427.0,09
+16-64 años,Extranjeros,Mujeres,2020,11561.0,09
+65 y más,Españoles,Hombres,2020,38514.0,09
+65 y más,Españoles,Mujeres,2020,46365.0,09
+65 y más,Extranjeros,Hombres,2020,410.0,09
+65 y más,Extranjeros,Mujeres,2020,500.0,09
+0-15 años,Españoles,Hombres,2020,25044.0,10
+0-15 años,Españoles,Mujeres,2020,23815.0,10
+0-15 años,Extranjeros,Hombres,2020,1103.0,10
+0-15 años,Extranjeros,Mujeres,2020,1043.0,10
+16-64 años,Españoles,Hombres,2020,122407.0,10
+16-64 años,Españoles,Mujeres,2020,116563.0,10
+16-64 años,Extranjeros,Hombres,2020,5280.0,10
+16-64 años,Extranjeros,Mujeres,2020,5341.0,10
+65 y más,Españoles,Hombres,2020,39810.0,10
+65 y más,Españoles,Mujeres,2020,50574.0,10
+65 y más,Extranjeros,Hombres,2020,440.0,10
+65 y más,Extranjeros,Mujeres,2020,430.0,10
+0-15 años,Españoles,Hombres,2020,103829.0,11
+0-15 años,Españoles,Mujeres,2020,97682.0,11
+0-15 años,Extranjeros,Hombres,2020,3636.0,11
+0-15 años,Extranjeros,Mujeres,2020,3580.0,11
+16-64 años,Españoles,Hombres,2020,395194.0,11
+16-64 años,Españoles,Mujeres,2020,392676.0,11
+16-64 años,Extranjeros,Hombres,2020,18810.0,11
+16-64 años,Extranjeros,Mujeres,2020,19250.0,11
+65 y más,Españoles,Hombres,2020,89931.0,11
+65 y más,Españoles,Mujeres,2020,115267.0,11
+65 y más,Extranjeros,Hombres,2020,2161.0,11
+65 y más,Extranjeros,Mujeres,2020,2033.0,11
+0-15 años,Españoles,Hombres,2020,39084.0,39
+0-15 años,Españoles,Mujeres,2020,37283.0,39
+0-15 años,Extranjeros,Hombres,2020,2615.0,39
+0-15 años,Extranjeros,Mujeres,2020,2539.0,39
+16-64 años,Españoles,Hombres,2020,171882.0,39
+16-64 años,Españoles,Mujeres,2020,171035.0,39
+16-64 años,Extranjeros,Hombres,2020,13819.0,39
+16-64 años,Extranjeros,Mujeres,2020,15223.0,39
+65 y más,Españoles,Hombres,2020,54491.0,39
+65 y más,Españoles,Mujeres,2020,73234.0,39
+65 y más,Extranjeros,Hombres,2020,668.0,39
+65 y más,Extranjeros,Mujeres,2020,1032.0,39
+0-15 años,Españoles,Hombres,2020,39596.0,12
+0-15 años,Españoles,Mujeres,2020,37281.0,12
+0-15 años,Extranjeros,Hombres,2020,8213.0,12
+0-15 años,Extranjeros,Mujeres,2020,7416.0,12
+16-64 años,Españoles,Hombres,2020,158997.0,12
+16-64 años,Españoles,Mujeres,2020,152661.0,12
+16-64 años,Extranjeros,Hombres,2020,33587.0,12
+16-64 años,Extranjeros,Mujeres,2020,34527.0,12
+65 y más,Españoles,Hombres,2020,48030.0,12
+65 y más,Españoles,Mujeres,2020,60033.0,12
+65 y más,Extranjeros,Hombres,2020,2376.0,12
+65 y más,Extranjeros,Mujeres,2020,2873.0,12
+0-15 años,Españoles,Hombres,2020,35290.0,13
+0-15 años,Españoles,Mujeres,2020,33501.0,13
+0-15 años,Extranjeros,Hombres,2020,2868.0,13
+0-15 años,Extranjeros,Mujeres,2020,2668.0,13
+16-64 años,Españoles,Hombres,2020,150541.0,13
+16-64 años,Españoles,Mujeres,2020,144851.0,13
+16-64 años,Extranjeros,Hombres,2020,12612.0,13
+16-64 años,Extranjeros,Mujeres,2020,12018.0,13
+65 y más,Españoles,Hombres,2020,43184.0,13
+65 y más,Españoles,Mujeres,2020,56655.0,13
+65 y más,Extranjeros,Hombres,2020,347.0,13
+65 y más,Extranjeros,Mujeres,2020,510.0,13
+0-15 años,Españoles,Hombres,2020,60452.0,14
+0-15 años,Españoles,Mujeres,2020,56893.0,14
+0-15 años,Extranjeros,Hombres,2020,1826.0,14
+0-15 años,Extranjeros,Mujeres,2020,1697.0,14
+16-64 años,Españoles,Hombres,2020,247127.0,14
+16-64 años,Españoles,Mujeres,2020,242985.0,14
+16-64 años,Extranjeros,Hombres,2020,8340.0,14
+16-64 años,Extranjeros,Mujeres,2020,9665.0,14
+65 y más,Españoles,Hombres,2020,64690.0,14
+65 y más,Españoles,Mujeres,2020,86792.0,14
+65 y más,Extranjeros,Hombres,2020,451.0,14
+65 y más,Extranjeros,Mujeres,2020,533.0,14
+0-15 años,Españoles,Hombres,2020,71188.0,15
+0-15 años,Españoles,Mujeres,2020,66983.0,15
+0-15 años,Extranjeros,Hombres,2020,2874.0,15
+0-15 años,Extranjeros,Mujeres,2020,2683.0,15
+16-64 años,Españoles,Hombres,2020,328955.0,15
+16-64 años,Españoles,Mujeres,2020,335013.0,15
+16-64 años,Extranjeros,Hombres,2020,16426.0,15
+16-64 años,Extranjeros,Mujeres,2020,18461.0,15
+65 y más,Españoles,Hombres,2020,117260.0,15
+65 y más,Españoles,Mujeres,2020,159364.0,15
+65 y más,Extranjeros,Hombres,2020,1078.0,15
+65 y más,Extranjeros,Mujeres,2020,1530.0,15
+0-15 años,Españoles,Hombres,2020,10996.0,16
+0-15 años,Españoles,Mujeres,2020,10658.0,16
+0-15 años,Extranjeros,Hombres,2020,2140.0,16
+0-15 años,Extranjeros,Mujeres,2020,2071.0,16
+16-64 años,Españoles,Hombres,2020,55917.0,16
+16-64 años,Españoles,Mujeres,2020,51410.0,16
+16-64 años,Extranjeros,Hombres,2020,8867.0,16
+16-64 años,Extranjeros,Mujeres,2020,8511.0,16
+65 y más,Españoles,Hombres,2020,20286.0,16
+65 y más,Españoles,Mujeres,2020,24741.0,16
+65 y más,Extranjeros,Hombres,2020,224.0,16
+65 y más,Extranjeros,Mujeres,2020,318.0,16
+0-15 años,Españoles,Hombres,2020,51302.0,20
+0-15 años,Españoles,Mujeres,2020,48607.0,20
+0-15 años,Extranjeros,Hombres,2020,5127.0,20
+0-15 años,Extranjeros,Mujeres,2020,4726.0,20
+16-64 años,Españoles,Hombres,2020,204684.0,20
+16-64 años,Españoles,Mujeres,2020,200937.0,20
+16-64 años,Extranjeros,Hombres,2020,24000.0,20
+16-64 años,Extranjeros,Mujeres,2020,24520.0,20
+65 y más,Españoles,Hombres,2020,69219.0,20
+65 y más,Españoles,Mujeres,2020,92087.0,20
+65 y más,Extranjeros,Hombres,2020,798.0,20
+65 y más,Extranjeros,Mujeres,2020,1114.0,20
+0-15 años,Españoles,Hombres,2020,53828.0,17
+0-15 años,Españoles,Mujeres,2020,50953.0,17
+0-15 años,Extranjeros,Hombres,2020,14334.0,17
+0-15 años,Extranjeros,Mujeres,2020,13514.0,17
+16-64 años,Españoles,Hombres,2020,196297.0,17
+16-64 años,Españoles,Mujeres,2020,190821.0,17
+16-64 años,Extranjeros,Hombres,2020,63955.0,17
+16-64 años,Extranjeros,Mujeres,2020,57646.0,17
+65 y más,Españoles,Hombres,2020,57653.0,17
+65 y más,Españoles,Mujeres,2020,71801.0,17
+65 y más,Extranjeros,Hombres,2020,5116.0,17
+65 y más,Extranjeros,Mujeres,2020,5870.0,17
+0-15 años,Españoles,Hombres,2020,70402.0,18
+0-15 años,Españoles,Mujeres,2020,66405.0,18
+0-15 años,Extranjeros,Hombres,2020,4640.0,18
+0-15 años,Extranjeros,Mujeres,2020,4383.0,18
+16-64 años,Españoles,Hombres,2020,278728.0,18
+16-64 años,Españoles,Mujeres,2020,277335.0,18
+16-64 años,Extranjeros,Hombres,2020,26360.0,18
+16-64 años,Extranjeros,Mujeres,2020,24384.0,18
+65 y más,Españoles,Hombres,2020,69771.0,18
+65 y más,Españoles,Mujeres,2020,91372.0,18
+65 y más,Extranjeros,Hombres,2020,2694.0,18
+65 y más,Extranjeros,Mujeres,2020,2694.0,18
+0-15 años,Españoles,Hombres,2020,19939.0,19
+0-15 años,Españoles,Mujeres,2020,19001.0,19
+0-15 años,Extranjeros,Hombres,2020,3398.0,19
+0-15 años,Extranjeros,Mujeres,2020,3092.0,19
+16-64 años,Españoles,Hombres,2020,75941.0,19
+16-64 años,Españoles,Mujeres,2020,70600.0,19
+16-64 años,Extranjeros,Hombres,2020,14086.0,19
+16-64 años,Extranjeros,Mujeres,2020,13698.0,19
+65 y más,Españoles,Hombres,2020,19006.0,19
+65 y más,Españoles,Mujeres,2020,21999.0,19
+65 y más,Extranjeros,Hombres,2020,469.0,19
+65 y más,Extranjeros,Mujeres,2020,766.0,19
+0-15 años,Españoles,Hombres,2020,40738.0,21
+0-15 años,Españoles,Mujeres,2020,38263.0,21
+0-15 años,Extranjeros,Hombres,2020,3348.0,21
+0-15 años,Extranjeros,Mujeres,2020,3061.0,21
+16-64 años,Españoles,Hombres,2020,157764.0,21
+16-64 años,Españoles,Mujeres,2020,153541.0,21
+16-64 años,Extranjeros,Hombres,2020,18557.0,21
+16-64 años,Extranjeros,Mujeres,2020,20653.0,21
+65 y más,Españoles,Hombres,2020,38161.0,21
+65 y más,Españoles,Mujeres,2020,48431.0,21
+65 y más,Extranjeros,Hombres,2020,928.0,21
+65 y más,Extranjeros,Mujeres,2020,833.0,21
+0-15 años,Españoles,Hombres,2020,14036.0,22
+0-15 años,Españoles,Mujeres,2020,13550.0,22
+0-15 años,Extranjeros,Hombres,2020,2475.0,22
+0-15 años,Extranjeros,Mujeres,2020,2111.0,22
+16-64 años,Españoles,Hombres,2020,61476.0,22
+16-64 años,Españoles,Mujeres,2020,56638.0,22
+16-64 años,Extranjeros,Hombres,2020,11895.0,22
+16-64 años,Extranjeros,Mujeres,2020,10550.0,22
+65 y más,Españoles,Hombres,2020,22248.0,22
+65 y más,Españoles,Mujeres,2020,26914.0,22
+65 y más,Extranjeros,Hombres,2020,349.0,22
+65 y más,Extranjeros,Mujeres,2020,445.0,22
+0-15 años,Españoles,Hombres,2020,46775.0,23
+0-15 años,Españoles,Mujeres,2020,44371.0,23
+0-15 años,Extranjeros,Hombres,2020,1187.0,23
+0-15 años,Extranjeros,Mujeres,2020,1109.0,23
+16-64 años,Españoles,Hombres,2020,203969.0,23
+16-64 años,Españoles,Mujeres,2020,196708.0,23
+16-64 años,Extranjeros,Hombres,2020,7188.0,23
+16-64 años,Extranjeros,Mujeres,2020,6178.0,23
+65 y más,Españoles,Hombres,2020,52876.0,23
+65 y más,Españoles,Mujeres,2020,70269.0,23
+65 y más,Extranjeros,Hombres,2020,369.0,23
+65 y más,Extranjeros,Mujeres,2020,382.0,23
+0-15 años,Españoles,Hombres,2020,24920.0,24
+0-15 años,Españoles,Mujeres,2020,23546.0,24
+0-15 años,Extranjeros,Hombres,2020,1540.0,24
+0-15 años,Extranjeros,Mujeres,2020,1388.0,24
+16-64 años,Españoles,Hombres,2020,133505.0,24
+16-64 años,Españoles,Mujeres,2020,130098.0,24
+16-64 años,Extranjeros,Hombres,2020,7831.0,24
+16-64 años,Extranjeros,Mujeres,2020,8503.0,24
+65 y más,Españoles,Hombres,2020,53632.0,24
+65 y más,Españoles,Mujeres,2020,70393.0,24
+65 y más,Extranjeros,Hombres,2020,476.0,24
+65 y más,Extranjeros,Mujeres,2020,607.0,24
+0-15 años,Españoles,Hombres,2020,28437.0,25
+0-15 años,Españoles,Mujeres,2020,27246.0,25
+0-15 años,Extranjeros,Hombres,2020,7428.0,25
+0-15 años,Extranjeros,Mujeres,2020,6810.0,25
+16-64 años,Españoles,Hombres,2020,112990.0,25
+16-64 años,Españoles,Mujeres,2020,106669.0,25
+16-64 años,Extranjeros,Hombres,2020,36665.0,25
+16-64 años,Extranjeros,Mujeres,2020,27110.0,25
+65 y más,Españoles,Hombres,2020,36992.0,25
+65 y más,Españoles,Mujeres,2020,46350.0,25
+65 y más,Extranjeros,Hombres,2020,811.0,25
+65 y más,Extranjeros,Mujeres,2020,1009.0,25
+0-15 años,Españoles,Hombres,2020,16811.0,27
+0-15 años,Españoles,Mujeres,2020,16158.0,27
+0-15 años,Extranjeros,Hombres,2020,1188.0,27
+0-15 años,Extranjeros,Mujeres,2020,1183.0,27
+16-64 años,Españoles,Hombres,2020,91988.0,27
+16-64 años,Españoles,Mujeres,2020,91331.0,27
+16-64 años,Extranjeros,Hombres,2020,6600.0,27
+16-64 años,Extranjeros,Mujeres,2020,6468.0,27
+65 y más,Españoles,Hombres,2020,41937.0,27
+65 y más,Españoles,Mujeres,2020,53568.0,27
+65 y más,Extranjeros,Hombres,2020,318.0,27
+65 y más,Extranjeros,Mujeres,2020,396.0,27
+0-15 años,Españoles,Hombres,2020,486075.0,28
+0-15 años,Españoles,Mujeres,2020,460860.0,28
+0-15 años,Extranjeros,Hombres,2020,70360.0,28
+0-15 años,Extranjeros,Mujeres,2020,66970.0,28
+16-64 años,Españoles,Hombres,2020,1819532.0,28
+16-64 años,Españoles,Mujeres,2020,1887871.0,28
+16-64 años,Extranjeros,Hombres,2020,365376.0,28
+16-64 años,Extranjeros,Mujeres,2020,414106.0,28
+65 y más,Españoles,Hombres,2020,487396.0,28
+65 y más,Españoles,Mujeres,2020,682440.0,28
+65 y más,Extranjeros,Hombres,2020,15054.0,28
+65 y más,Extranjeros,Mujeres,2020,23848.0,28
+0-15 años,Españoles,Hombres,2020,125153.0,29
+0-15 años,Españoles,Mujeres,2020,118457.0,29
+0-15 años,Extranjeros,Hombres,2020,17817.0,29
+0-15 años,Extranjeros,Mujeres,2020,16807.0,29
+16-64 años,Españoles,Hombres,2020,461337.0,29
+16-64 años,Españoles,Mujeres,2020,464026.0,29
+16-64 años,Extranjeros,Hombres,2020,89334.0,29
+16-64 años,Extranjeros,Mujeres,2020,98001.0,29
+65 y más,Españoles,Hombres,2020,107671.0,29
+65 y más,Españoles,Mujeres,2020,139070.0,29
+65 y más,Extranjeros,Hombres,2020,24138.0,29
+65 y más,Extranjeros,Mujeres,2020,24109.0,29
+0-15 años,Españoles,Hombres,2020,119696.0,30
+0-15 años,Españoles,Mujeres,2020,113104.0,30
+0-15 años,Extranjeros,Hombres,2020,21183.0,30
+0-15 años,Extranjeros,Mujeres,2020,19789.0,30
+16-64 años,Españoles,Hombres,2020,419811.0,30
+16-64 años,Españoles,Mujeres,2020,413394.0,30
+16-64 años,Extranjeros,Hombres,2020,91323.0,30
+16-64 años,Extranjeros,Mujeres,2020,74984.0,30
+65 y más,Españoles,Hombres,2020,97138.0,30
+65 y más,Españoles,Mujeres,2020,125891.0,30
+65 y más,Extranjeros,Hombres,2020,7548.0,30
+65 y más,Extranjeros,Mujeres,2020,7390.0,30
+0-15 años,Españoles,Hombres,2020,49000.0,31
+0-15 años,Españoles,Mujeres,2020,46557.0,31
+0-15 años,Extranjeros,Hombres,2020,6530.0,31
+0-15 años,Extranjeros,Mujeres,2020,6175.0,31
+16-64 años,Españoles,Hombres,2020,185754.0,31
+16-64 años,Españoles,Mujeres,2020,180976.0,31
+16-64 años,Extranjeros,Hombres,2020,28174.0,31
+16-64 años,Extranjeros,Mujeres,2020,27384.0,31
+65 y más,Españoles,Hombres,2020,56823.0,31
+65 y más,Españoles,Mujeres,2020,71421.0,31
+65 y más,Extranjeros,Hombres,2020,945.0,31
+65 y más,Extranjeros,Mujeres,2020,1458.0,31
+0-15 años,Españoles,Hombres,2020,15616.0,32
+0-15 años,Españoles,Mujeres,2020,14728.0,32
+0-15 años,Extranjeros,Hombres,2020,915.0,32
+0-15 años,Extranjeros,Mujeres,2020,926.0,32
+16-64 años,Españoles,Hombres,2020,82742.0,32
+16-64 años,Españoles,Mujeres,2020,82578.0,32
+16-64 años,Extranjeros,Hombres,2020,5899.0,32
+16-64 años,Extranjeros,Mujeres,2020,6565.0,32
+65 y más,Españoles,Hombres,2020,41292.0,32
+65 y más,Españoles,Mujeres,2020,54061.0,32
+65 y más,Extranjeros,Hombres,2020,614.0,32
+65 y más,Extranjeros,Mujeres,2020,714.0,32
+0-15 años,Españoles,Hombres,2020,9190.0,34
+0-15 años,Españoles,Mujeres,2020,8691.0,34
+0-15 años,Extranjeros,Hombres,2020,668.0,34
+0-15 años,Extranjeros,Mujeres,2020,576.0,34
+16-64 años,Españoles,Hombres,2020,48424.0,34
+16-64 años,Españoles,Mujeres,2020,45775.0,34
+16-64 años,Extranjeros,Hombres,2020,2742.0,34
+16-64 años,Extranjeros,Mujeres,2020,2947.0,34
+65 y más,Españoles,Hombres,2020,18328.0,34
+65 y más,Españoles,Mujeres,2020,22747.0,34
+65 y más,Extranjeros,Hombres,2020,105.0,34
+65 y más,Extranjeros,Mujeres,2020,128.0,34
+0-15 años,Españoles,Hombres,2020,73519.0,35
+0-15 años,Españoles,Mujeres,2020,69908.0,35
+0-15 años,Extranjeros,Hombres,2020,8631.0,35
+0-15 años,Extranjeros,Mujeres,2020,8107.0,35
+16-64 años,Españoles,Hombres,2020,345855.0,35
+16-64 años,Españoles,Mujeres,2020,338171.0,35
+16-64 años,Extranjeros,Hombres,2020,56518.0,35
+16-64 años,Extranjeros,Mujeres,2020,57378.0,35
+65 y más,Españoles,Hombres,2020,70125.0,35
+65 y más,Españoles,Mujeres,2020,86766.0,35
+65 y más,Extranjeros,Hombres,2020,8046.0,35
+65 y más,Extranjeros,Mujeres,2020,8041.0,35
+0-15 años,Españoles,Hombres,2020,63861.0,36
+0-15 años,Españoles,Mujeres,2020,59559.0,36
+0-15 años,Extranjeros,Hombres,2020,2254.0,36
+0-15 años,Extranjeros,Mujeres,2020,2249.0,36
+16-64 años,Españoles,Hombres,2020,284400.0,36
+16-64 años,Españoles,Mujeres,2020,286751.0,36
+16-64 años,Extranjeros,Hombres,2020,14646.0,36
+16-64 años,Extranjeros,Mujeres,2020,15996.0,36
+65 y más,Españoles,Hombres,2020,90078.0,36
+65 y más,Españoles,Mujeres,2020,122959.0,36
+65 y más,Extranjeros,Hombres,2020,1213.0,36
+65 y más,Extranjeros,Mujeres,2020,1442.0,36
+0-15 años,Españoles,Hombres,2020,21255.0,26
+0-15 años,Españoles,Mujeres,2020,20162.0,26
+0-15 años,Extranjeros,Hombres,2020,4014.0,26
+0-15 años,Extranjeros,Mujeres,2020,3695.0,26
+16-64 años,Españoles,Hombres,2020,87204.0,26
+16-64 años,Españoles,Mujeres,2020,85079.0,26
+16-64 años,Extranjeros,Hombres,2020,15436.0,26
+16-64 años,Extranjeros,Mujeres,2020,15748.0,26
+65 y más,Españoles,Hombres,2020,29433.0,26
+65 y más,Españoles,Mujeres,2020,36571.0,26
+65 y más,Extranjeros,Hombres,2020,493.0,26
+65 y más,Extranjeros,Mujeres,2020,824.0,26
+0-15 años,Españoles,Hombres,2020,19531.0,37
+0-15 años,Españoles,Mujeres,2020,18446.0,37
+0-15 años,Extranjeros,Hombres,2020,984.0,37
+0-15 años,Extranjeros,Mujeres,2020,1056.0,37
+16-64 años,Españoles,Hombres,2020,94954.0,37
+16-64 años,Españoles,Mujeres,2020,93834.0,37
+16-64 años,Extranjeros,Hombres,2020,5675.0,37
+16-64 años,Extranjeros,Mujeres,2020,6468.0,37
+65 y más,Españoles,Hombres,2020,38478.0,37
+65 y más,Españoles,Mujeres,2020,49109.0,37
+65 y más,Extranjeros,Hombres,2020,307.0,37
+65 y más,Extranjeros,Mujeres,2020,403.0,37
+0-15 años,Españoles,Hombres,2020,65611.0,38
+0-15 años,Españoles,Mujeres,2020,62298.0,38
+0-15 años,Extranjeros,Hombres,2020,8587.0,38
+0-15 años,Extranjeros,Mujeres,2020,8258.0,38
+16-64 años,Españoles,Hombres,2020,307166.0,38
+16-64 años,Españoles,Mujeres,2020,305179.0,38
+16-64 años,Extranjeros,Hombres,2020,53491.0,38
+16-64 años,Extranjeros,Mujeres,2020,56153.0,38
+65 y más,Españoles,Hombres,2020,69281.0,38
+65 y más,Españoles,Mujeres,2020,89531.0,38
+65 y más,Extranjeros,Hombres,2020,9355.0,38
+65 y más,Extranjeros,Mujeres,2020,9977.0,38
+0-15 años,Españoles,Hombres,2020,9180.0,40
+0-15 años,Españoles,Mujeres,2020,8708.0,40
+0-15 años,Extranjeros,Hombres,2020,1746.0,40
+0-15 años,Extranjeros,Mujeres,2020,1631.0,40
+16-64 años,Españoles,Hombres,2020,43541.0,40
+16-64 años,Españoles,Mujeres,2020,39784.0,40
+16-64 años,Extranjeros,Hombres,2020,6839.0,40
+16-64 años,Extranjeros,Mujeres,2020,7170.0,40
+65 y más,Españoles,Hombres,2020,15484.0,40
+65 y más,Españoles,Mujeres,2020,18816.0,40
+65 y más,Extranjeros,Hombres,2020,243.0,40
+65 y más,Extranjeros,Mujeres,2020,336.0,40
+0-15 años,Españoles,Hombres,2020,168975.0,41
+0-15 años,Españoles,Mujeres,2020,159568.0,41
+0-15 años,Extranjeros,Hombres,2020,5397.0,41
+0-15 años,Extranjeros,Mujeres,2020,5264.0,41
+16-64 años,Españoles,Hombres,2020,610721.0,41
+16-64 años,Españoles,Mujeres,2020,611500.0,41
+16-64 años,Extranjeros,Hombres,2020,28753.0,41
+16-64 años,Extranjeros,Mujeres,2020,33535.0,41
+65 y más,Españoles,Hombres,2020,137422.0,41
+65 y más,Españoles,Mujeres,2020,185746.0,41
+65 y más,Extranjeros,Hombres,2020,1427.0,41
+65 y más,Extranjeros,Mujeres,2020,1911.0,41
+0-15 años,Españoles,Hombres,2020,5172.0,42
+0-15 años,Españoles,Mujeres,2020,4877.0,42
+0-15 años,Extranjeros,Hombres,2020,755.0,42
+0-15 años,Extranjeros,Mujeres,2020,724.0,42
+16-64 años,Españoles,Hombres,2020,25112.0,42
+16-64 años,Españoles,Mujeres,2020,22933.0,42
+16-64 años,Extranjeros,Hombres,2020,3427.0,42
+16-64 años,Extranjeros,Mujeres,2020,3149.0,42
+65 y más,Españoles,Hombres,2020,10373.0,42
+65 y más,Españoles,Mujeres,2020,12146.0,42
+65 y más,Extranjeros,Hombres,2020,88.0,42
+65 y más,Extranjeros,Mujeres,2020,128.0,42
+0-15 años,Españoles,Hombres,2020,57689.0,43
+0-15 años,Españoles,Mujeres,2020,53973.0,43
+0-15 años,Extranjeros,Hombres,2020,12450.0,43
+0-15 años,Extranjeros,Mujeres,2020,11799.0,43
+16-64 años,Españoles,Hombres,2020,213433.0,43
+16-64 años,Españoles,Mujeres,2020,207450.0,43
+16-64 años,Extranjeros,Hombres,2020,54707.0,43
+16-64 años,Extranjeros,Mujeres,2020,49851.0,43
+65 y más,Españoles,Hombres,2020,66098.0,43
+65 y más,Españoles,Mujeres,2020,81336.0,43
+65 y más,Extranjeros,Hombres,2020,3765.0,43
+65 y más,Extranjeros,Mujeres,2020,4221.0,43
+0-15 años,Españoles,Hombres,2020,7966.0,44
+0-15 años,Españoles,Mujeres,2020,7628.0,44
+0-15 años,Extranjeros,Hombres,2020,1473.0,44
+0-15 años,Extranjeros,Mujeres,2020,1433.0,44
+16-64 años,Españoles,Hombres,2020,37786.0,44
+16-64 años,Españoles,Mujeres,2020,34320.0,44
+16-64 años,Extranjeros,Hombres,2020,5948.0,44
+16-64 años,Extranjeros,Mujeres,2020,5474.0,44
+65 y más,Españoles,Hombres,2020,14614.0,44
+65 y más,Españoles,Mujeres,2020,17106.0,44
+65 y más,Extranjeros,Hombres,2020,188.0,44
+65 y más,Extranjeros,Mujeres,2020,240.0,44
+0-15 años,Españoles,Hombres,2020,55229.0,45
+0-15 años,Españoles,Mujeres,2020,51833.0,45
+0-15 años,Extranjeros,Hombres,2020,7064.0,45
+0-15 años,Extranjeros,Mujeres,2020,6941.0,45
+16-64 años,Españoles,Hombres,2020,206365.0,45
+16-64 años,Españoles,Mujeres,2020,194436.0,45
+16-64 años,Extranjeros,Hombres,2020,27905.0,45
+16-64 años,Extranjeros,Mujeres,2020,27657.0,45
+65 y más,Españoles,Hombres,2020,56065.0,45
+65 y más,Españoles,Mujeres,2020,67877.0,45
+65 y más,Extranjeros,Hombres,2020,920.0,45
+65 y más,Extranjeros,Mujeres,2020,1480.0,45
+0-15 años,Españoles,Hombres,2020,183995.0,46
+0-15 años,Españoles,Mujeres,2020,174142.0,46
+0-15 años,Extranjeros,Hombres,2020,24119.0,46
+0-15 años,Extranjeros,Mujeres,2020,22057.0,46
+16-64 años,Españoles,Hombres,2020,736065.0,46
+16-64 años,Españoles,Mujeres,2020,729128.0,46
+16-64 años,Extranjeros,Hombres,2020,113872.0,46
+16-64 años,Extranjeros,Mujeres,2020,113059.0,46
+65 y más,Españoles,Hombres,2020,204465.0,46
+65 y más,Españoles,Mujeres,2020,275559.0,46
+65 y más,Extranjeros,Hombres,2020,6950.0,46
+65 y más,Extranjeros,Mujeres,2020,8464.0,46
+0-15 años,Españoles,Hombres,2020,34841.0,47
+0-15 años,Españoles,Mujeres,2020,33085.0,47
+0-15 años,Extranjeros,Hombres,2020,2309.0,47
+0-15 años,Extranjeros,Mujeres,2020,2271.0,47
+16-64 años,Españoles,Hombres,2020,152421.0,47
+16-64 años,Españoles,Mujeres,2020,152535.0,47
+16-64 años,Extranjeros,Hombres,2020,10644.0,47
+16-64 años,Extranjeros,Mujeres,2020,11137.0,47
+65 y más,Españoles,Hombres,2020,52915.0,47
+65 y más,Españoles,Mujeres,2020,67530.0,47
+65 y más,Extranjeros,Hombres,2020,410.0,47
+65 y más,Extranjeros,Mujeres,2020,551.0,47
+0-15 años,Españoles,Hombres,2020,8285.0,49
+0-15 años,Españoles,Mujeres,2020,7806.0,49
+0-15 años,Extranjeros,Hombres,2020,515.0,49
+0-15 años,Extranjeros,Mujeres,2020,442.0,49
+16-64 años,Españoles,Hombres,2020,49542.0,49
+16-64 años,Españoles,Mujeres,2020,46147.0,49
+16-64 años,Extranjeros,Hombres,2020,2242.0,49
+16-64 años,Extranjeros,Mujeres,2020,2559.0,49
+65 y más,Españoles,Hombres,2020,23640.0,49
+65 y más,Españoles,Mujeres,2020,29071.0,49
+65 y más,Extranjeros,Hombres,2020,145.0,49
+65 y más,Extranjeros,Mujeres,2020,194.0,49
+0-15 años,Españoles,Hombres,2020,64843.0,50
+0-15 años,Españoles,Mujeres,2020,61114.0,50
+0-15 años,Extranjeros,Hombres,2020,10280.0,50
+0-15 años,Extranjeros,Mujeres,2020,9718.0,50
+16-64 años,Españoles,Hombres,2020,264195.0,50
+16-64 años,Españoles,Mujeres,2020,259882.0,50
+16-64 años,Extranjeros,Hombres,2020,48081.0,50
+16-64 años,Extranjeros,Mujeres,2020,47857.0,50
+65 y más,Españoles,Hombres,2020,86793.0,50
+65 y más,Españoles,Mujeres,2020,116234.0,50
+65 y más,Extranjeros,Hombres,2020,1410.0,50
+65 y más,Extranjeros,Mujeres,2020,2121.0,50
+0-15 años,Españoles,Hombres,2020,8762.0,51
+0-15 años,Españoles,Mujeres,2020,8445.0,51
+0-15 años,Extranjeros,Hombres,2020,442.0,51
+0-15 años,Extranjeros,Mujeres,2020,395.0,51
+16-64 años,Españoles,Hombres,2020,26585.0,51
+16-64 años,Españoles,Mujeres,2020,24883.0,51
+16-64 años,Extranjeros,Hombres,2020,2222.0,51
+16-64 años,Extranjeros,Mujeres,2020,2324.0,51
+65 y más,Españoles,Hombres,2020,4373.0,51
+65 y más,Españoles,Mujeres,2020,5449.0,51
+65 y más,Extranjeros,Hombres,2020,158.0,51
+65 y más,Extranjeros,Mujeres,2020,164.0,51
+0-15 años,Españoles,Hombres,2020,9090.0,52
+0-15 años,Españoles,Mujeres,2020,8716.0,52
+0-15 años,Extranjeros,Hombres,2020,1628.0,52
+0-15 años,Extranjeros,Mujeres,2020,1464.0,52
+16-64 años,Españoles,Hombres,2020,24775.0,52
+16-64 años,Españoles,Mujeres,2020,22859.0,52
+16-64 años,Extranjeros,Hombres,2020,4553.0,52
+16-64 años,Extranjeros,Mujeres,2020,4785.0,52
+65 y más,Españoles,Hombres,2020,3669.0,52
+65 y más,Españoles,Mujeres,2020,4604.0,52
+65 y más,Extranjeros,Hombres,2020,447.0,52
+65 y más,Extranjeros,Mujeres,2020,486.0,52
+0-15 años,Españoles,Hombres,2021,27304.0,02
+0-15 años,Españoles,Mujeres,2021,25547.0,02
+0-15 años,Extranjeros,Hombres,2021,2452.0,02
+0-15 años,Extranjeros,Mujeres,2021,2248.0,02
+16-64 años,Españoles,Hombres,2021,118339.0,02
+16-64 años,Españoles,Mujeres,2021,114163.0,02
+16-64 años,Extranjeros,Hombres,2021,11655.0,02
+16-64 años,Extranjeros,Mujeres,2021,9637.0,02
+65 y más,Españoles,Hombres,2021,33108.0,02
+65 y más,Españoles,Mujeres,2021,41204.0,02
+65 y más,Extranjeros,Hombres,2021,347.0,02
+65 y más,Extranjeros,Mujeres,2021,460.0,02
+0-15 años,Españoles,Hombres,2021,121579.0,03
+0-15 años,Españoles,Mujeres,2021,114198.0,03
+0-15 años,Extranjeros,Hombres,2021,25690.0,03
+0-15 años,Extranjeros,Mujeres,2021,24468.0,03
+16-64 años,Españoles,Hombres,2021,490091.0,03
+16-64 años,Españoles,Mujeres,2021,480834.0,03
+16-64 años,Extranjeros,Hombres,2021,123928.0,03
+16-64 años,Extranjeros,Mujeres,2021,122417.0,03
+65 y más,Españoles,Hombres,2021,132094.0,03
+65 y más,Españoles,Mujeres,2021,169543.0,03
+65 y más,Extranjeros,Hombres,2021,38636.0,03
+65 y más,Extranjeros,Mujeres,2021,38284.0,03
+0-15 años,Españoles,Hombres,2021,52239.0,04
+0-15 años,Españoles,Mujeres,2021,49554.0,04
+0-15 años,Extranjeros,Hombres,2021,14310.0,04
+0-15 años,Extranjeros,Mujeres,2021,13471.0,04
+16-64 años,Españoles,Hombres,2021,190108.0,04
+16-64 años,Españoles,Mujeres,2021,186075.0,04
+16-64 años,Extranjeros,Hombres,2021,66062.0,04
+16-64 años,Extranjeros,Mujeres,2021,48660.0,04
+65 y más,Españoles,Hombres,2021,43214.0,04
+65 y más,Españoles,Mujeres,2021,54245.0,04
+65 y más,Extranjeros,Hombres,2021,7203.0,04
+65 y más,Extranjeros,Mujeres,2021,6651.0,04
+0-15 años,Españoles,Hombres,2021,23408.0,01
+0-15 años,Españoles,Mujeres,2021,21947.0,01
+0-15 años,Extranjeros,Hombres,2021,3069.0,01
+0-15 años,Extranjeros,Mujeres,2021,2976.0,01
+16-64 años,Españoles,Hombres,2021,93014.0,01
+16-64 años,Españoles,Mujeres,2021,92248.0,01
+16-64 años,Extranjeros,Hombres,2021,13012.0,01
+16-64 años,Extranjeros,Mujeres,2021,12418.0,01
+65 y más,Españoles,Hombres,2021,31393.0,01
+65 y más,Españoles,Mujeres,2021,39187.0,01
+65 y más,Extranjeros,Hombres,2021,356.0,01
+65 y más,Extranjeros,Mujeres,2021,598.0,01
+0-15 años,Españoles,Hombres,2021,56108.0,33
+0-15 años,Españoles,Mujeres,2021,52991.0,33
+0-15 años,Extranjeros,Hombres,2021,3079.0,33
+0-15 años,Extranjeros,Mujeres,2021,2934.0,33
+16-64 años,Españoles,Hombres,2021,293967.0,33
+16-64 años,Españoles,Mujeres,2021,296923.0,33
+16-64 años,Extranjeros,Hombres,2021,16886.0,33
+16-64 años,Extranjeros,Mujeres,2021,20065.0,33
+65 y más,Españoles,Hombres,2021,111584.0,33
+65 y más,Españoles,Mujeres,2021,154774.0,33
+65 y más,Extranjeros,Hombres,2021,1041.0,33
+65 y más,Extranjeros,Mujeres,2021,1440.0,33
+0-15 años,Españoles,Hombres,2021,9279.0,05
+0-15 años,Españoles,Mujeres,2021,8638.0,05
+0-15 años,Extranjeros,Hombres,2021,1132.0,05
+0-15 años,Extranjeros,Mujeres,2021,1047.0,05
+16-64 años,Españoles,Hombres,2021,46251.0,05
+16-64 años,Españoles,Mujeres,2021,42923.0,05
+16-64 años,Extranjeros,Hombres,2021,3792.0,05
+16-64 años,Extranjeros,Mujeres,2021,4142.0,05
+65 y más,Españoles,Hombres,2021,18938.0,05
+65 y más,Españoles,Mujeres,2021,21872.0,05
+65 y más,Extranjeros,Hombres,2021,170.0,05
+65 y más,Extranjeros,Mujeres,2021,237.0,05
+0-15 años,Españoles,Hombres,2021,49620.0,06
+0-15 años,Españoles,Mujeres,2021,46957.0,06
+0-15 años,Extranjeros,Hombres,2021,1803.0,06
+0-15 años,Extranjeros,Mujeres,2021,1666.0,06
+16-64 años,Españoles,Hombres,2021,213216.0,06
+16-64 años,Españoles,Mujeres,2021,206848.0,06
+16-64 años,Extranjeros,Hombres,2021,7776.0,06
+16-64 años,Extranjeros,Mujeres,2021,9086.0,06
+65 y más,Españoles,Hombres,2021,58162.0,06
+65 y más,Españoles,Mujeres,2021,73857.0,06
+65 y más,Extranjeros,Hombres,2021,448.0,06
+65 y más,Extranjeros,Mujeres,2021,504.0,06
+0-15 años,Españoles,Hombres,2021,77855.0,07
+0-15 años,Españoles,Mujeres,2021,73591.0,07
+0-15 años,Extranjeros,Hombres,2021,16174.0,07
+0-15 años,Extranjeros,Mujeres,2021,15394.0,07
+16-64 años,Españoles,Hombres,2021,319697.0,07
+16-64 años,Españoles,Mujeres,2021,310502.0,07
+16-64 años,Extranjeros,Hombres,2021,87712.0,07
+16-64 años,Extranjeros,Mujeres,2021,84721.0,07
+65 y más,Españoles,Hombres,2021,75923.0,07
+65 y más,Españoles,Mujeres,2021,95143.0,07
+65 y más,Extranjeros,Hombres,2021,7492.0,07
+65 y más,Extranjeros,Mujeres,2021,8804.0,07
+0-15 años,Españoles,Hombres,2021,390709.0,08
+0-15 años,Españoles,Mujeres,2021,368763.0,08
+0-15 años,Extranjeros,Hombres,2021,66671.0,08
+0-15 años,Extranjeros,Mujeres,2021,62530.0,08
+16-64 años,Españoles,Hombres,2021,1506091.0,08
+16-64 años,Españoles,Mujeres,2021,1518234.0,08
+16-64 años,Extranjeros,Hombres,2021,366417.0,08
+16-64 años,Extranjeros,Mujeres,2021,344414.0,08
+65 y más,Españoles,Hombres,2021,447928.0,08
+65 y más,Españoles,Mujeres,2021,611247.0,08
+65 y más,Extranjeros,Hombres,2021,13434.0,08
+65 y más,Extranjeros,Mujeres,2021,18292.0,08
+0-15 años,Españoles,Hombres,2021,73949.0,48
+0-15 años,Españoles,Mujeres,2021,69988.0,48
+0-15 años,Extranjeros,Hombres,2021,6874.0,48
+0-15 años,Extranjeros,Mujeres,2021,6277.0,48
+16-64 años,Españoles,Hombres,2021,326914.0,48
+16-64 años,Españoles,Mujeres,2021,327857.0,48
+16-64 años,Extranjeros,Hombres,2021,36959.0,48
+16-64 años,Extranjeros,Mujeres,2021,37062.0,48
+65 y más,Españoles,Hombres,2021,111756.0,48
+65 y más,Españoles,Mujeres,2021,154263.0,48
+65 y más,Extranjeros,Hombres,2021,964.0,48
+65 y más,Extranjeros,Mujeres,2021,1471.0,48
+0-15 años,Españoles,Hombres,2021,22330.0,09
+0-15 años,Españoles,Mujeres,2021,21016.0,09
+0-15 años,Extranjeros,Hombres,2021,2379.0,09
+0-15 años,Extranjeros,Mujeres,2021,2321.0,09
+16-64 años,Españoles,Hombres,2021,102439.0,09
+16-64 años,Españoles,Mujeres,2021,96313.0,09
+16-64 años,Extranjeros,Hombres,2021,11673.0,09
+16-64 años,Extranjeros,Mujeres,2021,11521.0,09
+65 y más,Españoles,Hombres,2021,38651.0,09
+65 y más,Españoles,Mujeres,2021,46428.0,09
+65 y más,Extranjeros,Hombres,2021,448.0,09
+65 y más,Extranjeros,Mujeres,2021,536.0,09
+0-15 años,Españoles,Hombres,2021,24590.0,10
+0-15 años,Españoles,Mujeres,2021,23307.0,10
+0-15 años,Extranjeros,Hombres,2021,1086.0,10
+0-15 años,Extranjeros,Mujeres,2021,1049.0,10
+16-64 años,Españoles,Hombres,2021,121601.0,10
+16-64 años,Españoles,Mujeres,2021,116016.0,10
+16-64 años,Extranjeros,Hombres,2021,5202.0,10
+16-64 años,Extranjeros,Mujeres,2021,5343.0,10
+65 y más,Españoles,Hombres,2021,39996.0,10
+65 y más,Españoles,Mujeres,2021,50445.0,10
+65 y más,Extranjeros,Hombres,2021,476.0,10
+65 y más,Extranjeros,Mujeres,2021,447.0,10
+0-15 años,Españoles,Hombres,2021,101111.0,11
+0-15 años,Españoles,Mujeres,2021,95484.0,11
+0-15 años,Extranjeros,Hombres,2021,3512.0,11
+0-15 años,Extranjeros,Mujeres,2021,3522.0,11
+16-64 años,Españoles,Hombres,2021,395620.0,11
+16-64 años,Españoles,Mujeres,2021,393119.0,11
+16-64 años,Extranjeros,Hombres,2021,19330.0,11
+16-64 años,Extranjeros,Mujeres,2021,19772.0,11
+65 y más,Españoles,Hombres,2021,92185.0,11
+65 y más,Españoles,Mujeres,2021,117832.0,11
+65 y más,Extranjeros,Hombres,2021,2326.0,11
+65 y más,Extranjeros,Mujeres,2021,2147.0,11
+0-15 años,Españoles,Hombres,2021,38393.0,39
+0-15 años,Españoles,Mujeres,2021,36456.0,39
+0-15 años,Extranjeros,Hombres,2021,2579.0,39
+0-15 años,Extranjeros,Mujeres,2021,2538.0,39
+16-64 años,Españoles,Hombres,2021,171958.0,39
+16-64 años,Españoles,Mujeres,2021,171348.0,39
+16-64 años,Extranjeros,Hombres,2021,13909.0,39
+16-64 años,Extranjeros,Mujeres,2021,15310.0,39
+65 y más,Españoles,Hombres,2021,55806.0,39
+65 y más,Españoles,Mujeres,2021,74379.0,39
+65 y más,Extranjeros,Hombres,2021,733.0,39
+65 y más,Extranjeros,Mujeres,2021,1098.0,39
+0-15 años,Españoles,Hombres,2021,38979.0,12
+0-15 años,Españoles,Mujeres,2021,36743.0,12
+0-15 años,Extranjeros,Hombres,2021,8049.0,12
+0-15 años,Extranjeros,Mujeres,2021,7261.0,12
+16-64 años,Españoles,Hombres,2021,159523.0,12
+16-64 años,Españoles,Mujeres,2021,153080.0,12
+16-64 años,Extranjeros,Hombres,2021,33553.0,12
+16-64 años,Extranjeros,Mujeres,2021,34620.0,12
+65 y más,Españoles,Hombres,2021,48716.0,12
+65 y más,Españoles,Mujeres,2021,60878.0,12
+65 y más,Extranjeros,Hombres,2021,2595.0,12
+65 y más,Extranjeros,Mujeres,2021,3067.0,12
+0-15 años,Españoles,Hombres,2021,34558.0,13
+0-15 años,Españoles,Mujeres,2021,32927.0,13
+0-15 años,Extranjeros,Hombres,2021,2796.0,13
+0-15 años,Extranjeros,Mujeres,2021,2641.0,13
+16-64 años,Españoles,Hombres,2021,150339.0,13
+16-64 años,Españoles,Mujeres,2021,144496.0,13
+16-64 años,Extranjeros,Hombres,2021,12755.0,13
+16-64 años,Extranjeros,Mujeres,2021,12061.0,13
+65 y más,Españoles,Hombres,2021,42929.0,13
+65 y más,Españoles,Mujeres,2021,56147.0,13
+65 y más,Extranjeros,Hombres,2021,386.0,13
+65 y más,Extranjeros,Mujeres,2021,556.0,13
+0-15 años,Españoles,Hombres,2021,59029.0,14
+0-15 años,Españoles,Mujeres,2021,55624.0,14
+0-15 años,Extranjeros,Hombres,2021,1721.0,14
+0-15 años,Extranjeros,Mujeres,2021,1567.0,14
+16-64 años,Españoles,Hombres,2021,245710.0,14
+16-64 años,Españoles,Mujeres,2021,241627.0,14
+16-64 años,Extranjeros,Hombres,2021,8029.0,14
+16-64 años,Extranjeros,Mujeres,2021,9492.0,14
+65 y más,Españoles,Hombres,2021,65501.0,14
+65 y más,Españoles,Mujeres,2021,87453.0,14
+65 y más,Extranjeros,Hombres,2021,483.0,14
+65 y más,Extranjeros,Mujeres,2021,553.0,14
+0-15 años,Españoles,Hombres,2021,69937.0,15
+0-15 años,Españoles,Mujeres,2021,65916.0,15
+0-15 años,Extranjeros,Hombres,2021,2926.0,15
+0-15 años,Extranjeros,Mujeres,2021,2738.0,15
+16-64 años,Españoles,Hombres,2021,327408.0,15
+16-64 años,Españoles,Mujeres,2021,333264.0,15
+16-64 años,Extranjeros,Hombres,2021,16739.0,15
+16-64 años,Extranjeros,Mujeres,2021,18857.0,15
+65 y más,Españoles,Hombres,2021,118885.0,15
+65 y más,Españoles,Mujeres,2021,160778.0,15
+65 y más,Extranjeros,Hombres,2021,1109.0,15
+65 y más,Extranjeros,Mujeres,2021,1577.0,15
+0-15 años,Españoles,Hombres,2021,10857.0,16
+0-15 años,Españoles,Mujeres,2021,10481.0,16
+0-15 años,Extranjeros,Hombres,2021,2156.0,16
+0-15 años,Extranjeros,Mujeres,2021,2119.0,16
+16-64 años,Españoles,Hombres,2021,55942.0,16
+16-64 años,Españoles,Mujeres,2021,51596.0,16
+16-64 años,Extranjeros,Hombres,2021,8935.0,16
+16-64 años,Extranjeros,Mujeres,2021,8532.0,16
+65 y más,Españoles,Hombres,2021,19987.0,16
+65 y más,Españoles,Mujeres,2021,24326.0,16
+65 y más,Extranjeros,Hombres,2021,241.0,16
+65 y más,Extranjeros,Mujeres,2021,344.0,16
+0-15 años,Españoles,Hombres,2021,50212.0,20
+0-15 años,Españoles,Mujeres,2021,47546.0,20
+0-15 años,Extranjeros,Hombres,2021,5062.0,20
+0-15 años,Extranjeros,Mujeres,2021,4690.0,20
+16-64 años,Españoles,Hombres,2021,203882.0,20
+16-64 años,Españoles,Mujeres,2021,200437.0,20
+16-64 años,Extranjeros,Hombres,2021,24570.0,20
+16-64 años,Extranjeros,Mujeres,2021,24617.0,20
+65 y más,Españoles,Hombres,2021,70110.0,20
+65 y más,Españoles,Mujeres,2021,92868.0,20
+65 y más,Extranjeros,Hombres,2021,881.0,20
+65 y más,Extranjeros,Mujeres,2021,1158.0,20
+0-15 años,Españoles,Hombres,2021,53471.0,17
+0-15 años,Españoles,Mujeres,2021,50482.0,17
+0-15 años,Extranjeros,Hombres,2021,13802.0,17
+0-15 años,Extranjeros,Mujeres,2021,13105.0,17
+16-64 años,Españoles,Hombres,2021,197933.0,17
+16-64 años,Españoles,Mujeres,2021,192809.0,17
+16-64 años,Extranjeros,Hombres,2021,64181.0,17
+16-64 años,Extranjeros,Mujeres,2021,57456.0,17
+65 y más,Españoles,Hombres,2021,58981.0,17
+65 y más,Españoles,Mujeres,2021,72890.0,17
+65 y más,Extranjeros,Hombres,2021,5401.0,17
+65 y más,Extranjeros,Mujeres,2021,6085.0,17
+0-15 años,Españoles,Hombres,2021,68986.0,18
+0-15 años,Españoles,Mujeres,2021,65314.0,18
+0-15 años,Extranjeros,Hombres,2021,4705.0,18
+0-15 años,Extranjeros,Mujeres,2021,4524.0,18
+16-64 años,Españoles,Hombres,2021,279104.0,18
+16-64 años,Españoles,Mujeres,2021,277717.0,18
+16-64 años,Extranjeros,Hombres,2021,27404.0,18
+16-64 años,Extranjeros,Mujeres,2021,25281.0,18
+65 y más,Españoles,Hombres,2021,70787.0,18
+65 y más,Españoles,Mujeres,2021,92056.0,18
+65 y más,Extranjeros,Hombres,2021,2697.0,18
+65 y más,Extranjeros,Mujeres,2021,2763.0,18
+0-15 años,Españoles,Hombres,2021,19872.0,19
+0-15 años,Españoles,Mujeres,2021,18879.0,19
+0-15 años,Extranjeros,Hombres,2021,3443.0,19
+0-15 años,Extranjeros,Mujeres,2021,3148.0,19
+16-64 años,Españoles,Hombres,2021,77272.0,19
+16-64 años,Españoles,Mujeres,2021,71877.0,19
+16-64 años,Extranjeros,Hombres,2021,14326.0,19
+16-64 años,Extranjeros,Mujeres,2021,13974.0,19
+65 y más,Españoles,Hombres,2021,19183.0,19
+65 y más,Españoles,Mujeres,2021,22259.0,19
+65 y más,Extranjeros,Hombres,2021,528.0,19
+65 y más,Extranjeros,Mujeres,2021,827.0,19
+0-15 años,Españoles,Hombres,2021,40100.0,21
+0-15 años,Españoles,Mujeres,2021,37778.0,21
+0-15 años,Extranjeros,Hombres,2021,3376.0,21
+0-15 años,Extranjeros,Mujeres,2021,3036.0,21
+16-64 años,Españoles,Hombres,2021,157874.0,21
+16-64 años,Españoles,Mujeres,2021,153436.0,21
+16-64 años,Extranjeros,Hombres,2021,19197.0,21
+16-64 años,Extranjeros,Mujeres,2021,20809.0,21
+65 y más,Españoles,Hombres,2021,39046.0,21
+65 y más,Españoles,Mujeres,2021,49297.0,21
+65 y más,Extranjeros,Hombres,2021,988.0,21
+65 y más,Extranjeros,Mujeres,2021,898.0,21
+0-15 años,Españoles,Hombres,2021,13906.0,22
+0-15 años,Españoles,Mujeres,2021,13365.0,22
+0-15 años,Extranjeros,Hombres,2021,2527.0,22
+0-15 años,Extranjeros,Mujeres,2021,2187.0,22
+16-64 años,Españoles,Hombres,2021,61843.0,22
+16-64 años,Españoles,Mujeres,2021,56913.0,22
+16-64 años,Extranjeros,Hombres,2021,12502.0,22
+16-64 años,Extranjeros,Mujeres,2021,10725.0,22
+65 y más,Españoles,Hombres,2021,22436.0,22
+65 y más,Españoles,Mujeres,2021,26977.0,22
+65 y más,Extranjeros,Hombres,2021,393.0,22
+65 y más,Extranjeros,Mujeres,2021,490.0,22
+0-15 años,Españoles,Hombres,2021,45957.0,23
+0-15 años,Españoles,Mujeres,2021,43570.0,23
+0-15 años,Extranjeros,Hombres,2021,1246.0,23
+0-15 años,Extranjeros,Mujeres,2021,1144.0,23
+16-64 años,Españoles,Hombres,2021,202720.0,23
+16-64 años,Españoles,Mujeres,2021,195671.0,23
+16-64 años,Extranjeros,Hombres,2021,7305.0,23
+16-64 años,Extranjeros,Mujeres,2021,6362.0,23
+65 y más,Españoles,Hombres,2021,52681.0,23
+65 y más,Españoles,Mujeres,2021,69691.0,23
+65 y más,Extranjeros,Hombres,2021,414.0,23
+65 y más,Extranjeros,Mujeres,2021,429.0,23
+0-15 años,Españoles,Hombres,2021,24361.0,24
+0-15 años,Españoles,Mujeres,2021,23011.0,24
+0-15 años,Extranjeros,Hombres,2021,1472.0,24
+0-15 años,Extranjeros,Mujeres,2021,1350.0,24
+16-64 años,Españoles,Hombres,2021,131790.0,24
+16-64 años,Españoles,Mujeres,2021,128735.0,24
+16-64 años,Extranjeros,Hombres,2021,7783.0,24
+16-64 años,Extranjeros,Mujeres,2021,8479.0,24
+65 y más,Españoles,Hombres,2021,53623.0,24
+65 y más,Españoles,Mujeres,2021,69955.0,24
+65 y más,Extranjeros,Hombres,2021,503.0,24
+65 y más,Extranjeros,Mujeres,2021,644.0,24
+0-15 años,Españoles,Hombres,2021,28030.0,25
+0-15 años,Españoles,Mujeres,2021,26824.0,25
+0-15 años,Extranjeros,Hombres,2021,7536.0,25
+0-15 años,Extranjeros,Mujeres,2021,6948.0,25
+16-64 años,Españoles,Hombres,2021,112903.0,25
+16-64 años,Españoles,Mujeres,2021,106731.0,25
+16-64 años,Extranjeros,Hombres,2021,37523.0,25
+16-64 años,Extranjeros,Mujeres,2021,27396.0,25
+65 y más,Españoles,Hombres,2021,37246.0,25
+65 y más,Españoles,Mujeres,2021,46601.0,25
+65 y más,Extranjeros,Hombres,2021,918.0,25
+65 y más,Extranjeros,Mujeres,2021,1071.0,25
+0-15 años,Españoles,Hombres,2021,16550.0,27
+0-15 años,Españoles,Mujeres,2021,15987.0,27
+0-15 años,Extranjeros,Hombres,2021,1188.0,27
+0-15 años,Extranjeros,Mujeres,2021,1187.0,27
+16-64 años,Españoles,Hombres,2021,90821.0,27
+16-64 años,Españoles,Mujeres,2021,90412.0,27
+16-64 años,Extranjeros,Hombres,2021,6740.0,27
+16-64 años,Extranjeros,Mujeres,2021,6629.0,27
+65 y más,Españoles,Hombres,2021,42259.0,27
+65 y más,Españoles,Mujeres,2021,53471.0,27
+65 y más,Extranjeros,Hombres,2021,334.0,27
+65 y más,Extranjeros,Mujeres,2021,435.0,27
+0-15 años,Españoles,Hombres,2021,474314.0,28
+0-15 años,Españoles,Mujeres,2021,450470.0,28
+0-15 años,Extranjeros,Hombres,2021,69960.0,28
+0-15 años,Extranjeros,Mujeres,2021,66546.0,28
+16-64 años,Españoles,Hombres,2021,1816835.0,28
+16-64 años,Españoles,Mujeres,2021,1882170.0,28
+16-64 años,Extranjeros,Hombres,2021,365625.0,28
+16-64 años,Extranjeros,Mujeres,2021,412235.0,28
+65 y más,Españoles,Hombres,2021,487169.0,28
+65 y más,Españoles,Mujeres,2021,685171.0,28
+65 y más,Extranjeros,Hombres,2021,15797.0,28
+65 y más,Extranjeros,Mujeres,2021,24959.0,28
+0-15 años,Españoles,Hombres,2021,123113.0,29
+0-15 años,Españoles,Mujeres,2021,116610.0,29
+0-15 años,Extranjeros,Hombres,2021,17393.0,29
+0-15 años,Extranjeros,Mujeres,2021,16519.0,29
+16-64 años,Españoles,Hombres,2021,463676.0,29
+16-64 años,Españoles,Mujeres,2021,466559.0,29
+16-64 años,Extranjeros,Hombres,2021,90555.0,29
+16-64 años,Extranjeros,Mujeres,2021,99045.0,29
+65 y más,Españoles,Hombres,2021,110561.0,29
+65 y más,Españoles,Mujeres,2021,142131.0,29
+65 y más,Extranjeros,Hombres,2021,24678.0,29
+65 y más,Extranjeros,Mujeres,2021,24811.0,29
+0-15 años,Españoles,Hombres,2021,118916.0,30
+0-15 años,Españoles,Mujeres,2021,112152.0,30
+0-15 años,Extranjeros,Hombres,2021,20462.0,30
+0-15 años,Extranjeros,Mujeres,2021,19106.0,30
+16-64 años,Españoles,Hombres,2021,422552.0,30
+16-64 años,Españoles,Mujeres,2021,416001.0,30
+16-64 años,Extranjeros,Hombres,2021,91635.0,30
+16-64 años,Extranjeros,Mujeres,2021,75351.0,30
+65 y más,Españoles,Hombres,2021,98785.0,30
+65 y más,Españoles,Mujeres,2021,127756.0,30
+65 y más,Extranjeros,Hombres,2021,8012.0,30
+65 y más,Extranjeros,Mujeres,2021,7758.0,30
+0-15 años,Españoles,Hombres,2021,48073.0,31
+0-15 años,Españoles,Mujeres,2021,45784.0,31
+0-15 años,Extranjeros,Hombres,2021,6609.0,31
+0-15 años,Extranjeros,Mujeres,2021,6326.0,31
+16-64 años,Españoles,Hombres,2021,185854.0,31
+16-64 años,Españoles,Mujeres,2021,180944.0,31
+16-64 años,Extranjeros,Hombres,2021,28431.0,31
+16-64 años,Extranjeros,Mujeres,2021,27575.0,31
+65 y más,Españoles,Hombres,2021,57493.0,31
+65 y más,Españoles,Mujeres,2021,71948.0,31
+65 y más,Extranjeros,Hombres,2021,1005.0,31
+65 y más,Extranjeros,Mujeres,2021,1495.0,31
+0-15 años,Españoles,Hombres,2021,15483.0,32
+0-15 años,Españoles,Mujeres,2021,14520.0,32
+0-15 años,Extranjeros,Hombres,2021,893.0,32
+0-15 años,Extranjeros,Mujeres,2021,909.0,32
+16-64 años,Españoles,Hombres,2021,82085.0,32
+16-64 años,Españoles,Mujeres,2021,82030.0,32
+16-64 años,Extranjeros,Hombres,2021,6056.0,32
+16-64 años,Extranjeros,Mujeres,2021,6780.0,32
+65 y más,Españoles,Hombres,2021,41321.0,32
+65 y más,Españoles,Mujeres,2021,53727.0,32
+65 y más,Extranjeros,Hombres,2021,657.0,32
+65 y más,Extranjeros,Mujeres,2021,762.0,32
+0-15 años,Españoles,Hombres,2021,9054.0,34
+0-15 años,Españoles,Mujeres,2021,8565.0,34
+0-15 años,Extranjeros,Hombres,2021,684.0,34
+0-15 años,Extranjeros,Mujeres,2021,582.0,34
+16-64 años,Españoles,Hombres,2021,47648.0,34
+16-64 años,Españoles,Mujeres,2021,45232.0,34
+16-64 años,Extranjeros,Hombres,2021,2798.0,34
+16-64 años,Extranjeros,Mujeres,2021,3008.0,34
+65 y más,Españoles,Hombres,2021,18547.0,34
+65 y más,Españoles,Mujeres,2021,22750.0,34
+65 y más,Extranjeros,Hombres,2021,110.0,34
+65 y más,Extranjeros,Mujeres,2021,145.0,34
+0-15 años,Españoles,Hombres,2021,70933.0,35
+0-15 años,Españoles,Mujeres,2021,67356.0,35
+0-15 años,Extranjeros,Hombres,2021,8373.0,35
+0-15 años,Extranjeros,Mujeres,2021,7850.0,35
+16-64 años,Españoles,Hombres,2021,346141.0,35
+16-64 años,Españoles,Mujeres,2021,338691.0,35
+16-64 años,Extranjeros,Hombres,2021,55196.0,35
+16-64 años,Extranjeros,Mujeres,2021,55903.0,35
+65 y más,Españoles,Hombres,2021,72359.0,35
+65 y más,Españoles,Mujeres,2021,89161.0,35
+65 y más,Extranjeros,Hombres,2021,8279.0,35
+65 y más,Extranjeros,Mujeres,2021,8297.0,35
+0-15 años,Españoles,Hombres,2021,62554.0,36
+0-15 años,Españoles,Mujeres,2021,58437.0,36
+0-15 años,Extranjeros,Hombres,2021,2239.0,36
+0-15 años,Extranjeros,Mujeres,2021,2214.0,36
+16-64 años,Españoles,Hombres,2021,283575.0,36
+16-64 años,Españoles,Mujeres,2021,285567.0,36
+16-64 años,Extranjeros,Hombres,2021,14751.0,36
+16-64 años,Extranjeros,Mujeres,2021,16113.0,36
+65 y más,Españoles,Hombres,2021,91569.0,36
+65 y más,Españoles,Mujeres,2021,124555.0,36
+65 y más,Extranjeros,Hombres,2021,1222.0,36
+65 y más,Extranjeros,Mujeres,2021,1479.0,36
+0-15 años,Españoles,Hombres,2021,20868.0,26
+0-15 años,Españoles,Mujeres,2021,19687.0,26
+0-15 años,Extranjeros,Hombres,2021,4088.0,26
+0-15 años,Extranjeros,Mujeres,2021,3801.0,26
+16-64 años,Españoles,Hombres,2021,87004.0,26
+16-64 años,Españoles,Mujeres,2021,84910.0,26
+16-64 años,Extranjeros,Hombres,2021,15688.0,26
+16-64 años,Extranjeros,Mujeres,2021,15914.0,26
+65 y más,Españoles,Hombres,2021,29641.0,26
+65 y más,Españoles,Mujeres,2021,36795.0,26
+65 y más,Extranjeros,Hombres,2021,534.0,26
+65 y más,Extranjeros,Mujeres,2021,866.0,26
+0-15 años,Españoles,Hombres,2021,19175.0,37
+0-15 años,Españoles,Mujeres,2021,18017.0,37
+0-15 años,Extranjeros,Hombres,2021,981.0,37
+0-15 años,Extranjeros,Mujeres,2021,1088.0,37
+16-64 años,Españoles,Hombres,2021,94346.0,37
+16-64 años,Españoles,Mujeres,2021,93439.0,37
+16-64 años,Extranjeros,Hombres,2021,5807.0,37
+16-64 años,Extranjeros,Mujeres,2021,6669.0,37
+65 y más,Españoles,Hombres,2021,38255.0,37
+65 y más,Españoles,Mujeres,2021,48837.0,37
+65 y más,Extranjeros,Hombres,2021,310.0,37
+65 y más,Extranjeros,Mujeres,2021,414.0,37
+0-15 años,Españoles,Hombres,2021,63933.0,38
+0-15 años,Españoles,Mujeres,2021,60617.0,38
+0-15 años,Extranjeros,Hombres,2021,8270.0,38
+0-15 años,Extranjeros,Mujeres,2021,7880.0,38
+16-64 años,Españoles,Hombres,2021,307283.0,38
+16-64 años,Españoles,Mujeres,2021,305648.0,38
+16-64 años,Extranjeros,Hombres,2021,52369.0,38
+16-64 años,Extranjeros,Mujeres,2021,55242.0,38
+65 y más,Españoles,Hombres,2021,71284.0,38
+65 y más,Españoles,Mujeres,2021,91712.0,38
+65 y más,Extranjeros,Hombres,2021,9760.0,38
+65 y más,Extranjeros,Mujeres,2021,10407.0,38
+0-15 años,Españoles,Hombres,2021,9134.0,40
+0-15 años,Españoles,Mujeres,2021,8681.0,40
+0-15 años,Extranjeros,Hombres,2021,1693.0,40
+0-15 años,Extranjeros,Mujeres,2021,1595.0,40
+16-64 años,Españoles,Hombres,2021,43716.0,40
+16-64 años,Españoles,Mujeres,2021,40104.0,40
+16-64 años,Extranjeros,Hombres,2021,6846.0,40
+16-64 años,Extranjeros,Mujeres,2021,7261.0,40
+65 y más,Españoles,Hombres,2021,15425.0,40
+65 y más,Españoles,Mujeres,2021,18581.0,40
+65 y más,Extranjeros,Hombres,2021,257.0,40
+65 y más,Extranjeros,Mujeres,2021,370.0,40
+0-15 años,Españoles,Hombres,2021,165644.0,41
+0-15 años,Españoles,Mujeres,2021,156142.0,41
+0-15 años,Extranjeros,Hombres,2021,5323.0,41
+0-15 años,Extranjeros,Mujeres,2021,5177.0,41
+16-64 años,Españoles,Hombres,2021,609628.0,41
+16-64 años,Españoles,Mujeres,2021,610730.0,41
+16-64 años,Extranjeros,Hombres,2021,29313.0,41
+16-64 años,Extranjeros,Mujeres,2021,34223.0,41
+65 y más,Españoles,Hombres,2021,139710.0,41
+65 y más,Españoles,Mujeres,2021,188472.0,41
+65 y más,Extranjeros,Hombres,2021,1465.0,41
+65 y más,Extranjeros,Mujeres,2021,2025.0,41
+0-15 años,Españoles,Hombres,2021,5096.0,42
+0-15 años,Españoles,Mujeres,2021,4791.0,42
+0-15 años,Extranjeros,Hombres,2021,808.0,42
+0-15 años,Extranjeros,Mujeres,2021,767.0,42
+16-64 años,Españoles,Hombres,2021,25008.0,42
+16-64 años,Españoles,Mujeres,2021,22895.0,42
+16-64 años,Extranjeros,Hombres,2021,3658.0,42
+16-64 años,Extranjeros,Mujeres,2021,3283.0,42
+65 y más,Españoles,Hombres,2021,10247.0,42
+65 y más,Españoles,Mujeres,2021,11953.0,42
+65 y más,Extranjeros,Hombres,2021,103.0,42
+65 y más,Extranjeros,Mujeres,2021,138.0,42
+0-15 años,Españoles,Hombres,2021,56970.0,43
+0-15 años,Españoles,Mujeres,2021,53276.0,43
+0-15 años,Extranjeros,Hombres,2021,12254.0,43
+0-15 años,Extranjeros,Mujeres,2021,11808.0,43
+16-64 años,Españoles,Hombres,2021,215246.0,43
+16-64 años,Españoles,Mujeres,2021,209209.0,43
+16-64 años,Extranjeros,Hombres,2021,54885.0,43
+16-64 años,Extranjeros,Mujeres,2021,50084.0,43
+65 y más,Españoles,Hombres,2021,67304.0,43
+65 y más,Españoles,Mujeres,2021,82819.0,43
+65 y más,Extranjeros,Hombres,2021,3997.0,43
+65 y más,Extranjeros,Mujeres,2021,4457.0,43
+0-15 años,Españoles,Hombres,2021,7921.0,44
+0-15 años,Españoles,Mujeres,2021,7608.0,44
+0-15 años,Extranjeros,Hombres,2021,1503.0,44
+0-15 años,Extranjeros,Mujeres,2021,1483.0,44
+16-64 años,Españoles,Hombres,2021,37885.0,44
+16-64 años,Españoles,Mujeres,2021,34312.0,44
+16-64 años,Extranjeros,Hombres,2021,6153.0,44
+16-64 años,Extranjeros,Mujeres,2021,5619.0,44
+65 y más,Españoles,Hombres,2021,14610.0,44
+65 y más,Españoles,Mujeres,2021,16970.0,44
+65 y más,Extranjeros,Hombres,2021,215.0,44
+65 y más,Extranjeros,Mujeres,2021,266.0,44
+0-15 años,Españoles,Hombres,2021,54801.0,45
+0-15 años,Españoles,Mujeres,2021,51450.0,45
+0-15 años,Extranjeros,Hombres,2021,7106.0,45
+0-15 años,Extranjeros,Mujeres,2021,6909.0,45
+16-64 años,Españoles,Hombres,2021,208828.0,45
+16-64 años,Españoles,Mujeres,2021,196950.0,45
+16-64 años,Extranjeros,Hombres,2021,28317.0,45
+16-64 años,Extranjeros,Mujeres,2021,28052.0,45
+65 y más,Españoles,Hombres,2021,56369.0,45
+65 y más,Españoles,Mujeres,2021,68005.0,45
+65 y más,Extranjeros,Hombres,2021,997.0,45
+65 y más,Extranjeros,Mujeres,2021,1619.0,45
+0-15 años,Españoles,Hombres,2021,179771.0,46
+0-15 años,Españoles,Mujeres,2021,170230.0,46
+0-15 años,Extranjeros,Hombres,2021,23960.0,46
+0-15 años,Extranjeros,Mujeres,2021,21891.0,46
+16-64 años,Españoles,Hombres,2021,735588.0,46
+16-64 años,Españoles,Mujeres,2021,728512.0,46
+16-64 años,Extranjeros,Hombres,2021,113864.0,46
+16-64 años,Extranjeros,Mujeres,2021,113251.0,46
+65 y más,Españoles,Hombres,2021,207496.0,46
+65 y más,Españoles,Mujeres,2021,278667.0,46
+65 y más,Extranjeros,Hombres,2021,7282.0,46
+65 y más,Extranjeros,Mujeres,2021,8800.0,46
+0-15 años,Españoles,Hombres,2021,34084.0,47
+0-15 años,Españoles,Mujeres,2021,32417.0,47
+0-15 años,Extranjeros,Hombres,2021,2424.0,47
+0-15 años,Extranjeros,Mujeres,2021,2379.0,47
+16-64 años,Españoles,Hombres,2021,151311.0,47
+16-64 años,Españoles,Mujeres,2021,151343.0,47
+16-64 años,Extranjeros,Hombres,2021,11158.0,47
+16-64 años,Extranjeros,Mujeres,2021,11835.0,47
+65 y más,Españoles,Hombres,2021,53412.0,47
+65 y más,Españoles,Mujeres,2021,67934.0,47
+65 y más,Extranjeros,Hombres,2021,454.0,47
+65 y más,Extranjeros,Mujeres,2021,610.0,47
+0-15 años,Españoles,Hombres,2021,8129.0,49
+0-15 años,Españoles,Mujeres,2021,7583.0,49
+0-15 años,Extranjeros,Hombres,2021,529.0,49
+0-15 años,Extranjeros,Mujeres,2021,428.0,49
+16-64 años,Españoles,Hombres,2021,48849.0,49
+16-64 años,Españoles,Mujeres,2021,45638.0,49
+16-64 años,Extranjeros,Hombres,2021,2305.0,49
+16-64 años,Extranjeros,Mujeres,2021,2610.0,49
+65 y más,Españoles,Hombres,2021,23583.0,49
+65 y más,Españoles,Mujeres,2021,28697.0,49
+65 y más,Extranjeros,Hombres,2021,156.0,49
+65 y más,Extranjeros,Mujeres,2021,218.0,49
+0-15 años,Españoles,Hombres,2021,63663.0,50
+0-15 años,Españoles,Mujeres,2021,59890.0,50
+0-15 años,Extranjeros,Hombres,2021,10222.0,50
+0-15 años,Extranjeros,Mujeres,2021,9663.0,50
+16-64 años,Españoles,Hombres,2021,262950.0,50
+16-64 años,Españoles,Mujeres,2021,259156.0,50
+16-64 años,Extranjeros,Hombres,2021,47799.0,50
+16-64 años,Extranjeros,Mujeres,2021,46863.0,50
+65 y más,Españoles,Hombres,2021,87204.0,50
+65 y más,Españoles,Mujeres,2021,116303.0,50
+65 y más,Extranjeros,Hombres,2021,1516.0,50
+65 y más,Extranjeros,Mujeres,2021,2223.0,50
+0-15 años,Españoles,Hombres,2021,8428.0,51
+0-15 años,Españoles,Mujeres,2021,8152.0,51
+0-15 años,Extranjeros,Hombres,2021,381.0,51
+0-15 años,Extranjeros,Mujeres,2021,346.0,51
+16-64 años,Españoles,Hombres,2021,26687.0,51
+16-64 años,Españoles,Mujeres,2021,24886.0,51
+16-64 años,Extranjeros,Hombres,2021,2066.0,51
+16-64 años,Extranjeros,Mujeres,2021,2259.0,51
+65 y más,Españoles,Hombres,2021,4494.0,51
+65 y más,Españoles,Mujeres,2021,5503.0,51
+65 y más,Extranjeros,Hombres,2021,152.0,51
+65 y más,Extranjeros,Mujeres,2021,163.0,51
+0-15 años,Españoles,Hombres,2021,9033.0,52
+0-15 años,Españoles,Mujeres,2021,8666.0,52
+0-15 años,Extranjeros,Hombres,2021,1405.0,52
+0-15 años,Extranjeros,Mujeres,2021,1291.0,52
+16-64 años,Españoles,Hombres,2021,24646.0,52
+16-64 años,Españoles,Mujeres,2021,22897.0,52
+16-64 años,Extranjeros,Hombres,2021,4323.0,52
+16-64 años,Extranjeros,Mujeres,2021,4682.0,52
+65 y más,Españoles,Hombres,2021,3775.0,52
+65 y más,Españoles,Mujeres,2021,4633.0,52
+65 y más,Extranjeros,Hombres,2021,421.0,52
+65 y más,Extranjeros,Mujeres,2021,489.0,52
+0-15 años,Españoles,Hombres,2019,28513.0,02
+0-15 años,Españoles,Mujeres,2019,26515.0,02
+0-15 años,Extranjeros,Hombres,2019,2278.0,02
+0-15 años,Extranjeros,Mujeres,2019,2157.0,02
+16-64 años,Españoles,Hombres,2019,119164.0,02
+16-64 años,Españoles,Mujeres,2019,115270.0,02
+16-64 años,Extranjeros,Hombres,2019,10695.0,02
+16-64 años,Extranjeros,Mujeres,2019,8781.0,02
+65 y más,Españoles,Hombres,2019,32971.0,02
+65 y más,Españoles,Mujeres,2019,41148.0,02
+65 y más,Extranjeros,Hombres,2019,290.0,02
+65 y más,Extranjeros,Mujeres,2019,385.0,02
+0-15 años,Españoles,Hombres,2019,125807.0,03
+0-15 años,Españoles,Mujeres,2019,118118.0,03
+0-15 años,Extranjeros,Hombres,2019,24426.0,03
+0-15 años,Extranjeros,Mujeres,2019,23344.0,03
+16-64 años,Españoles,Hombres,2019,488464.0,03
+16-64 años,Españoles,Mujeres,2019,480081.0,03
+16-64 años,Extranjeros,Hombres,2019,116977.0,03
+16-64 años,Extranjeros,Mujeres,2019,114914.0,03
+65 y más,Españoles,Hombres,2019,127087.0,03
+65 y más,Españoles,Mujeres,2019,163672.0,03
+65 y más,Extranjeros,Hombres,2019,38154.0,03
+65 y más,Extranjeros,Mujeres,2019,37639.0,03
+0-15 años,Españoles,Hombres,2019,53087.0,04
+0-15 años,Españoles,Mujeres,2019,50402.0,04
+0-15 años,Extranjeros,Hombres,2019,13280.0,04
+0-15 años,Extranjeros,Mujeres,2019,12602.0,04
+16-64 años,Españoles,Hombres,2019,189308.0,04
+16-64 años,Españoles,Mujeres,2019,184805.0,04
+16-64 años,Extranjeros,Hombres,2019,62493.0,04
+16-64 años,Extranjeros,Mujeres,2019,45278.0,04
+65 y más,Españoles,Hombres,2019,41168.0,04
+65 y más,Españoles,Mujeres,2019,52142.0,04
+65 y más,Extranjeros,Hombres,2019,6365.0,04
+65 y más,Extranjeros,Mujeres,2019,5890.0,04
+0-15 años,Españoles,Hombres,2019,23942.0,01
+0-15 años,Españoles,Mujeres,2019,22401.0,01
+0-15 años,Extranjeros,Hombres,2019,3121.0,01
+0-15 años,Extranjeros,Mujeres,2019,2934.0,01
+16-64 años,Españoles,Hombres,2019,93644.0,01
+16-64 años,Españoles,Mujeres,2019,93074.0,01
+16-64 años,Extranjeros,Hombres,2019,12095.0,01
+16-64 años,Extranjeros,Mujeres,2019,11437.0,01
+65 y más,Españoles,Hombres,2019,30425.0,01
+65 y más,Españoles,Mujeres,2019,37728.0,01
+65 y más,Extranjeros,Hombres,2019,272.0,01
+65 y más,Extranjeros,Mujeres,2019,476.0,01
+0-15 años,Españoles,Hombres,2019,58440.0,33
+0-15 años,Españoles,Mujeres,2019,55289.0,33
+0-15 años,Extranjeros,Hombres,2019,2871.0,33
+0-15 años,Extranjeros,Mujeres,2019,2737.0,33
+16-64 años,Españoles,Hombres,2019,301546.0,33
+16-64 años,Españoles,Mujeres,2019,304914.0,33
+16-64 años,Extranjeros,Hombres,2019,15609.0,33
+16-64 años,Extranjeros,Mujeres,2019,18401.0,33
+65 y más,Españoles,Hombres,2019,108815.0,33
+65 y más,Españoles,Mujeres,2019,152170.0,33
+65 y más,Extranjeros,Hombres,2019,856.0,33
+65 y más,Extranjeros,Mujeres,2019,1152.0,33
+0-15 años,Españoles,Hombres,2019,9387.0,05
+0-15 años,Españoles,Mujeres,2019,8753.0,05
+0-15 años,Extranjeros,Hombres,2019,988.0,05
+0-15 años,Extranjeros,Mujeres,2019,914.0,05
+16-64 años,Españoles,Hombres,2019,46432.0,05
+16-64 años,Españoles,Mujeres,2019,42915.0,05
+16-64 años,Extranjeros,Hombres,2019,3423.0,05
+16-64 años,Extranjeros,Mujeres,2019,3798.0,05
+65 y más,Españoles,Hombres,2019,18700.0,05
+65 y más,Españoles,Mujeres,2019,22004.0,05
+65 y más,Extranjeros,Hombres,2019,141.0,05
+65 y más,Extranjeros,Mujeres,2019,185.0,05
+0-15 años,Españoles,Hombres,2019,51393.0,06
+0-15 años,Españoles,Mujeres,2019,48708.0,06
+0-15 años,Extranjeros,Hombres,2019,1655.0,06
+0-15 años,Extranjeros,Mujeres,2019,1573.0,06
+16-64 años,Españoles,Hombres,2019,215536.0,06
+16-64 años,Españoles,Mujeres,2019,208499.0,06
+16-64 años,Extranjeros,Hombres,2019,7218.0,06
+16-64 años,Extranjeros,Mujeres,2019,8211.0,06
+65 y más,Españoles,Hombres,2019,56934.0,06
+65 y más,Españoles,Mujeres,2019,73030.0,06
+65 y más,Extranjeros,Hombres,2019,376.0,06
+65 y más,Extranjeros,Mujeres,2019,426.0,06
+0-15 años,Españoles,Hombres,2019,79945.0,07
+0-15 años,Españoles,Mujeres,2019,75355.0,07
+0-15 años,Extranjeros,Hombres,2019,15163.0,07
+0-15 años,Extranjeros,Mujeres,2019,14560.0,07
+16-64 años,Españoles,Hombres,2019,317084.0,07
+16-64 años,Españoles,Mujeres,2019,308383.0,07
+16-64 años,Extranjeros,Hombres,2019,81176.0,07
+16-64 años,Extranjeros,Mujeres,2019,79150.0,07
+65 y más,Españoles,Hombres,2019,72522.0,07
+65 y más,Españoles,Mujeres,2019,91184.0,07
+65 y más,Extranjeros,Hombres,2019,6867.0,07
+65 y más,Extranjeros,Mujeres,2019,8071.0,07
+0-15 años,Españoles,Hombres,2019,406857.0,08
+0-15 años,Españoles,Mujeres,2019,384000.0,08
+0-15 años,Extranjeros,Hombres,2019,63456.0,08
+0-15 años,Extranjeros,Mujeres,2019,59207.0,08
+16-64 años,Españoles,Hombres,2019,1506278.0,08
+16-64 años,Españoles,Mujeres,2019,1522017.0,08
+16-64 años,Extranjeros,Hombres,2019,334255.0,08
+16-64 años,Extranjeros,Mujeres,2019,319265.0,08
+65 y más,Españoles,Hombres,2019,440376.0,08
+65 y más,Españoles,Mujeres,2019,601342.0,08
+65 y más,Extranjeros,Hombres,2019,11467.0,08
+65 y más,Extranjeros,Mujeres,2019,16059.0,08
+0-15 años,Españoles,Hombres,2019,76997.0,48
+0-15 años,Españoles,Mujeres,2019,73069.0,48
+0-15 años,Extranjeros,Hombres,2019,5979.0,48
+0-15 años,Extranjeros,Mujeres,2019,5643.0,48
+16-64 años,Españoles,Hombres,2019,331539.0,48
+16-64 años,Españoles,Mujeres,2019,332647.0,48
+16-64 años,Extranjeros,Hombres,2019,31962.0,48
+16-64 años,Extranjeros,Mujeres,2019,32635.0,48
+65 y más,Españoles,Hombres,2019,108966.0,48
+65 y más,Españoles,Mujeres,2019,151255.0,48
+65 y más,Extranjeros,Hombres,2019,769.0,48
+65 y más,Extranjeros,Mujeres,2019,1190.0,48
+0-15 años,Españoles,Hombres,2019,22956.0,09
+0-15 años,Españoles,Mujeres,2019,21713.0,09
+0-15 años,Extranjeros,Hombres,2019,2206.0,09
+0-15 años,Extranjeros,Mujeres,2019,2169.0,09
+16-64 años,Españoles,Hombres,2019,104176.0,09
+16-64 años,Españoles,Mujeres,2019,97702.0,09
+16-64 años,Extranjeros,Hombres,2019,10599.0,09
+16-64 años,Extranjeros,Mujeres,2019,10725.0,09
+65 y más,Españoles,Hombres,2019,37935.0,09
+65 y más,Españoles,Mujeres,2019,46006.0,09
+65 y más,Extranjeros,Hombres,2019,358.0,09
+65 y más,Extranjeros,Mujeres,2019,413.0,09
+0-15 años,Españoles,Hombres,2019,25562.0,10
+0-15 años,Españoles,Mujeres,2019,24269.0,10
+0-15 años,Extranjeros,Hombres,2019,1073.0,10
+0-15 años,Extranjeros,Mujeres,2019,1024.0,10
+16-64 años,Españoles,Hombres,2019,123865.0,10
+16-64 años,Españoles,Mujeres,2019,117620.0,10
+16-64 años,Extranjeros,Hombres,2019,5182.0,10
+16-64 años,Extranjeros,Mujeres,2019,5104.0,10
+65 y más,Españoles,Hombres,2019,39306.0,10
+65 y más,Españoles,Mujeres,2019,50365.0,10
+65 y más,Extranjeros,Hombres,2019,400.0,10
+65 y más,Extranjeros,Mujeres,2019,381.0,10
+0-15 años,Españoles,Hombres,2019,105764.0,11
+0-15 años,Españoles,Mujeres,2019,99605.0,11
+0-15 años,Extranjeros,Hombres,2019,3400.0,11
+0-15 años,Extranjeros,Mujeres,2019,3282.0,11
+16-64 años,Españoles,Hombres,2019,395813.0,11
+16-64 años,Españoles,Mujeres,2019,393181.0,11
+16-64 años,Extranjeros,Hombres,2019,17121.0,11
+16-64 años,Extranjeros,Mujeres,2019,17692.0,11
+65 y más,Españoles,Hombres,2019,87717.0,11
+65 y más,Españoles,Mujeres,2019,112750.0,11
+65 y más,Extranjeros,Hombres,2019,1976.0,11
+65 y más,Extranjeros,Mujeres,2019,1854.0,11
+0-15 años,Españoles,Hombres,2019,39805.0,39
+0-15 años,Españoles,Mujeres,2019,38023.0,39
+0-15 años,Extranjeros,Hombres,2019,2418.0,39
+0-15 años,Extranjeros,Mujeres,2019,2304.0,39
+16-64 años,Españoles,Hombres,2019,172824.0,39
+16-64 años,Españoles,Mujeres,2019,172213.0,39
+16-64 años,Extranjeros,Hombres,2019,12722.0,39
+16-64 años,Extranjeros,Mujeres,2019,13869.0,39
+65 y más,Españoles,Hombres,2019,53461.0,39
+65 y más,Españoles,Mujeres,2019,71969.0,39
+65 y más,Extranjeros,Hombres,2019,571.0,39
+65 y más,Extranjeros,Mujeres,2019,899.0,39
+0-15 años,Españoles,Hombres,2019,40054.0,12
+0-15 años,Españoles,Mujeres,2019,37751.0,12
+0-15 años,Extranjeros,Hombres,2019,7958.0,12
+0-15 años,Extranjeros,Mujeres,2019,7190.0,12
+16-64 años,Españoles,Hombres,2019,158876.0,12
+16-64 años,Españoles,Mujeres,2019,152625.0,12
+16-64 años,Extranjeros,Hombres,2019,31749.0,12
+16-64 años,Extranjeros,Mujeres,2019,32546.0,12
+65 y más,Españoles,Hombres,2019,47314.0,12
+65 y más,Españoles,Mujeres,2019,59231.0,12
+65 y más,Extranjeros,Hombres,2019,2126.0,12
+65 y más,Extranjeros,Mujeres,2019,2542.0,12
+0-15 años,Españoles,Hombres,2019,35791.0,13
+0-15 años,Españoles,Mujeres,2019,34087.0,13
+0-15 años,Extranjeros,Hombres,2019,2772.0,13
+0-15 años,Extranjeros,Mujeres,2019,2608.0,13
+16-64 años,Españoles,Hombres,2019,151651.0,13
+16-64 años,Españoles,Mujeres,2019,146008.0,13
+16-64 años,Extranjeros,Hombres,2019,11486.0,13
+16-64 años,Extranjeros,Mujeres,2019,11253.0,13
+65 y más,Españoles,Hombres,2019,42885.0,13
+65 y más,Españoles,Mujeres,2019,56492.0,13
+65 y más,Extranjeros,Hombres,2019,292.0,13
+65 y más,Extranjeros,Mujeres,2019,436.0,13
+0-15 años,Españoles,Hombres,2019,61585.0,14
+0-15 años,Españoles,Mujeres,2019,57948.0,14
+0-15 años,Extranjeros,Hombres,2019,1668.0,14
+0-15 años,Extranjeros,Mujeres,2019,1593.0,14
+16-64 años,Españoles,Hombres,2019,248376.0,14
+16-64 años,Españoles,Mujeres,2019,244282.0,14
+16-64 años,Extranjeros,Hombres,2019,8107.0,14
+16-64 años,Extranjeros,Mujeres,2019,8876.0,14
+65 y más,Españoles,Hombres,2019,63664.0,14
+65 y más,Españoles,Mujeres,2019,86021.0,14
+65 y más,Extranjeros,Hombres,2019,390.0,14
+65 y más,Extranjeros,Mujeres,2019,469.0,14
+0-15 años,Españoles,Hombres,2019,72128.0,15
+0-15 años,Españoles,Mujeres,2019,67916.0,15
+0-15 años,Extranjeros,Hombres,2019,2502.0,15
+0-15 años,Extranjeros,Mujeres,2019,2349.0,15
+16-64 años,Españoles,Hombres,2019,330911.0,15
+16-64 años,Españoles,Mujeres,2019,337395.0,15
+16-64 años,Extranjeros,Hombres,2019,14500.0,15
+16-64 años,Extranjeros,Mujeres,2019,16531.0,15
+65 y más,Españoles,Hombres,2019,115501.0,15
+65 y más,Españoles,Mujeres,2019,157638.0,15
+65 y más,Extranjeros,Hombres,2019,928.0,15
+65 y más,Extranjeros,Mujeres,2019,1297.0,15
+0-15 años,Españoles,Hombres,2019,11236.0,16
+0-15 años,Españoles,Mujeres,2019,10956.0,16
+0-15 años,Extranjeros,Hombres,2019,2058.0,16
+0-15 años,Extranjeros,Mujeres,2019,1981.0,16
+16-64 años,Españoles,Hombres,2019,56430.0,16
+16-64 años,Españoles,Mujeres,2019,51754.0,16
+16-64 años,Extranjeros,Hombres,2019,8203.0,16
+16-64 años,Extranjeros,Mujeres,2019,7872.0,16
+65 y más,Españoles,Hombres,2019,20433.0,16
+65 y más,Españoles,Mujeres,2019,24949.0,16
+65 y más,Extranjeros,Hombres,2019,182.0,16
+65 y más,Extranjeros,Mujeres,2019,275.0,16
+0-15 años,Españoles,Hombres,2019,52413.0,20
+0-15 años,Españoles,Mujeres,2019,49541.0,20
+0-15 años,Extranjeros,Hombres,2019,4822.0,20
+0-15 años,Extranjeros,Mujeres,2019,4390.0,20
+16-64 años,Españoles,Hombres,2019,205401.0,20
+16-64 años,Españoles,Mujeres,2019,201907.0,20
+16-64 años,Extranjeros,Hombres,2019,21967.0,20
+16-64 años,Extranjeros,Mujeres,2019,22471.0,20
+65 y más,Españoles,Hombres,2019,68054.0,20
+65 y más,Españoles,Mujeres,2019,90965.0,20
+65 y más,Extranjeros,Hombres,2019,706.0,20
+65 y más,Extranjeros,Mujeres,2019,939.0,20
+0-15 años,Españoles,Hombres,2019,54248.0,17
+0-15 años,Españoles,Mujeres,2019,51376.0,17
+0-15 años,Extranjeros,Hombres,2019,13971.0,17
+0-15 años,Extranjeros,Mujeres,2019,13168.0,17
+16-64 años,Españoles,Hombres,2019,195944.0,17
+16-64 años,Españoles,Mujeres,2019,190175.0,17
+16-64 años,Extranjeros,Hombres,2019,59832.0,17
+16-64 años,Extranjeros,Mujeres,2019,54906.0,17
+65 y más,Españoles,Hombres,2019,56410.0,17
+65 y más,Españoles,Mujeres,2019,70583.0,17
+65 y más,Extranjeros,Hombres,2019,4893.0,17
+65 y más,Extranjeros,Mujeres,2019,5538.0,17
+0-15 años,Españoles,Hombres,2019,71218.0,18
+0-15 años,Españoles,Mujeres,2019,67243.0,18
+0-15 años,Extranjeros,Hombres,2019,4280.0,18
+0-15 años,Extranjeros,Mujeres,2019,4016.0,18
+16-64 años,Españoles,Hombres,2019,279046.0,18
+16-64 años,Españoles,Mujeres,2019,277519.0,18
+16-64 años,Extranjeros,Hombres,2019,24732.0,18
+16-64 años,Extranjeros,Mujeres,2019,22594.0,18
+65 y más,Españoles,Hombres,2019,68599.0,18
+65 y más,Españoles,Mujeres,2019,90084.0,18
+65 y más,Extranjeros,Hombres,2019,2680.0,18
+65 y más,Extranjeros,Mujeres,2019,2667.0,18
+0-15 años,Españoles,Hombres,2019,20148.0,19
+0-15 años,Españoles,Mujeres,2019,19231.0,19
+0-15 años,Extranjeros,Hombres,2019,3151.0,19
+0-15 años,Extranjeros,Mujeres,2019,2909.0,19
+16-64 años,Españoles,Hombres,2019,75205.0,19
+16-64 años,Españoles,Mujeres,2019,70015.0,19
+16-64 años,Extranjeros,Hombres,2019,12995.0,19
+16-64 años,Extranjeros,Mujeres,2019,12739.0,19
+65 y más,Españoles,Hombres,2019,18616.0,19
+65 y más,Españoles,Mujeres,2019,21681.0,19
+65 y más,Extranjeros,Hombres,2019,419.0,19
+65 y más,Extranjeros,Mujeres,2019,653.0,19
+0-15 años,Españoles,Hombres,2019,41364.0,21
+0-15 años,Españoles,Mujeres,2019,38791.0,21
+0-15 años,Extranjeros,Hombres,2019,3145.0,21
+0-15 años,Extranjeros,Mujeres,2019,2876.0,21
+16-64 años,Españoles,Hombres,2019,158091.0,21
+16-64 años,Españoles,Mujeres,2019,153620.0,21
+16-64 años,Extranjeros,Hombres,2019,17489.0,21
+16-64 años,Extranjeros,Mujeres,2019,19664.0,21
+65 y más,Españoles,Hombres,2019,37463.0,21
+65 y más,Españoles,Mujeres,2019,47703.0,21
+65 y más,Extranjeros,Hombres,2019,861.0,21
+65 y más,Extranjeros,Mujeres,2019,803.0,21
+0-15 años,Españoles,Hombres,2019,14118.0,22
+0-15 años,Españoles,Mujeres,2019,13659.0,22
+0-15 años,Extranjeros,Hombres,2019,2214.0,22
+0-15 años,Extranjeros,Mujeres,2019,1947.0,22
+16-64 años,Españoles,Hombres,2019,61867.0,22
+16-64 años,Españoles,Mujeres,2019,56932.0,22
+16-64 años,Extranjeros,Hombres,2019,10611.0,22
+16-64 años,Extranjeros,Mujeres,2019,9615.0,22
+65 y más,Españoles,Hombres,2019,22098.0,22
+65 y más,Españoles,Mujeres,2019,26711.0,22
+65 y más,Extranjeros,Hombres,2019,320.0,22
+65 y más,Extranjeros,Mujeres,2019,369.0,22
+0-15 años,Españoles,Hombres,2019,48148.0,23
+0-15 años,Españoles,Mujeres,2019,45724.0,23
+0-15 años,Extranjeros,Hombres,2019,1105.0,23
+0-15 años,Extranjeros,Mujeres,2019,1080.0,23
+16-64 años,Españoles,Hombres,2019,205221.0,23
+16-64 años,Españoles,Mujeres,2019,198108.0,23
+16-64 años,Extranjeros,Hombres,2019,6811.0,23
+16-64 años,Extranjeros,Mujeres,2019,5695.0,23
+65 y más,Españoles,Hombres,2019,51736.0,23
+65 y más,Españoles,Mujeres,2019,69255.0,23
+65 y más,Extranjeros,Hombres,2019,335.0,23
+65 y más,Extranjeros,Mujeres,2019,346.0,23
+0-15 años,Españoles,Hombres,2019,25452.0,24
+0-15 años,Españoles,Mujeres,2019,24195.0,24
+0-15 años,Extranjeros,Hombres,2019,1426.0,24
+0-15 años,Extranjeros,Mujeres,2019,1310.0,24
+16-64 años,Españoles,Hombres,2019,135742.0,24
+16-64 años,Españoles,Mujeres,2019,132010.0,24
+16-64 años,Extranjeros,Hombres,2019,7469.0,24
+16-64 años,Extranjeros,Mujeres,2019,8010.0,24
+65 y más,Españoles,Hombres,2019,53261.0,24
+65 y más,Españoles,Mujeres,2019,70232.0,24
+65 y más,Extranjeros,Hombres,2019,394.0,24
+65 y más,Extranjeros,Mujeres,2019,500.0,24
+0-15 años,Españoles,Hombres,2019,28783.0,25
+0-15 años,Españoles,Mujeres,2019,27569.0,25
+0-15 años,Extranjeros,Hombres,2019,7067.0,25
+0-15 años,Extranjeros,Mujeres,2019,6464.0,25
+16-64 años,Españoles,Hombres,2019,113309.0,25
+16-64 años,Españoles,Mujeres,2019,107028.0,25
+16-64 años,Extranjeros,Hombres,2019,34510.0,25
+16-64 años,Extranjeros,Mujeres,2019,26048.0,25
+65 y más,Españoles,Hombres,2019,36525.0,25
+65 y más,Españoles,Mujeres,2019,46074.0,25
+65 y más,Extranjeros,Hombres,2019,684.0,25
+65 y más,Extranjeros,Mujeres,2019,869.0,25
+0-15 años,Españoles,Hombres,2019,17022.0,27
+0-15 años,Españoles,Mujeres,2019,16504.0,27
+0-15 años,Extranjeros,Hombres,2019,1046.0,27
+0-15 años,Extranjeros,Mujeres,2019,1095.0,27
+16-64 años,Españoles,Hombres,2019,93522.0,27
+16-64 años,Españoles,Mujeres,2019,92561.0,27
+16-64 años,Extranjeros,Hombres,2019,6073.0,27
+16-64 años,Extranjeros,Mujeres,2019,5760.0,27
+65 y más,Españoles,Hombres,2019,41749.0,27
+65 y más,Españoles,Mujeres,2019,53645.0,27
+65 y más,Extranjeros,Hombres,2019,274.0,27
+65 y más,Extranjeros,Mujeres,2019,336.0,27
+0-15 años,Españoles,Hombres,2019,490790.0,28
+0-15 años,Españoles,Mujeres,2019,465776.0,28
+0-15 años,Extranjeros,Hombres,2019,66003.0,28
+0-15 años,Extranjeros,Mujeres,2019,62715.0,28
+16-64 años,Españoles,Hombres,2019,1802900.0,28
+16-64 años,Españoles,Mujeres,2019,1874951.0,28
+16-64 años,Extranjeros,Hombres,2019,337049.0,28
+16-64 años,Extranjeros,Mujeres,2019,382171.0,28
+65 y más,Españoles,Hombres,2019,477538.0,28
+65 y más,Españoles,Mujeres,2019,669620.0,28
+65 y más,Extranjeros,Hombres,2019,13032.0,28
+65 y más,Extranjeros,Mujeres,2019,20849.0,28
+0-15 años,Españoles,Hombres,2019,126511.0,29
+0-15 años,Españoles,Mujeres,2019,120099.0,29
+0-15 años,Extranjeros,Hombres,2019,16675.0,29
+0-15 años,Extranjeros,Mujeres,2019,15696.0,29
+16-64 años,Españoles,Hombres,2019,459456.0,29
+16-64 años,Españoles,Mujeres,2019,461876.0,29
+16-64 años,Extranjeros,Hombres,2019,83671.0,29
+16-64 años,Extranjeros,Mujeres,2019,91250.0,29
+65 y más,Españoles,Hombres,2019,104967.0,29
+65 y más,Españoles,Mujeres,2019,135723.0,29
+65 y más,Extranjeros,Hombres,2019,23069.0,29
+65 y más,Extranjeros,Mujeres,2019,22792.0,29
+0-15 años,Españoles,Hombres,2019,120792.0,30
+0-15 años,Españoles,Mujeres,2019,113863.0,30
+0-15 años,Extranjeros,Hombres,2019,20754.0,30
+0-15 años,Extranjeros,Mujeres,2019,19343.0,30
+16-64 años,Españoles,Hombres,2019,417277.0,30
+16-64 años,Españoles,Mujeres,2019,411070.0,30
+16-64 años,Extranjeros,Hombres,2019,86403.0,30
+16-64 años,Extranjeros,Mujeres,2019,70993.0,30
+65 y más,Españoles,Hombres,2019,95419.0,30
+65 y más,Españoles,Mujeres,2019,124238.0,30
+65 y más,Extranjeros,Hombres,2019,6970.0,30
+65 y más,Extranjeros,Mujeres,2019,6776.0,30
+0-15 años,Españoles,Hombres,2019,49598.0,31
+0-15 años,Españoles,Mujeres,2019,47212.0,31
+0-15 años,Extranjeros,Hombres,2019,5860.0,31
+0-15 años,Extranjeros,Mujeres,2019,5596.0,31
+16-64 años,Españoles,Hombres,2019,185837.0,31
+16-64 años,Españoles,Mujeres,2019,181003.0,31
+16-64 años,Extranjeros,Hombres,2019,25721.0,31
+16-64 años,Extranjeros,Mujeres,2019,24996.0,31
+65 y más,Españoles,Hombres,2019,55790.0,31
+65 y más,Españoles,Mujeres,2019,70555.0,31
+65 y más,Extranjeros,Hombres,2019,825.0,31
+65 y más,Extranjeros,Mujeres,2019,1221.0,31
+0-15 años,Españoles,Hombres,2019,15912.0,32
+0-15 años,Españoles,Mujeres,2019,15031.0,32
+0-15 años,Extranjeros,Hombres,2019,808.0,32
+0-15 años,Extranjeros,Mujeres,2019,806.0,32
+16-64 años,Españoles,Hombres,2019,83723.0,32
+16-64 años,Españoles,Mujeres,2019,83439.0,32
+16-64 años,Extranjeros,Hombres,2019,5431.0,32
+16-64 años,Extranjeros,Mujeres,2019,5957.0,32
+65 y más,Españoles,Hombres,2019,41100.0,32
+65 y más,Españoles,Mujeres,2019,54275.0,32
+65 y más,Extranjeros,Hombres,2019,548.0,32
+65 y más,Extranjeros,Mujeres,2019,621.0,32
+0-15 años,Españoles,Hombres,2019,9313.0,34
+0-15 años,Españoles,Mujeres,2019,8824.0,34
+0-15 años,Extranjeros,Hombres,2019,637.0,34
+0-15 años,Extranjeros,Mujeres,2019,544.0,34
+16-64 años,Españoles,Hombres,2019,49271.0,34
+16-64 años,Españoles,Mujeres,2019,46324.0,34
+16-64 años,Extranjeros,Hombres,2019,2497.0,34
+16-64 años,Extranjeros,Mujeres,2019,2736.0,34
+65 y más,Españoles,Hombres,2019,18001.0,34
+65 y más,Españoles,Mujeres,2019,22635.0,34
+65 y más,Extranjeros,Hombres,2019,89.0,34
+65 y más,Extranjeros,Mujeres,2019,109.0,34
+0-15 años,Españoles,Hombres,2019,75372.0,35
+0-15 años,Españoles,Mujeres,2019,71684.0,35
+0-15 años,Extranjeros,Hombres,2019,8237.0,35
+0-15 años,Extranjeros,Mujeres,2019,7596.0,35
+16-64 años,Españoles,Hombres,2019,345185.0,35
+16-64 años,Españoles,Mujeres,2019,337078.0,35
+16-64 años,Extranjeros,Hombres,2019,53292.0,35
+16-64 años,Extranjeros,Mujeres,2019,54195.0,35
+65 y más,Españoles,Hombres,2019,68092.0,35
+65 y más,Españoles,Mujeres,2019,84435.0,35
+65 y más,Extranjeros,Hombres,2019,7596.0,35
+65 y más,Extranjeros,Mujeres,2019,7644.0,35
+0-15 años,Españoles,Hombres,2019,64843.0,36
+0-15 años,Españoles,Mujeres,2019,60598.0,36
+0-15 años,Extranjeros,Hombres,2019,1983.0,36
+0-15 años,Extranjeros,Mujeres,2019,1951.0,36
+16-64 años,Españoles,Hombres,2019,285445.0,36
+16-64 años,Españoles,Mujeres,2019,288237.0,36
+16-64 años,Extranjeros,Hombres,2019,13405.0,36
+16-64 años,Extranjeros,Mujeres,2019,14331.0,36
+65 y más,Españoles,Hombres,2019,88510.0,36
+65 y más,Españoles,Mujeres,2019,121026.0,36
+65 y más,Extranjeros,Hombres,2019,1100.0,36
+65 y más,Extranjeros,Mujeres,2019,1236.0,36
+0-15 años,Españoles,Hombres,2019,21517.0,26
+0-15 años,Españoles,Mujeres,2019,20443.0,26
+0-15 años,Extranjeros,Hombres,2019,3757.0,26
+0-15 años,Extranjeros,Mujeres,2019,3431.0,26
+16-64 años,Españoles,Hombres,2019,87288.0,26
+16-64 años,Españoles,Mujeres,2019,85174.0,26
+16-64 años,Extranjeros,Hombres,2019,14230.0,26
+16-64 años,Extranjeros,Mujeres,2019,14709.0,26
+65 y más,Españoles,Hombres,2019,28957.0,26
+65 y más,Españoles,Mujeres,2019,36189.0,26
+65 y más,Extranjeros,Hombres,2019,430.0,26
+65 y más,Extranjeros,Mujeres,2019,673.0,26
+0-15 años,Españoles,Hombres,2019,19952.0,37
+0-15 años,Españoles,Mujeres,2019,18782.0,37
+0-15 años,Extranjeros,Hombres,2019,909.0,37
+0-15 años,Extranjeros,Mujeres,2019,949.0,37
+16-64 años,Españoles,Hombres,2019,96188.0,37
+16-64 años,Españoles,Mujeres,2019,94798.0,37
+16-64 años,Extranjeros,Hombres,2019,4977.0,37
+16-64 años,Extranjeros,Mujeres,2019,5827.0,37
+65 y más,Españoles,Hombres,2019,38065.0,37
+65 y más,Españoles,Mujeres,2019,49047.0,37
+65 y más,Extranjeros,Hombres,2019,273.0,37
+65 y más,Extranjeros,Mujeres,2019,352.0,37
+0-15 años,Españoles,Hombres,2019,66718.0,38
+0-15 años,Españoles,Mujeres,2019,63293.0,38
+0-15 años,Extranjeros,Hombres,2019,8387.0,38
+0-15 años,Extranjeros,Mujeres,2019,7986.0,38
+16-64 años,Españoles,Hombres,2019,305903.0,38
+16-64 años,Españoles,Mujeres,2019,304078.0,38
+16-64 años,Extranjeros,Hombres,2019,50746.0,38
+16-64 años,Extranjeros,Mujeres,2019,52960.0,38
+65 y más,Españoles,Hombres,2019,67350.0,38
+65 y más,Españoles,Mujeres,2019,87167.0,38
+65 y más,Extranjeros,Hombres,2019,9093.0,38
+65 y más,Extranjeros,Mujeres,2019,9302.0,38
+0-15 años,Españoles,Hombres,2019,9365.0,40
+0-15 años,Españoles,Mujeres,2019,8795.0,40
+0-15 años,Extranjeros,Hombres,2019,1666.0,40
+0-15 años,Extranjeros,Mujeres,2019,1578.0,40
+16-64 años,Españoles,Hombres,2019,43835.0,40
+16-64 años,Españoles,Mujeres,2019,40081.0,40
+16-64 años,Extranjeros,Hombres,2019,6385.0,40
+16-64 años,Extranjeros,Mujeres,2019,6729.0,40
+65 y más,Españoles,Hombres,2019,15363.0,40
+65 y más,Españoles,Mujeres,2019,18826.0,40
+65 y más,Extranjeros,Hombres,2019,199.0,40
+65 y más,Extranjeros,Mujeres,2019,307.0,40
+0-15 años,Españoles,Hombres,2019,171561.0,41
+0-15 años,Españoles,Mujeres,2019,162100.0,41
+0-15 años,Extranjeros,Hombres,2019,4855.0,41
+0-15 años,Extranjeros,Mujeres,2019,4736.0,41
+16-64 años,Españoles,Hombres,2019,610696.0,41
+16-64 años,Españoles,Mujeres,2019,611468.0,41
+16-64 años,Extranjeros,Hombres,2019,26052.0,41
+16-64 años,Extranjeros,Mujeres,2019,30308.0,41
+65 y más,Españoles,Hombres,2019,134760.0,41
+65 y más,Españoles,Mujeres,2019,182917.0,41
+65 y más,Extranjeros,Hombres,2019,1288.0,41
+65 y más,Extranjeros,Mujeres,2019,1648.0,41
+0-15 años,Españoles,Hombres,2019,5212.0,42
+0-15 años,Españoles,Mujeres,2019,4999.0,42
+0-15 años,Extranjeros,Hombres,2019,680.0,42
+0-15 años,Extranjeros,Mujeres,2019,672.0,42
+16-64 años,Españoles,Hombres,2019,25370.0,42
+16-64 años,Españoles,Mujeres,2019,23062.0,42
+16-64 años,Extranjeros,Hombres,2019,3135.0,42
+16-64 años,Extranjeros,Mujeres,2019,2759.0,42
+65 y más,Españoles,Hombres,2019,10335.0,42
+65 y más,Españoles,Mujeres,2019,12220.0,42
+65 y más,Extranjeros,Hombres,2019,82.0,42
+65 y más,Extranjeros,Mujeres,2019,110.0,42
+0-15 años,Españoles,Hombres,2019,58183.0,43
+0-15 años,Españoles,Mujeres,2019,54461.0,43
+0-15 años,Extranjeros,Hombres,2019,11879.0,43
+0-15 años,Extranjeros,Mujeres,2019,11349.0,43
+16-64 años,Españoles,Hombres,2019,212518.0,43
+16-64 años,Españoles,Mujeres,2019,206995.0,43
+16-64 años,Extranjeros,Hombres,2019,50390.0,43
+16-64 años,Extranjeros,Mujeres,2019,46955.0,43
+65 y más,Españoles,Hombres,2019,64911.0,43
+65 y más,Españoles,Mujeres,2019,79828.0,43
+65 y más,Extranjeros,Hombres,2019,3377.0,43
+65 y más,Extranjeros,Mujeres,2019,3818.0,43
+0-15 años,Españoles,Hombres,2019,8064.0,44
+0-15 años,Españoles,Mujeres,2019,7705.0,44
+0-15 años,Extranjeros,Hombres,2019,1397.0,44
+0-15 años,Extranjeros,Mujeres,2019,1377.0,44
+16-64 años,Españoles,Hombres,2019,38046.0,44
+16-64 años,Españoles,Mujeres,2019,34531.0,44
+16-64 años,Extranjeros,Hombres,2019,5580.0,44
+16-64 años,Extranjeros,Mujeres,2019,5120.0,44
+65 y más,Españoles,Hombres,2019,14679.0,44
+65 y más,Españoles,Mujeres,2019,17267.0,44
+65 y más,Extranjeros,Hombres,2019,161.0,44
+65 y más,Extranjeros,Mujeres,2019,210.0,44
+0-15 años,Españoles,Hombres,2019,55482.0,45
+0-15 años,Españoles,Mujeres,2019,52258.0,45
+0-15 años,Extranjeros,Hombres,2019,6474.0,45
+0-15 años,Extranjeros,Mujeres,2019,6358.0,45
+16-64 años,Españoles,Hombres,2019,205858.0,45
+16-64 años,Españoles,Mujeres,2019,193650.0,45
+16-64 años,Extranjeros,Hombres,2019,25329.0,45
+16-64 años,Extranjeros,Mujeres,2019,25059.0,45
+65 y más,Españoles,Hombres,2019,55165.0,45
+65 y más,Españoles,Mujeres,2019,67205.0,45
+65 y más,Extranjeros,Hombres,2019,782.0,45
+65 y más,Extranjeros,Mujeres,2019,1224.0,45
+0-15 años,Españoles,Hombres,2019,186796.0,46
+0-15 años,Españoles,Mujeres,2019,177232.0,46
+0-15 años,Extranjeros,Hombres,2019,22277.0,46
+0-15 años,Extranjeros,Mujeres,2019,20301.0,46
+16-64 años,Españoles,Hombres,2019,735690.0,46
+16-64 años,Españoles,Mujeres,2019,728886.0,46
+16-64 años,Extranjeros,Hombres,2019,104223.0,46
+16-64 años,Extranjeros,Mujeres,2019,103610.0,46
+65 y más,Españoles,Hombres,2019,201263.0,46
+65 y más,Españoles,Mujeres,2019,271409.0,46
+65 y más,Extranjeros,Hombres,2019,6101.0,46
+65 y más,Extranjeros,Mujeres,2019,7336.0,46
+0-15 años,Españoles,Hombres,2019,35525.0,47
+0-15 años,Españoles,Mujeres,2019,33721.0,47
+0-15 años,Extranjeros,Hombres,2019,2141.0,47
+0-15 años,Extranjeros,Mujeres,2019,2034.0,47
+16-64 años,Españoles,Hombres,2019,153472.0,47
+16-64 años,Españoles,Mujeres,2019,153661.0,47
+16-64 años,Extranjeros,Hombres,2019,9710.0,47
+16-64 años,Extranjeros,Mujeres,2019,10098.0,47
+65 y más,Españoles,Hombres,2019,52018.0,47
+65 y más,Españoles,Mujeres,2019,66366.0,47
+65 y más,Extranjeros,Hombres,2019,350.0,47
+65 y más,Extranjeros,Mujeres,2019,450.0,47
+0-15 años,Españoles,Hombres,2019,8461.0,49
+0-15 años,Españoles,Mujeres,2019,8036.0,49
+0-15 años,Extranjeros,Hombres,2019,478.0,49
+0-15 años,Extranjeros,Mujeres,2019,410.0,49
+16-64 años,Españoles,Hombres,2019,50453.0,49
+16-64 años,Españoles,Mujeres,2019,46896.0,49
+16-64 años,Extranjeros,Hombres,2019,2192.0,49
+16-64 años,Extranjeros,Mujeres,2019,2409.0,49
+65 y más,Españoles,Hombres,2019,23629.0,49
+65 y más,Españoles,Mujeres,2019,29282.0,49
+65 y más,Extranjeros,Hombres,2019,128.0,49
+65 y más,Extranjeros,Mujeres,2019,165.0,49
+0-15 años,Españoles,Hombres,2019,65802.0,50
+0-15 años,Españoles,Mujeres,2019,62064.0,50
+0-15 años,Extranjeros,Hombres,2019,9681.0,50
+0-15 años,Extranjeros,Mujeres,2019,9112.0,50
+16-64 años,Españoles,Hombres,2019,264922.0,50
+16-64 años,Españoles,Mujeres,2019,260723.0,50
+16-64 años,Extranjeros,Hombres,2019,44157.0,50
+16-64 años,Extranjeros,Mujeres,2019,44447.0,50
+65 y más,Españoles,Hombres,2019,85803.0,50
+65 y más,Españoles,Mujeres,2019,115001.0,50
+65 y más,Extranjeros,Hombres,2019,1174.0,50
+65 y más,Extranjeros,Mujeres,2019,1807.0,50
+0-15 años,Españoles,Hombres,2019,8974.0,51
+0-15 años,Españoles,Mujeres,2019,8614.0,51
+0-15 años,Extranjeros,Hombres,2019,510.0,51
+0-15 años,Extranjeros,Mujeres,2019,446.0,51
+16-64 años,Españoles,Hombres,2019,26807.0,51
+16-64 años,Españoles,Mujeres,2019,24972.0,51
+16-64 años,Extranjeros,Hombres,2019,2216.0,51
+16-64 años,Extranjeros,Mujeres,2019,2309.0,51
+65 y más,Españoles,Hombres,2019,4247.0,51
+65 y más,Españoles,Mujeres,2019,5371.0,51
+65 y más,Extranjeros,Hombres,2019,158.0,51
+65 y más,Extranjeros,Mujeres,2019,153.0,51
+0-15 años,Españoles,Hombres,2019,9100.0,52
+0-15 años,Españoles,Mujeres,2019,8702.0,52
+0-15 años,Extranjeros,Hombres,2019,1656.0,52
+0-15 años,Extranjeros,Mujeres,2019,1468.0,52
+16-64 años,Españoles,Hombres,2019,24709.0,52
+16-64 años,Españoles,Mujeres,2019,22699.0,52
+16-64 años,Extranjeros,Hombres,2019,4497.0,52
+16-64 años,Extranjeros,Mujeres,2019,4780.0,52
+65 y más,Españoles,Hombres,2019,3510.0,52
+65 y más,Españoles,Mujeres,2019,4501.0,52
+65 y más,Extranjeros,Hombres,2019,422.0,52
+65 y más,Extranjeros,Mujeres,2019,443.0,52
